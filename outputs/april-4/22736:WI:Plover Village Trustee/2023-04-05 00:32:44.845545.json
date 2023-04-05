@@ -1,0 +1,177 @@
+{
+  "race_id": 22736,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "55",
+  "state_name": "Wisconsin",
+  "state": "WI",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Plover Village Trustee",
+  "district": "Ward 2",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T05:32:42.879Z",
+  "race_created": "2023-03-21T15:02:05.965Z",
+  "poll_close_time": "2023-04-04T21:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "48877": 298,
+      "48878": 272,
+      "48879": 257,
+      "48880": 351
+    },
+    "voting_data": {
+      "48877": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48878": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48879": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48880": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 1,
+      "reporting": 1
+    },
+    "called_candidates": [],
+    "call_times": [],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 3205,
+      "county": "Portage",
+      "fips": "55097",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 1,
+        "reporting": 1
+      },
+      "votes": {
+        "48877": 298,
+        "48878": 272,
+        "48879": 257,
+        "48880": 351
+      },
+      "voting_data": {
+        "48877": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48878": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48879": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48880": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 709,
+          "vcu": "Portage",
+          "fips": "55097",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 1,
+            "reporting": 1
+          },
+          "votes": {
+            "48877": 298,
+            "48878": 272,
+            "48879": 257,
+            "48880": 351
+          },
+          "voting_data": {
+            "48877": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48878": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48879": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48880": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 48877,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Darcy",
+      "last_name": "Grabski",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48878,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Sara",
+      "last_name": "Luchini",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48879,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Tim",
+      "last_name": "Cisewski",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48880,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Al",
+      "last_name": "Haga",
+      "incumbent": false
+    }
+  ]
+}

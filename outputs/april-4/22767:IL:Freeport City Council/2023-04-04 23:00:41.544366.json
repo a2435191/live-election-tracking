@@ -1,0 +1,138 @@
+{
+  "race_id": 22767,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "17",
+  "state_name": "Illinois",
+  "state": "IL",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Freeport City Council",
+  "district": "At-Large",
+  "party_id": 0,
+  "party": null,
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T04:00:32.494Z",
+  "race_created": "2023-03-22T14:56:07.940Z",
+  "poll_close_time": "2023-04-04T20:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "48942": 1232,
+      "48943": 1734
+    },
+    "voting_data": {
+      "48942": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48943": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 20,
+      "reporting": 20
+    },
+    "called_candidates": [
+      48943
+    ],
+    "call_times": [
+      {
+        "cand_id": 48943,
+        "called_time": "2023-04-05T04:00:32.000Z"
+      }
+    ],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 831,
+      "county": "Stephenson",
+      "fips": "17177",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 20,
+        "reporting": 20
+      },
+      "votes": {
+        "48942": 1232,
+        "48943": 1734
+      },
+      "voting_data": {
+        "48942": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48943": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 2163,
+          "vcu": "Stephenson",
+          "fips": "17177",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 20,
+            "reporting": 20
+          },
+          "votes": {
+            "48942": 1232,
+            "48943": 1734
+          },
+          "voting_data": {
+            "48942": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48943": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 48942,
+      "party_name": "Citizens",
+      "party_id": 97,
+      "first_name": "Troy",
+      "last_name": "Barr",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48943,
+      "party_name": "Democratic",
+      "party_id": 1,
+      "first_name": "Joy",
+      "last_name": "Sellers",
+      "incumbent": false
+    }
+  ]
+}

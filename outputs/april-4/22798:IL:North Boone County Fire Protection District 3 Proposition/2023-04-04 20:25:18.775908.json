@@ -1,0 +1,131 @@
+{
+  "race_id": 22798,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "17",
+  "state_name": "Illinois",
+  "state": "IL",
+  "ecvotes": null,
+  "election_type_id": 7,
+  "name": "Ballot Question",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "North Boone County Fire Protection District 3 Proposition",
+  "district": "",
+  "party_id": 0,
+  "party": null,
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T01:25:13.344Z",
+  "race_created": "2023-03-22T17:47:46.778Z",
+  "poll_close_time": "2023-04-04T20:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "636": 492,
+      "637": 282
+    },
+    "voting_data": {
+      "636": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "637": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 11,
+      "reporting": 3
+    },
+    "called_candidates": [],
+    "call_times": [],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 746,
+      "county": "Boone",
+      "fips": "17007",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 11,
+        "reporting": 3
+      },
+      "votes": {
+        "636": 492,
+        "637": 282
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 2164,
+          "vcu": "Boone",
+          "fips": "17007",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 11,
+            "reporting": 3
+          },
+          "votes": {
+            "636": 492,
+            "637": 282
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 636,
+      "party_name": "Unaffiliated",
+      "party_id": 11,
+      "first_name": "",
+      "last_name": "Yes",
+      "incumbent": false
+    },
+    {
+      "cand_id": 637,
+      "party_name": "Unaffiliated",
+      "party_id": 11,
+      "first_name": "",
+      "last_name": "No",
+      "incumbent": false
+    }
+  ]
+}

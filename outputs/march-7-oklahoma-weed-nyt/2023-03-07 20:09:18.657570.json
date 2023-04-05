@@ -1,0 +1,3707 @@
+{
+  "races": [
+    {
+      "url": "https://www.nytimes.com/interactive/2023/03/07/us/elections/results-oklahoma-question-820.html",
+      "seat": "820 - Legalize Rec Marijuana",
+      "type": "Ballot Issue",
+      "party": null,
+      "nyt_id": "OK-I-38621-OK-2023-03-07",
+      "office": "Question",
+      "rating": null,
+      "outcome": {
+        "won": [
+          "no"
+        ],
+        "gained": null,
+        "called_by": [
+          "ap"
+        ],
+        "advanced_to_runoff": [],
+        "runoff_accepted_at": [],
+        "winner_accepted_at": [
+          "2023-03-08T02:01:45.628831+00:00"
+        ]
+      },
+      "coverage": "state",
+      "certified": false,
+      "office_id": "I",
+      "updated_at": "2023-03-08T02:08:49.075Z",
+      "max_winners": 1,
+      "rcv_nyt_ids": null,
+      "seat_number": "820",
+      "uncontested": false,
+      "race_type_id": "G",
+      "election_date": "2023-03-07",
+      "has_incumbent": false,
+      "reporting_units": [
+        {
+          "eevp": 60.74,
+          "name": "Oklahoma",
+          "level": "state",
+          "nyt_id": "OK-state",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 204600,
+                "advance": 29259
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 120078,
+                "advance": 18995
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": null,
+          "fips_suffix": null,
+          "total_votes": 324678,
+          "state_postal": "OK",
+          "precincts_total": 1982,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 1226,
+          "total_expected_vote": 534580
+        },
+        {
+          "eevp": 72.03,
+          "name": "Cleveland",
+          "level": "county",
+          "nyt_id": "OK-county-40-027",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 15635,
+                "advance": 2345,
+                "provisional": 0,
+                "absentee_mail": 851,
+                "early_in_person": 0,
+                "absentee_in_person": 1494,
+                "election_day_in_person": 13290
+              },
+              "leader": true,
+              "nyt_id": "yes"
+            },
+            {
+              "votes": {
+                "total": 14815,
+                "advance": 2346,
+                "provisional": 0,
+                "absentee_mail": 774,
+                "early_in_person": 0,
+                "absentee_in_person": 1572,
+                "election_day_in_person": 12469
+              },
+              "leader": false,
+              "nyt_id": "no"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "027",
+          "fips_suffix": null,
+          "total_votes": 30450,
+          "state_postal": "OK",
+          "precincts_total": 105,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 70,
+          "total_expected_vote": 42275
+        },
+        {
+          "eevp": 30.84,
+          "name": "Oklahoma",
+          "level": "county",
+          "nyt_id": "OK-county-40-109",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 15221,
+                "advance": 3870,
+                "provisional": 0,
+                "absentee_mail": 2286,
+                "early_in_person": 0,
+                "absentee_in_person": 1584,
+                "election_day_in_person": 11351
+              },
+              "leader": true,
+              "nyt_id": "yes"
+            },
+            {
+              "votes": {
+                "total": 11908,
+                "advance": 3149,
+                "provisional": 0,
+                "absentee_mail": 2122,
+                "early_in_person": 0,
+                "absentee_in_person": 1027,
+                "election_day_in_person": 8759
+              },
+              "leader": false,
+              "nyt_id": "no"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "109",
+          "fips_suffix": null,
+          "total_votes": 27129,
+          "state_postal": "OK",
+          "precincts_total": 290,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 67,
+          "total_expected_vote": 87968
+        },
+        {
+          "eevp": 32.45,
+          "name": "Tulsa",
+          "level": "county",
+          "nyt_id": "OK-county-40-143",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 13991,
+                "advance": 2829,
+                "provisional": 0,
+                "absentee_mail": 979,
+                "early_in_person": 0,
+                "absentee_in_person": 1850,
+                "election_day_in_person": 11162
+              },
+              "leader": true,
+              "nyt_id": "yes"
+            },
+            {
+              "votes": {
+                "total": 10624,
+                "advance": 2413,
+                "provisional": 0,
+                "absentee_mail": 883,
+                "early_in_person": 0,
+                "absentee_in_person": 1530,
+                "election_day_in_person": 8211
+              },
+              "leader": false,
+              "nyt_id": "no"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "143",
+          "fips_suffix": null,
+          "total_votes": 24615,
+          "state_postal": "OK",
+          "precincts_total": 251,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 70,
+          "total_expected_vote": 75845
+        },
+        {
+          "eevp": 65.27,
+          "name": "Canadian",
+          "level": "county",
+          "nyt_id": "OK-county-40-017",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 8279,
+                "advance": 1123,
+                "provisional": 0,
+                "absentee_mail": 413,
+                "early_in_person": 0,
+                "absentee_in_person": 710,
+                "election_day_in_person": 7156
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 4695,
+                "advance": 751,
+                "provisional": 0,
+                "absentee_mail": 287,
+                "early_in_person": 0,
+                "absentee_in_person": 464,
+                "election_day_in_person": 3944
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "017",
+          "fips_suffix": null,
+          "total_votes": 12974,
+          "state_postal": "OK",
+          "precincts_total": 60,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 37,
+          "total_expected_vote": 19876
+        },
+        {
+          "eevp": 74.3,
+          "name": "Rogers",
+          "level": "county",
+          "nyt_id": "OK-county-40-131",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 8595,
+                "advance": 1618,
+                "provisional": 0,
+                "absentee_mail": 114,
+                "early_in_person": 0,
+                "absentee_in_person": 1504,
+                "election_day_in_person": 6977
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 4103,
+                "advance": 716,
+                "provisional": 0,
+                "absentee_mail": 77,
+                "early_in_person": 0,
+                "absentee_in_person": 639,
+                "election_day_in_person": 3387
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "131",
+          "fips_suffix": null,
+          "total_votes": 12698,
+          "state_postal": "OK",
+          "precincts_total": 38,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 27,
+          "total_expected_vote": 17091
+        },
+        {
+          "eevp": 86.93,
+          "name": "Creek",
+          "level": "county",
+          "nyt_id": "OK-county-40-037",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 6394,
+                "advance": 656,
+                "provisional": 0,
+                "absentee_mail": 96,
+                "early_in_person": 0,
+                "absentee_in_person": 560,
+                "election_day_in_person": 5738
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 3339,
+                "advance": 337,
+                "provisional": 0,
+                "absentee_mail": 84,
+                "early_in_person": 0,
+                "absentee_in_person": 253,
+                "election_day_in_person": 3002
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "037",
+          "fips_suffix": null,
+          "total_votes": 9733,
+          "state_postal": "OK",
+          "precincts_total": 35,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 29,
+          "total_expected_vote": 11196
+        },
+        {
+          "eevp": 86,
+          "name": "Logan",
+          "level": "county",
+          "nyt_id": "OK-county-40-083",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 5232,
+                "advance": 561,
+                "provisional": 0,
+                "absentee_mail": 112,
+                "early_in_person": 0,
+                "absentee_in_person": 449,
+                "election_day_in_person": 4671
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 2600,
+                "advance": 318,
+                "provisional": 0,
+                "absentee_mail": 93,
+                "early_in_person": 0,
+                "absentee_in_person": 225,
+                "election_day_in_person": 2282
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "083",
+          "fips_suffix": null,
+          "total_votes": 7832,
+          "state_postal": "OK",
+          "precincts_total": 30,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 26,
+          "total_expected_vote": 9107
+        },
+        {
+          "eevp": 72.63,
+          "name": "Payne",
+          "level": "county",
+          "nyt_id": "OK-county-40-119",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 4445,
+                "advance": 710,
+                "provisional": 0,
+                "absentee_mail": 144,
+                "early_in_person": 0,
+                "absentee_in_person": 566,
+                "election_day_in_person": 4378
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 2989,
+                "advance": 424,
+                "provisional": 0,
+                "absentee_mail": 84,
+                "early_in_person": 0,
+                "absentee_in_person": 340,
+                "election_day_in_person": 2921
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "119",
+          "fips_suffix": null,
+          "total_votes": 7434,
+          "state_postal": "OK",
+          "precincts_total": 30,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 21,
+          "total_expected_vote": 10236
+        },
+        {
+          "eevp": 52.82,
+          "name": "Wagoner",
+          "level": "county",
+          "nyt_id": "OK-county-40-145",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 4588,
+                "advance": 849,
+                "provisional": 0,
+                "absentee_mail": 81,
+                "early_in_person": 0,
+                "absentee_in_person": 768,
+                "election_day_in_person": 4533
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 2288,
+                "advance": 445,
+                "provisional": 0,
+                "absentee_mail": 49,
+                "early_in_person": 0,
+                "absentee_in_person": 396,
+                "election_day_in_person": 2279
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "145",
+          "fips_suffix": null,
+          "total_votes": 6876,
+          "state_postal": "OK",
+          "precincts_total": 27,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 13,
+          "total_expected_vote": 13018
+        },
+        {
+          "eevp": 75.47,
+          "name": "Washington",
+          "level": "county",
+          "nyt_id": "OK-county-40-147",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 4600,
+                "advance": 494,
+                "provisional": 0,
+                "absentee_mail": 65,
+                "early_in_person": 0,
+                "absentee_in_person": 429,
+                "election_day_in_person": 4257
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 2139,
+                "advance": 296,
+                "provisional": 0,
+                "absentee_mail": 49,
+                "early_in_person": 0,
+                "absentee_in_person": 247,
+                "election_day_in_person": 1897
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "147",
+          "fips_suffix": null,
+          "total_votes": 6739,
+          "state_postal": "OK",
+          "precincts_total": 26,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 18,
+          "total_expected_vote": 8929
+        },
+        {
+          "eevp": 92.03,
+          "name": "Carter",
+          "level": "county",
+          "nyt_id": "OK-county-40-019",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 4934,
+                "advance": 491,
+                "provisional": 0,
+                "absentee_mail": 48,
+                "early_in_person": 0,
+                "absentee_in_person": 443,
+                "election_day_in_person": 4443
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 1773,
+                "advance": 213,
+                "provisional": 0,
+                "absentee_mail": 49,
+                "early_in_person": 0,
+                "absentee_in_person": 164,
+                "election_day_in_person": 1560
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "019",
+          "fips_suffix": null,
+          "total_votes": 6707,
+          "state_postal": "OK",
+          "precincts_total": 28,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 27,
+          "total_expected_vote": 7288
+        },
+        {
+          "eevp": 62.26,
+          "name": "Pottawatomie",
+          "level": "county",
+          "nyt_id": "OK-county-40-125",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 4268,
+                "advance": 894,
+                "provisional": 0,
+                "absentee_mail": 437,
+                "early_in_person": 0,
+                "absentee_in_person": 457,
+                "election_day_in_person": 3374
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 2439,
+                "advance": 521,
+                "provisional": 0,
+                "absentee_mail": 269,
+                "early_in_person": 0,
+                "absentee_in_person": 252,
+                "election_day_in_person": 1918
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "125",
+          "fips_suffix": null,
+          "total_votes": 6707,
+          "state_postal": "OK",
+          "precincts_total": 31,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 18,
+          "total_expected_vote": 10772
+        },
+        {
+          "eevp": 75.12,
+          "name": "Garfield",
+          "level": "county",
+          "nyt_id": "OK-county-40-047",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 4183,
+                "advance": 627,
+                "provisional": 0,
+                "absentee_mail": 145,
+                "early_in_person": 0,
+                "absentee_in_person": 482,
+                "election_day_in_person": 4061
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 2148,
+                "advance": 272,
+                "provisional": 0,
+                "absentee_mail": 88,
+                "early_in_person": 0,
+                "absentee_in_person": 184,
+                "election_day_in_person": 2036
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "047",
+          "fips_suffix": null,
+          "total_votes": 6331,
+          "state_postal": "OK",
+          "precincts_total": 28,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 22,
+          "total_expected_vote": 8428
+        },
+        {
+          "eevp": 96.14,
+          "name": "Cherokee",
+          "level": "county",
+          "nyt_id": "OK-county-40-021",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 3801,
+                "advance": 654,
+                "provisional": 0,
+                "absentee_mail": 50,
+                "early_in_person": 0,
+                "absentee_in_person": 604,
+                "election_day_in_person": 3147
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 2456,
+                "advance": 411,
+                "provisional": 0,
+                "absentee_mail": 48,
+                "early_in_person": 0,
+                "absentee_in_person": 363,
+                "election_day_in_person": 2045
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "021",
+          "fips_suffix": null,
+          "total_votes": 6257,
+          "state_postal": "OK",
+          "precincts_total": 29,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 28,
+          "total_expected_vote": 6508
+        },
+        {
+          "eevp": 94.17,
+          "name": "Pittsburg",
+          "level": "county",
+          "nyt_id": "OK-county-40-121",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 3951,
+                "advance": 270,
+                "provisional": 0,
+                "absentee_mail": 32,
+                "early_in_person": 0,
+                "absentee_in_person": 238,
+                "election_day_in_person": 3681
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 2166,
+                "advance": 196,
+                "provisional": 0,
+                "absentee_mail": 34,
+                "early_in_person": 0,
+                "absentee_in_person": 162,
+                "election_day_in_person": 1970
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "121",
+          "fips_suffix": null,
+          "total_votes": 6117,
+          "state_postal": "OK",
+          "precincts_total": 38,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 36,
+          "total_expected_vote": 6496
+        },
+        {
+          "eevp": 92.8,
+          "name": "Kay",
+          "level": "county",
+          "nyt_id": "OK-county-40-071",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 3996,
+                "advance": 279,
+                "provisional": 0,
+                "absentee_mail": 41,
+                "early_in_person": 0,
+                "absentee_in_person": 238,
+                "election_day_in_person": 3717
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 1916,
+                "advance": 102,
+                "provisional": 0,
+                "absentee_mail": 22,
+                "early_in_person": 0,
+                "absentee_in_person": 80,
+                "election_day_in_person": 1814
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "071",
+          "fips_suffix": null,
+          "total_votes": 5912,
+          "state_postal": "OK",
+          "precincts_total": 30,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 28,
+          "total_expected_vote": 6371
+        },
+        {
+          "eevp": 76.87,
+          "name": "Grady",
+          "level": "county",
+          "nyt_id": "OK-county-40-051",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 4302,
+                "advance": 571,
+                "provisional": 0,
+                "absentee_mail": 92,
+                "early_in_person": 0,
+                "absentee_in_person": 479,
+                "election_day_in_person": 3731
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 1559,
+                "advance": 169,
+                "provisional": 0,
+                "absentee_mail": 56,
+                "early_in_person": 0,
+                "absentee_in_person": 113,
+                "election_day_in_person": 1390
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "051",
+          "fips_suffix": null,
+          "total_votes": 5861,
+          "state_postal": "OK",
+          "precincts_total": 28,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 19,
+          "total_expected_vote": 7625
+        },
+        {
+          "eevp": 98.99,
+          "name": "Okmulgee",
+          "level": "county",
+          "nyt_id": "OK-county-40-111",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 3464,
+                "advance": 275,
+                "provisional": 0,
+                "absentee_mail": 30,
+                "early_in_person": 0,
+                "absentee_in_person": 245,
+                "election_day_in_person": 3189
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 1950,
+                "advance": 156,
+                "provisional": 0,
+                "absentee_mail": 35,
+                "early_in_person": 0,
+                "absentee_in_person": 121,
+                "election_day_in_person": 1794
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "111",
+          "fips_suffix": null,
+          "total_votes": 5414,
+          "state_postal": "OK",
+          "precincts_total": 25,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 25,
+          "total_expected_vote": 5469
+        },
+        {
+          "eevp": 70.36,
+          "name": "Comanche",
+          "level": "county",
+          "nyt_id": "OK-county-40-031",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 3105,
+                "advance": 656,
+                "provisional": 0,
+                "absentee_mail": 190,
+                "early_in_person": 0,
+                "absentee_in_person": 466,
+                "election_day_in_person": 2449
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 2293,
+                "advance": 492,
+                "provisional": 0,
+                "absentee_mail": 163,
+                "early_in_person": 0,
+                "absentee_in_person": 329,
+                "election_day_in_person": 1801
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "031",
+          "fips_suffix": null,
+          "total_votes": 5398,
+          "state_postal": "OK",
+          "precincts_total": 40,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 25,
+          "total_expected_vote": 7672
+        },
+        {
+          "eevp": 79.76,
+          "name": "LeFlore",
+          "level": "county",
+          "nyt_id": "OK-county-40-079",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 3603,
+                "advance": 291,
+                "provisional": 0,
+                "absentee_mail": 36,
+                "early_in_person": 0,
+                "absentee_in_person": 255,
+                "election_day_in_person": 3452
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 1553,
+                "advance": 122,
+                "provisional": 0,
+                "absentee_mail": 25,
+                "early_in_person": 0,
+                "absentee_in_person": 97,
+                "election_day_in_person": 1514
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "079",
+          "fips_suffix": null,
+          "total_votes": 5156,
+          "state_postal": "OK",
+          "precincts_total": 37,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 30,
+          "total_expected_vote": 6464
+        },
+        {
+          "eevp": 84.82,
+          "name": "Lincoln",
+          "level": "county",
+          "nyt_id": "OK-county-40-081",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 3710,
+                "advance": 359,
+                "provisional": 0,
+                "absentee_mail": 38,
+                "early_in_person": 0,
+                "absentee_in_person": 321,
+                "election_day_in_person": 3351
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 1436,
+                "advance": 154,
+                "provisional": 0,
+                "absentee_mail": 44,
+                "early_in_person": 0,
+                "absentee_in_person": 110,
+                "election_day_in_person": 1282
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "081",
+          "fips_suffix": null,
+          "total_votes": 5146,
+          "state_postal": "OK",
+          "precincts_total": 19,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 16,
+          "total_expected_vote": 6067
+        },
+        {
+          "eevp": 71.26,
+          "name": "Delaware",
+          "level": "county",
+          "nyt_id": "OK-county-40-041",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 3181,
+                "advance": 332,
+                "provisional": 0,
+                "absentee_mail": 70,
+                "early_in_person": 0,
+                "absentee_in_person": 262,
+                "election_day_in_person": 2849
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 1299,
+                "advance": 175,
+                "provisional": 0,
+                "absentee_mail": 58,
+                "early_in_person": 0,
+                "absentee_in_person": 117,
+                "election_day_in_person": 1124
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "041",
+          "fips_suffix": null,
+          "total_votes": 4480,
+          "state_postal": "OK",
+          "precincts_total": 18,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 13,
+          "total_expected_vote": 6287
+        },
+        {
+          "eevp": 56.87,
+          "name": "Muskogee",
+          "level": "county",
+          "nyt_id": "OK-county-40-101",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 2630,
+                "advance": 399,
+                "provisional": 0,
+                "absentee_mail": 52,
+                "early_in_person": 0,
+                "absentee_in_person": 347,
+                "election_day_in_person": 2231
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 1840,
+                "advance": 208,
+                "provisional": 0,
+                "absentee_mail": 32,
+                "early_in_person": 0,
+                "absentee_in_person": 176,
+                "election_day_in_person": 1632
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "101",
+          "fips_suffix": null,
+          "total_votes": 4470,
+          "state_postal": "OK",
+          "precincts_total": 39,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 21,
+          "total_expected_vote": 7860
+        },
+        {
+          "eevp": 54.48,
+          "name": "Stephens",
+          "level": "county",
+          "nyt_id": "OK-county-40-137",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 3125,
+                "advance": 422,
+                "provisional": 0,
+                "absentee_mail": 93,
+                "early_in_person": 0,
+                "absentee_in_person": 329,
+                "election_day_in_person": 2703
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 979,
+                "advance": 153,
+                "provisional": 0,
+                "absentee_mail": 34,
+                "early_in_person": 0,
+                "absentee_in_person": 119,
+                "election_day_in_person": 826
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "137",
+          "fips_suffix": null,
+          "total_votes": 4104,
+          "state_postal": "OK",
+          "precincts_total": 28,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 15,
+          "total_expected_vote": 7533
+        },
+        {
+          "eevp": 55.24,
+          "name": "Mayes",
+          "level": "county",
+          "nyt_id": "OK-county-40-097",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 2734,
+                "advance": 381,
+                "provisional": 0,
+                "absentee_mail": 85,
+                "early_in_person": 0,
+                "absentee_in_person": 296,
+                "election_day_in_person": 2353
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 1195,
+                "advance": 176,
+                "provisional": 0,
+                "absentee_mail": 63,
+                "early_in_person": 0,
+                "absentee_in_person": 113,
+                "election_day_in_person": 1019
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "097",
+          "fips_suffix": null,
+          "total_votes": 3929,
+          "state_postal": "OK",
+          "precincts_total": 25,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 13,
+          "total_expected_vote": 7113
+        },
+        {
+          "eevp": 91.45,
+          "name": "Custer",
+          "level": "county",
+          "nyt_id": "OK-county-40-039",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 2686,
+                "advance": 247,
+                "provisional": 0,
+                "absentee_mail": 33,
+                "early_in_person": 0,
+                "absentee_in_person": 214,
+                "election_day_in_person": 2439
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 1049,
+                "advance": 98,
+                "provisional": 0,
+                "absentee_mail": 16,
+                "early_in_person": 0,
+                "absentee_in_person": 82,
+                "election_day_in_person": 951
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "039",
+          "fips_suffix": null,
+          "total_votes": 3735,
+          "state_postal": "OK",
+          "precincts_total": 12,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 11,
+          "total_expected_vote": 4084
+        },
+        {
+          "eevp": 88.18,
+          "name": "Garvin",
+          "level": "county",
+          "nyt_id": "OK-county-40-049",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 2636,
+                "advance": 223,
+                "provisional": 0,
+                "absentee_mail": 18,
+                "early_in_person": 0,
+                "absentee_in_person": 205,
+                "election_day_in_person": 2413
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 1004,
+                "advance": 66,
+                "provisional": 0,
+                "absentee_mail": 5,
+                "early_in_person": 0,
+                "absentee_in_person": 61,
+                "election_day_in_person": 938
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "049",
+          "fips_suffix": null,
+          "total_votes": 3640,
+          "state_postal": "OK",
+          "precincts_total": 17,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 15,
+          "total_expected_vote": 4128
+        },
+        {
+          "eevp": 56.45,
+          "name": "Pontotoc",
+          "level": "county",
+          "nyt_id": "OK-county-40-123",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 2418,
+                "advance": 360,
+                "provisional": 0,
+                "absentee_mail": 19,
+                "early_in_person": 0,
+                "absentee_in_person": 341,
+                "election_day_in_person": 2058
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 1218,
+                "advance": 203,
+                "provisional": 0,
+                "absentee_mail": 30,
+                "early_in_person": 0,
+                "absentee_in_person": 173,
+                "election_day_in_person": 1015
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "123",
+          "fips_suffix": null,
+          "total_votes": 3636,
+          "state_postal": "OK",
+          "precincts_total": 20,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 11,
+          "total_expected_vote": 6441
+        },
+        {
+          "eevp": 58.44,
+          "name": "McClain",
+          "level": "county",
+          "nyt_id": "OK-county-40-087",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 2465,
+                "advance": 338,
+                "provisional": 0,
+                "absentee_mail": 93,
+                "early_in_person": 0,
+                "absentee_in_person": 245,
+                "election_day_in_person": 2127
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 934,
+                "advance": 112,
+                "provisional": 0,
+                "absentee_mail": 49,
+                "early_in_person": 0,
+                "absentee_in_person": 63,
+                "election_day_in_person": 822
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "087",
+          "fips_suffix": null,
+          "total_votes": 3399,
+          "state_postal": "OK",
+          "precincts_total": 27,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 15,
+          "total_expected_vote": 5816
+        },
+        {
+          "eevp": 86.77,
+          "name": "McIntosh",
+          "level": "county",
+          "nyt_id": "OK-county-40-091",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 2131,
+                "advance": 165,
+                "provisional": 0,
+                "absentee_mail": 21,
+                "early_in_person": 0,
+                "absentee_in_person": 144,
+                "election_day_in_person": 1966
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 1102,
+                "advance": 104,
+                "provisional": 0,
+                "absentee_mail": 22,
+                "early_in_person": 0,
+                "absentee_in_person": 82,
+                "election_day_in_person": 998
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "091",
+          "fips_suffix": null,
+          "total_votes": 3233,
+          "state_postal": "OK",
+          "precincts_total": 15,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 13,
+          "total_expected_vote": 3726
+        },
+        {
+          "eevp": 91.85,
+          "name": "Ottawa",
+          "level": "county",
+          "nyt_id": "OK-county-40-115",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 2161,
+                "advance": 142,
+                "provisional": 0,
+                "absentee_mail": 17,
+                "early_in_person": 0,
+                "absentee_in_person": 125,
+                "election_day_in_person": 2019
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 1052,
+                "advance": 72,
+                "provisional": 0,
+                "absentee_mail": 13,
+                "early_in_person": 0,
+                "absentee_in_person": 59,
+                "election_day_in_person": 980
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "115",
+          "fips_suffix": null,
+          "total_votes": 3213,
+          "state_postal": "OK",
+          "precincts_total": 13,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 12,
+          "total_expected_vote": 3498
+        },
+        {
+          "eevp": 65.61,
+          "name": "Sequoyah",
+          "level": "county",
+          "nyt_id": "OK-county-40-135",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 1991,
+                "advance": 182,
+                "provisional": 0,
+                "absentee_mail": 20,
+                "early_in_person": 0,
+                "absentee_in_person": 162,
+                "election_day_in_person": 1809
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 1020,
+                "advance": 105,
+                "provisional": 0,
+                "absentee_mail": 13,
+                "early_in_person": 0,
+                "absentee_in_person": 92,
+                "election_day_in_person": 915
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "135",
+          "fips_suffix": null,
+          "total_votes": 3011,
+          "state_postal": "OK",
+          "precincts_total": 25,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 16,
+          "total_expected_vote": 4589
+        },
+        {
+          "eevp": 77.61,
+          "name": "McCurtain",
+          "level": "county",
+          "nyt_id": "OK-county-40-089",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 2202,
+                "advance": 119,
+                "provisional": 0,
+                "absentee_mail": 3,
+                "early_in_person": 0,
+                "absentee_in_person": 116,
+                "election_day_in_person": 2083
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 775,
+                "advance": 54,
+                "provisional": 0,
+                "absentee_mail": 2,
+                "early_in_person": 0,
+                "absentee_in_person": 52,
+                "election_day_in_person": 721
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "089",
+          "fips_suffix": null,
+          "total_votes": 2977,
+          "state_postal": "OK",
+          "precincts_total": 30,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 24,
+          "total_expected_vote": 3836
+        },
+        {
+          "eevp": 90.86,
+          "name": "Woodward",
+          "level": "county",
+          "nyt_id": "OK-county-40-153",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 2280,
+                "advance": 288,
+                "provisional": 0,
+                "absentee_mail": 30,
+                "early_in_person": 0,
+                "absentee_in_person": 258,
+                "election_day_in_person": 1992
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 694,
+                "advance": 85,
+                "provisional": 0,
+                "absentee_mail": 12,
+                "early_in_person": 0,
+                "absentee_in_person": 73,
+                "election_day_in_person": 609
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "153",
+          "fips_suffix": null,
+          "total_votes": 2974,
+          "state_postal": "OK",
+          "precincts_total": 16,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 16,
+          "total_expected_vote": 3273
+        },
+        {
+          "eevp": 93.1,
+          "name": "Jackson",
+          "level": "county",
+          "nyt_id": "OK-county-40-065",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 2168,
+                "advance": 246,
+                "provisional": 0,
+                "absentee_mail": 19,
+                "early_in_person": 0,
+                "absentee_in_person": 227,
+                "election_day_in_person": 1922
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 788,
+                "advance": 82,
+                "provisional": 0,
+                "absentee_mail": 13,
+                "early_in_person": 0,
+                "absentee_in_person": 69,
+                "election_day_in_person": 706
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "065",
+          "fips_suffix": null,
+          "total_votes": 2956,
+          "state_postal": "OK",
+          "precincts_total": 15,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 14,
+          "total_expected_vote": 3175
+        },
+        {
+          "eevp": 95.6,
+          "name": "Kingfisher",
+          "level": "county",
+          "nyt_id": "OK-county-40-073",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 2402,
+                "advance": 242,
+                "provisional": 0,
+                "absentee_mail": 36,
+                "early_in_person": 0,
+                "absentee_in_person": 206,
+                "election_day_in_person": 2160
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 552,
+                "advance": 57,
+                "provisional": 0,
+                "absentee_mail": 15,
+                "early_in_person": 0,
+                "absentee_in_person": 42,
+                "election_day_in_person": 495
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "073",
+          "fips_suffix": null,
+          "total_votes": 2954,
+          "state_postal": "OK",
+          "precincts_total": 12,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 12,
+          "total_expected_vote": 3090
+        },
+        {
+          "eevp": 44.82,
+          "name": "Bryan",
+          "level": "county",
+          "nyt_id": "OK-county-40-013",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 1813,
+                "advance": 323,
+                "provisional": 0,
+                "absentee_mail": 30,
+                "early_in_person": 0,
+                "absentee_in_person": 293,
+                "election_day_in_person": 1490
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 952,
+                "advance": 214,
+                "provisional": 0,
+                "absentee_mail": 29,
+                "early_in_person": 0,
+                "absentee_in_person": 185,
+                "election_day_in_person": 738
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "013",
+          "fips_suffix": null,
+          "total_votes": 2765,
+          "state_postal": "OK",
+          "precincts_total": 25,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 10,
+          "total_expected_vote": 6169
+        },
+        {
+          "eevp": 98.99,
+          "name": "Craig",
+          "level": "county",
+          "nyt_id": "OK-county-40-035",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 1992,
+                "advance": 216,
+                "provisional": 0,
+                "absentee_mail": 20,
+                "early_in_person": 0,
+                "absentee_in_person": 196,
+                "election_day_in_person": 1776
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 757,
+                "advance": 66,
+                "provisional": 0,
+                "absentee_mail": 8,
+                "early_in_person": 0,
+                "absentee_in_person": 58,
+                "election_day_in_person": 691
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "035",
+          "fips_suffix": null,
+          "total_votes": 2749,
+          "state_postal": "OK",
+          "precincts_total": 13,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 13,
+          "total_expected_vote": 2777
+        },
+        {
+          "eevp": 80.7,
+          "name": "Caddo",
+          "level": "county",
+          "nyt_id": "OK-county-40-015",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 1913,
+                "advance": 199,
+                "provisional": 0,
+                "absentee_mail": 55,
+                "early_in_person": 0,
+                "absentee_in_person": 144,
+                "election_day_in_person": 1714
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 835,
+                "advance": 63,
+                "provisional": 0,
+                "absentee_mail": 10,
+                "early_in_person": 0,
+                "absentee_in_person": 53,
+                "election_day_in_person": 772
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "015",
+          "fips_suffix": null,
+          "total_votes": 2748,
+          "state_postal": "OK",
+          "precincts_total": 14,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 11,
+          "total_expected_vote": 3405
+        },
+        {
+          "eevp": 98.99,
+          "name": "Beckham",
+          "level": "county",
+          "nyt_id": "OK-county-40-009",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 2123,
+                "advance": 185,
+                "provisional": 0,
+                "absentee_mail": 19,
+                "early_in_person": 0,
+                "absentee_in_person": 166,
+                "election_day_in_person": 1938
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 619,
+                "advance": 40,
+                "provisional": 0,
+                "absentee_mail": 11,
+                "early_in_person": 0,
+                "absentee_in_person": 29,
+                "election_day_in_person": 579
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "009",
+          "fips_suffix": null,
+          "total_votes": 2742,
+          "state_postal": "OK",
+          "precincts_total": 12,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 12,
+          "total_expected_vote": 2770
+        },
+        {
+          "eevp": 90.68,
+          "name": "Seminole",
+          "level": "county",
+          "nyt_id": "OK-county-40-133",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 1869,
+                "advance": 155,
+                "provisional": 0,
+                "absentee_mail": 33,
+                "early_in_person": 0,
+                "absentee_in_person": 122,
+                "election_day_in_person": 1714
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 864,
+                "advance": 72,
+                "provisional": 0,
+                "absentee_mail": 16,
+                "early_in_person": 0,
+                "absentee_in_person": 56,
+                "election_day_in_person": 792
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "133",
+          "fips_suffix": null,
+          "total_votes": 2733,
+          "state_postal": "OK",
+          "precincts_total": 11,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 10,
+          "total_expected_vote": 3014
+        },
+        {
+          "eevp": 90.52,
+          "name": "Adair",
+          "level": "county",
+          "nyt_id": "OK-county-40-001",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 1714,
+                "advance": 101,
+                "provisional": 0,
+                "absentee_mail": 11,
+                "early_in_person": 0,
+                "absentee_in_person": 90,
+                "election_day_in_person": 1613
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 607,
+                "advance": 55,
+                "provisional": 0,
+                "absentee_mail": 7,
+                "early_in_person": 0,
+                "absentee_in_person": 48,
+                "election_day_in_person": 552
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "001",
+          "fips_suffix": null,
+          "total_votes": 2321,
+          "state_postal": "OK",
+          "precincts_total": 17,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 16,
+          "total_expected_vote": 2564
+        },
+        {
+          "eevp": 99,
+          "name": "Murray",
+          "level": "county",
+          "nyt_id": "OK-county-40-099",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 1631,
+                "advance": 309,
+                "provisional": 0,
+                "absentee_mail": 32,
+                "early_in_person": 0,
+                "absentee_in_person": 277,
+                "election_day_in_person": 1322
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 671,
+                "advance": 127,
+                "provisional": 0,
+                "absentee_mail": 31,
+                "early_in_person": 0,
+                "absentee_in_person": 96,
+                "election_day_in_person": 544
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "099",
+          "fips_suffix": null,
+          "total_votes": 2302,
+          "state_postal": "OK",
+          "precincts_total": 10,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 10,
+          "total_expected_vote": 2325
+        },
+        {
+          "eevp": 99,
+          "name": "Marshall",
+          "level": "county",
+          "nyt_id": "OK-county-40-095",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 1519,
+                "advance": 201,
+                "provisional": 0,
+                "absentee_mail": 7,
+                "early_in_person": 0,
+                "absentee_in_person": 194,
+                "election_day_in_person": 1318
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 754,
+                "advance": 119,
+                "provisional": 0,
+                "absentee_mail": 4,
+                "early_in_person": 0,
+                "absentee_in_person": 115,
+                "election_day_in_person": 635
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "095",
+          "fips_suffix": null,
+          "total_votes": 2273,
+          "state_postal": "OK",
+          "precincts_total": 9,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 9,
+          "total_expected_vote": 2108
+        },
+        {
+          "eevp": 34.12,
+          "name": "Osage",
+          "level": "county",
+          "nyt_id": "OK-county-40-113",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 1391,
+                "advance": 287,
+                "provisional": 0,
+                "absentee_mail": 127,
+                "early_in_person": 0,
+                "absentee_in_person": 160,
+                "election_day_in_person": 1104
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 652,
+                "advance": 141,
+                "provisional": 0,
+                "absentee_mail": 77,
+                "early_in_person": 0,
+                "absentee_in_person": 64,
+                "election_day_in_person": 511
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "113",
+          "fips_suffix": null,
+          "total_votes": 2043,
+          "state_postal": "OK",
+          "precincts_total": 28,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 8,
+          "total_expected_vote": 5988
+        },
+        {
+          "eevp": 96.84,
+          "name": "Washita",
+          "level": "county",
+          "nyt_id": "OK-county-40-149",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 1586,
+                "advance": 137,
+                "provisional": 0,
+                "absentee_mail": 34,
+                "early_in_person": 0,
+                "absentee_in_person": 103,
+                "election_day_in_person": 1449
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 437,
+                "advance": 24,
+                "provisional": 0,
+                "absentee_mail": 6,
+                "early_in_person": 0,
+                "absentee_in_person": 18,
+                "election_day_in_person": 413
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "149",
+          "fips_suffix": null,
+          "total_votes": 2023,
+          "state_postal": "OK",
+          "precincts_total": 12,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 12,
+          "total_expected_vote": 2089
+        },
+        {
+          "eevp": 93.05,
+          "name": "Noble",
+          "level": "county",
+          "nyt_id": "OK-county-40-103",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 1490,
+                "advance": 285,
+                "provisional": 0,
+                "absentee_mail": 37,
+                "early_in_person": 0,
+                "absentee_in_person": 248,
+                "election_day_in_person": 1205
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 493,
+                "advance": 78,
+                "provisional": 0,
+                "absentee_mail": 19,
+                "early_in_person": 0,
+                "absentee_in_person": 59,
+                "election_day_in_person": 415
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "103",
+          "fips_suffix": null,
+          "total_votes": 1983,
+          "state_postal": "OK",
+          "precincts_total": 11,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 9,
+          "total_expected_vote": 2131
+        },
+        {
+          "eevp": 71.48,
+          "name": "Pawnee",
+          "level": "county",
+          "nyt_id": "OK-county-40-117",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 1295,
+                "advance": 136,
+                "provisional": 0,
+                "absentee_mail": 9,
+                "early_in_person": 0,
+                "absentee_in_person": 127,
+                "election_day_in_person": 1159
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 632,
+                "advance": 60,
+                "provisional": 0,
+                "absentee_mail": 12,
+                "early_in_person": 0,
+                "absentee_in_person": 48,
+                "election_day_in_person": 572
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "117",
+          "fips_suffix": null,
+          "total_votes": 1927,
+          "state_postal": "OK",
+          "precincts_total": 10,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 7,
+          "total_expected_vote": 2696
+        },
+        {
+          "eevp": 99,
+          "name": "Haskell",
+          "level": "county",
+          "nyt_id": "OK-county-40-061",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 1505,
+                "advance": 169,
+                "provisional": 0,
+                "absentee_mail": 8,
+                "early_in_person": 0,
+                "absentee_in_person": 161,
+                "election_day_in_person": 1336
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 417,
+                "advance": 45,
+                "provisional": 0,
+                "absentee_mail": 0,
+                "early_in_person": 0,
+                "absentee_in_person": 45,
+                "election_day_in_person": 372
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "061",
+          "fips_suffix": null,
+          "total_votes": 1922,
+          "state_postal": "OK",
+          "precincts_total": 10,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 10,
+          "total_expected_vote": 1941
+        },
+        {
+          "eevp": 85.85,
+          "name": "Atoka",
+          "level": "county",
+          "nyt_id": "OK-county-40-005",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 1488,
+                "advance": 233,
+                "provisional": 0,
+                "absentee_mail": 4,
+                "early_in_person": 0,
+                "absentee_in_person": 229,
+                "election_day_in_person": 1306
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 381,
+                "advance": 60,
+                "provisional": 0,
+                "absentee_mail": 3,
+                "early_in_person": 0,
+                "absentee_in_person": 57,
+                "election_day_in_person": 327
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "005",
+          "fips_suffix": null,
+          "total_votes": 1869,
+          "state_postal": "OK",
+          "precincts_total": 13,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 11,
+          "total_expected_vote": 2177
+        },
+        {
+          "eevp": 91.9,
+          "name": "Hughes",
+          "level": "county",
+          "nyt_id": "OK-county-40-063",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 1357,
+                "advance": 105,
+                "provisional": 0,
+                "absentee_mail": 21,
+                "early_in_person": 0,
+                "absentee_in_person": 84,
+                "election_day_in_person": 1252
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 459,
+                "advance": 35,
+                "provisional": 0,
+                "absentee_mail": 3,
+                "early_in_person": 0,
+                "absentee_in_person": 32,
+                "election_day_in_person": 424
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "063",
+          "fips_suffix": null,
+          "total_votes": 1816,
+          "state_postal": "OK",
+          "precincts_total": 15,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 14,
+          "total_expected_vote": 1976
+        },
+        {
+          "eevp": 99,
+          "name": "Johnston",
+          "level": "county",
+          "nyt_id": "OK-county-40-069",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 1329,
+                "advance": 123,
+                "provisional": 0,
+                "absentee_mail": 4,
+                "early_in_person": 0,
+                "absentee_in_person": 119,
+                "election_day_in_person": 1206
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 455,
+                "advance": 45,
+                "provisional": 0,
+                "absentee_mail": 0,
+                "early_in_person": 0,
+                "absentee_in_person": 45,
+                "election_day_in_person": 410
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "069",
+          "fips_suffix": null,
+          "total_votes": 1784,
+          "state_postal": "OK",
+          "precincts_total": 14,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 14,
+          "total_expected_vote": 1802
+        },
+        {
+          "eevp": 99,
+          "name": "Latimer",
+          "level": "county",
+          "nyt_id": "OK-county-40-077",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 1084,
+                "advance": 123,
+                "provisional": 0,
+                "absentee_mail": 10,
+                "early_in_person": 0,
+                "absentee_in_person": 113,
+                "election_day_in_person": 961
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 508,
+                "advance": 73,
+                "provisional": 0,
+                "absentee_mail": 8,
+                "early_in_person": 0,
+                "absentee_in_person": 65,
+                "election_day_in_person": 435
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "077",
+          "fips_suffix": null,
+          "total_votes": 1592,
+          "state_postal": "OK",
+          "precincts_total": 13,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 13,
+          "total_expected_vote": 1608
+        },
+        {
+          "eevp": 98.99,
+          "name": "Love",
+          "level": "county",
+          "nyt_id": "OK-county-40-085",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 1176,
+                "advance": 137,
+                "provisional": 0,
+                "absentee_mail": 13,
+                "early_in_person": 0,
+                "absentee_in_person": 124,
+                "election_day_in_person": 1039
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 387,
+                "advance": 25,
+                "provisional": 0,
+                "absentee_mail": 5,
+                "early_in_person": 0,
+                "absentee_in_person": 20,
+                "election_day_in_person": 362
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "085",
+          "fips_suffix": null,
+          "total_votes": 1563,
+          "state_postal": "OK",
+          "precincts_total": 10,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 10,
+          "total_expected_vote": 1579
+        },
+        {
+          "eevp": 82.68,
+          "name": "Texas",
+          "level": "county",
+          "nyt_id": "OK-county-40-139",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 1117,
+                "advance": 116,
+                "provisional": 0,
+                "absentee_mail": 33,
+                "early_in_person": 0,
+                "absentee_in_person": 83,
+                "election_day_in_person": 1001
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 430,
+                "advance": 56,
+                "provisional": 0,
+                "absentee_mail": 6,
+                "early_in_person": 0,
+                "absentee_in_person": 50,
+                "election_day_in_person": 374
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "139",
+          "fips_suffix": null,
+          "total_votes": 1547,
+          "state_postal": "OK",
+          "precincts_total": 11,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 9,
+          "total_expected_vote": 1871
+        },
+        {
+          "eevp": 90.34,
+          "name": "Woods",
+          "level": "county",
+          "nyt_id": "OK-county-40-151",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 1033,
+                "advance": 175,
+                "provisional": 0,
+                "absentee_mail": 14,
+                "early_in_person": 0,
+                "absentee_in_person": 161,
+                "election_day_in_person": 858
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 426,
+                "advance": 69,
+                "provisional": 0,
+                "absentee_mail": 8,
+                "early_in_person": 0,
+                "absentee_in_person": 61,
+                "election_day_in_person": 357
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "151",
+          "fips_suffix": null,
+          "total_votes": 1459,
+          "state_postal": "OK",
+          "precincts_total": 6,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 5,
+          "total_expected_vote": 1615
+        },
+        {
+          "eevp": 78.86,
+          "name": "Blaine",
+          "level": "county",
+          "nyt_id": "OK-county-40-011",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 1113,
+                "advance": 128,
+                "provisional": 0,
+                "absentee_mail": 41,
+                "early_in_person": 0,
+                "absentee_in_person": 87,
+                "election_day_in_person": 985
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 327,
+                "advance": 24,
+                "provisional": 0,
+                "absentee_mail": 8,
+                "early_in_person": 0,
+                "absentee_in_person": 16,
+                "election_day_in_person": 303
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "011",
+          "fips_suffix": null,
+          "total_votes": 1440,
+          "state_postal": "OK",
+          "precincts_total": 9,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 7,
+          "total_expected_vote": 1826
+        },
+        {
+          "eevp": 79.57,
+          "name": "Pushmataha",
+          "level": "county",
+          "nyt_id": "OK-county-40-127",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 1017,
+                "advance": 125,
+                "provisional": 0,
+                "absentee_mail": 5,
+                "early_in_person": 0,
+                "absentee_in_person": 120,
+                "election_day_in_person": 892
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 385,
+                "advance": 40,
+                "provisional": 0,
+                "absentee_mail": 6,
+                "early_in_person": 0,
+                "absentee_in_person": 34,
+                "election_day_in_person": 345
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "127",
+          "fips_suffix": null,
+          "total_votes": 1402,
+          "state_postal": "OK",
+          "precincts_total": 12,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 9,
+          "total_expected_vote": 1762
+        },
+        {
+          "eevp": 78.7,
+          "name": "Major",
+          "level": "county",
+          "nyt_id": "OK-county-40-093",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 1184,
+                "advance": 193,
+                "provisional": 0,
+                "absentee_mail": 46,
+                "early_in_person": 0,
+                "absentee_in_person": 147,
+                "election_day_in_person": 991
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 205,
+                "advance": 21,
+                "provisional": 0,
+                "absentee_mail": 8,
+                "early_in_person": 0,
+                "absentee_in_person": 13,
+                "election_day_in_person": 184
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "093",
+          "fips_suffix": null,
+          "total_votes": 1389,
+          "state_postal": "OK",
+          "precincts_total": 8,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 7,
+          "total_expected_vote": 1765
+        },
+        {
+          "eevp": 91.06,
+          "name": "Kiowa",
+          "level": "county",
+          "nyt_id": "OK-county-40-075",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 929,
+                "advance": 173,
+                "provisional": 0,
+                "absentee_mail": 29,
+                "early_in_person": 0,
+                "absentee_in_person": 144,
+                "election_day_in_person": 756
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 263,
+                "advance": 43,
+                "provisional": 0,
+                "absentee_mail": 13,
+                "early_in_person": 0,
+                "absentee_in_person": 30,
+                "election_day_in_person": 220
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "075",
+          "fips_suffix": null,
+          "total_votes": 1192,
+          "state_postal": "OK",
+          "precincts_total": 12,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 10,
+          "total_expected_vote": 1309
+        },
+        {
+          "eevp": 90.42,
+          "name": "Dewey",
+          "level": "county",
+          "nyt_id": "OK-county-40-043",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 920,
+                "advance": 62,
+                "provisional": 0,
+                "absentee_mail": 17,
+                "early_in_person": 0,
+                "absentee_in_person": 45,
+                "election_day_in_person": 858
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 194,
+                "advance": 21,
+                "provisional": 0,
+                "absentee_mail": 8,
+                "early_in_person": 0,
+                "absentee_in_person": 13,
+                "election_day_in_person": 173
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "043",
+          "fips_suffix": null,
+          "total_votes": 1114,
+          "state_postal": "OK",
+          "precincts_total": 9,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 8,
+          "total_expected_vote": 1232
+        },
+        {
+          "eevp": 98.98,
+          "name": "Alfalfa",
+          "level": "county",
+          "nyt_id": "OK-county-40-003",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 836,
+                "advance": 71,
+                "provisional": 0,
+                "absentee_mail": 15,
+                "early_in_person": 0,
+                "absentee_in_person": 56,
+                "election_day_in_person": 765
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 229,
+                "advance": 14,
+                "provisional": 0,
+                "absentee_mail": 1,
+                "early_in_person": 0,
+                "absentee_in_person": 13,
+                "election_day_in_person": 215
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "003",
+          "fips_suffix": null,
+          "total_votes": 1065,
+          "state_postal": "OK",
+          "precincts_total": 8,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 8,
+          "total_expected_vote": 1076
+        },
+        {
+          "eevp": 98.99,
+          "name": "Tillman",
+          "level": "county",
+          "nyt_id": "OK-county-40-141",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 735,
+                "advance": 94,
+                "provisional": 0,
+                "absentee_mail": 2,
+                "early_in_person": 0,
+                "absentee_in_person": 92,
+                "election_day_in_person": 641
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 244,
+                "advance": 38,
+                "provisional": 0,
+                "absentee_mail": 6,
+                "early_in_person": 0,
+                "absentee_in_person": 32,
+                "election_day_in_person": 206
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "141",
+          "fips_suffix": null,
+          "total_votes": 979,
+          "state_postal": "OK",
+          "precincts_total": 8,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 8,
+          "total_expected_vote": 989
+        },
+        {
+          "eevp": 99,
+          "name": "Coal",
+          "level": "county",
+          "nyt_id": "OK-county-40-029",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 710,
+                "advance": 103,
+                "provisional": 0,
+                "absentee_mail": 7,
+                "early_in_person": 0,
+                "absentee_in_person": 96,
+                "election_day_in_person": 607
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 229,
+                "advance": 32,
+                "provisional": 0,
+                "absentee_mail": 2,
+                "early_in_person": 0,
+                "absentee_in_person": 30,
+                "election_day_in_person": 197
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "029",
+          "fips_suffix": null,
+          "total_votes": 939,
+          "state_postal": "OK",
+          "precincts_total": 9,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 9,
+          "total_expected_vote": 948
+        },
+        {
+          "eevp": 99,
+          "name": "Beaver",
+          "level": "county",
+          "nyt_id": "OK-county-40-007",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 740,
+                "advance": 94,
+                "provisional": 0,
+                "absentee_mail": 19,
+                "early_in_person": 0,
+                "absentee_in_person": 75,
+                "election_day_in_person": 646
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 186,
+                "advance": 23,
+                "provisional": 0,
+                "absentee_mail": 7,
+                "early_in_person": 0,
+                "absentee_in_person": 16,
+                "election_day_in_person": 163
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "007",
+          "fips_suffix": null,
+          "total_votes": 926,
+          "state_postal": "OK",
+          "precincts_total": 7,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 7,
+          "total_expected_vote": 935
+        },
+        {
+          "eevp": 99,
+          "name": "Ellis",
+          "level": "county",
+          "nyt_id": "OK-county-40-045",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 745,
+                "advance": 72,
+                "provisional": 0,
+                "absentee_mail": 25,
+                "early_in_person": 0,
+                "absentee_in_person": 47,
+                "election_day_in_person": 673
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 181,
+                "advance": 14,
+                "provisional": 0,
+                "absentee_mail": 2,
+                "early_in_person": 0,
+                "absentee_in_person": 12,
+                "election_day_in_person": 167
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "045",
+          "fips_suffix": null,
+          "total_votes": 926,
+          "state_postal": "OK",
+          "precincts_total": 7,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 7,
+          "total_expected_vote": 935
+        },
+        {
+          "eevp": 99,
+          "name": "Cotton",
+          "level": "county",
+          "nyt_id": "OK-county-40-033",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 603,
+                "advance": 87,
+                "provisional": 0,
+                "absentee_mail": 10,
+                "early_in_person": 0,
+                "absentee_in_person": 77,
+                "election_day_in_person": 516
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 298,
+                "advance": 32,
+                "provisional": 0,
+                "absentee_mail": 6,
+                "early_in_person": 0,
+                "absentee_in_person": 26,
+                "election_day_in_person": 266
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "033",
+          "fips_suffix": null,
+          "total_votes": 901,
+          "state_postal": "OK",
+          "precincts_total": 7,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 7,
+          "total_expected_vote": 910
+        },
+        {
+          "eevp": 98.99,
+          "name": "Greer",
+          "level": "county",
+          "nyt_id": "OK-county-40-055",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 651,
+                "advance": 76,
+                "provisional": 0,
+                "absentee_mail": 19,
+                "early_in_person": 0,
+                "absentee_in_person": 57,
+                "election_day_in_person": 575
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 227,
+                "advance": 28,
+                "provisional": 0,
+                "absentee_mail": 3,
+                "early_in_person": 0,
+                "absentee_in_person": 25,
+                "election_day_in_person": 199
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "055",
+          "fips_suffix": null,
+          "total_votes": 878,
+          "state_postal": "OK",
+          "precincts_total": 6,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 6,
+          "total_expected_vote": 887
+        },
+        {
+          "eevp": 86.02,
+          "name": "Grant",
+          "level": "county",
+          "nyt_id": "OK-county-40-053",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 658,
+                "advance": 50,
+                "provisional": 0,
+                "absentee_mail": 3,
+                "early_in_person": 0,
+                "absentee_in_person": 47,
+                "election_day_in_person": 608
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 197,
+                "advance": 31,
+                "provisional": 0,
+                "absentee_mail": 3,
+                "early_in_person": 0,
+                "absentee_in_person": 28,
+                "election_day_in_person": 166
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "053",
+          "fips_suffix": null,
+          "total_votes": 855,
+          "state_postal": "OK",
+          "precincts_total": 7,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 6,
+          "total_expected_vote": 994
+        },
+        {
+          "eevp": 99,
+          "name": "Roger Mills",
+          "level": "county",
+          "nyt_id": "OK-county-40-129",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 667,
+                "advance": 88,
+                "provisional": 0,
+                "absentee_mail": 12,
+                "early_in_person": 0,
+                "absentee_in_person": 76,
+                "election_day_in_person": 579
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 157,
+                "advance": 21,
+                "provisional": 0,
+                "absentee_mail": 4,
+                "early_in_person": 0,
+                "absentee_in_person": 17,
+                "election_day_in_person": 136
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "129",
+          "fips_suffix": null,
+          "total_votes": 824,
+          "state_postal": "OK",
+          "precincts_total": 9,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 9,
+          "total_expected_vote": 832
+        },
+        {
+          "eevp": 98.95,
+          "name": "Harper",
+          "level": "county",
+          "nyt_id": "OK-county-40-059",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 622,
+                "advance": 75,
+                "provisional": 0,
+                "absentee_mail": 25,
+                "early_in_person": 0,
+                "absentee_in_person": 50,
+                "election_day_in_person": 547
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 133,
+                "advance": 16,
+                "provisional": 0,
+                "absentee_mail": 7,
+                "early_in_person": 0,
+                "absentee_in_person": 9,
+                "election_day_in_person": 117
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "059",
+          "fips_suffix": null,
+          "total_votes": 755,
+          "state_postal": "OK",
+          "precincts_total": 6,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 6,
+          "total_expected_vote": 763
+        },
+        {
+          "eevp": 89.08,
+          "name": "Jefferson",
+          "level": "county",
+          "nyt_id": "OK-county-40-067",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 453,
+                "advance": 44,
+                "provisional": 0,
+                "absentee_mail": 7,
+                "early_in_person": 0,
+                "absentee_in_person": 37,
+                "election_day_in_person": 409
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 183,
+                "advance": 28,
+                "provisional": 0,
+                "absentee_mail": 1,
+                "early_in_person": 0,
+                "absentee_in_person": 27,
+                "election_day_in_person": 155
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "067",
+          "fips_suffix": null,
+          "total_votes": 636,
+          "state_postal": "OK",
+          "precincts_total": 9,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 8,
+          "total_expected_vote": 714
+        },
+        {
+          "eevp": 21.35,
+          "name": "Choctaw",
+          "level": "county",
+          "nyt_id": "OK-county-40-023",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 488,
+                "advance": 256,
+                "provisional": 0,
+                "absentee_mail": 14,
+                "early_in_person": 0,
+                "absentee_in_person": 242,
+                "election_day_in_person": 232
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 139,
+                "advance": 74,
+                "provisional": 0,
+                "absentee_mail": 8,
+                "early_in_person": 0,
+                "absentee_in_person": 66,
+                "election_day_in_person": 65
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "023",
+          "fips_suffix": null,
+          "total_votes": 627,
+          "state_postal": "OK",
+          "precincts_total": 11,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 3,
+          "total_expected_vote": 2937
+        },
+        {
+          "eevp": 27.29,
+          "name": "Okfuskee",
+          "level": "county",
+          "nyt_id": "OK-county-40-107",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 318,
+                "advance": 124,
+                "provisional": 0,
+                "absentee_mail": 8,
+                "early_in_person": 0,
+                "absentee_in_person": 116,
+                "election_day_in_person": 194
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 117,
+                "advance": 46,
+                "provisional": 0,
+                "absentee_mail": 5,
+                "early_in_person": 0,
+                "absentee_in_person": 41,
+                "election_day_in_person": 71
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "107",
+          "fips_suffix": null,
+          "total_votes": 435,
+          "state_postal": "OK",
+          "precincts_total": 13,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 3,
+          "total_expected_vote": 1594
+        },
+        {
+          "eevp": 99,
+          "name": "Cimarron",
+          "level": "county",
+          "nyt_id": "OK-county-40-025",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 338,
+                "advance": 65,
+                "provisional": 0,
+                "absentee_mail": 11,
+                "early_in_person": 0,
+                "absentee_in_person": 54,
+                "election_day_in_person": 273
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 94,
+                "advance": 16,
+                "provisional": 0,
+                "absentee_mail": 6,
+                "early_in_person": 0,
+                "absentee_in_person": 10,
+                "election_day_in_person": 78
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "025",
+          "fips_suffix": null,
+          "total_votes": 432,
+          "state_postal": "OK",
+          "precincts_total": 6,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 6,
+          "total_expected_vote": 436
+        },
+        {
+          "eevp": 98.98,
+          "name": "Harmon",
+          "level": "county",
+          "nyt_id": "OK-county-40-057",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 281,
+                "advance": 32,
+                "provisional": 0,
+                "absentee_mail": 3,
+                "early_in_person": 0,
+                "absentee_in_person": 29,
+                "election_day_in_person": 249
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 107,
+                "advance": 20,
+                "provisional": 0,
+                "absentee_mail": 3,
+                "early_in_person": 0,
+                "absentee_in_person": 17,
+                "election_day_in_person": 87
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "057",
+          "fips_suffix": null,
+          "total_votes": 388,
+          "state_postal": "OK",
+          "precincts_total": 6,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 6,
+          "total_expected_vote": 392
+        },
+        {
+          "eevp": 9.92,
+          "name": "Nowata",
+          "level": "county",
+          "nyt_id": "OK-county-40-105",
+          "eevp_max": 99,
+          "state_abb": "Okla.",
+          "candidates": [
+            {
+              "votes": {
+                "total": 160,
+                "advance": 160,
+                "provisional": 0,
+                "absentee_mail": 19,
+                "early_in_person": 0,
+                "absentee_in_person": 141,
+                "election_day_in_person": 0
+              },
+              "leader": true,
+              "nyt_id": "no"
+            },
+            {
+              "votes": {
+                "total": 57,
+                "advance": 57,
+                "provisional": 0,
+                "absentee_mail": 22,
+                "early_in_person": 0,
+                "absentee_in_person": 35,
+                "election_day_in_person": 0
+              },
+              "leader": false,
+              "nyt_id": "yes"
+            }
+          ],
+          "fips_state": "40",
+          "fips_county": "105",
+          "fips_suffix": null,
+          "total_votes": 217,
+          "state_postal": "OK",
+          "precincts_total": 12,
+          "nyt_vote_estimate": null,
+          "precincts_reporting": 0,
+          "total_expected_vote": 2188
+        }
+      ],
+      "candidate_metadata": {
+        "no": {
+          "order": 2,
+          "party": {
+            "name": "No",
+            "nyt_id": "NO",
+            "abbreviation": "Other"
+          },
+          "nyt_id": "no",
+          "suffix": null,
+          "img_url": null,
+          "incumbent": false,
+          "last_name": "No",
+          "first_name": null,
+          "ballot_order": 2,
+          "nyt_candidate_id": 18286
+        },
+        "yes": {
+          "order": 1,
+          "party": {
+            "name": "Yes",
+            "nyt_id": "YES",
+            "abbreviation": "Other"
+          },
+          "nyt_id": "yes",
+          "suffix": null,
+          "img_url": null,
+          "incumbent": false,
+          "last_name": "Yes",
+          "first_name": null,
+          "ballot_order": 1,
+          "nyt_candidate_id": 18285
+        }
+      },
+      "show_precinct_data": null,
+      "top_reporting_unit": {
+        "eevp": 60.74,
+        "name": "Oklahoma",
+        "level": "state",
+        "nyt_id": "OK-state",
+        "eevp_max": 99,
+        "provider": "ap",
+        "state_abb": "Okla.",
+        "candidates": [
+          {
+            "votes": {
+              "total": 204600,
+              "advance": 29259
+            },
+            "leader": true,
+            "nyt_id": "no"
+          },
+          {
+            "votes": {
+              "total": 120078,
+              "advance": 18995
+            },
+            "leader": false,
+            "nyt_id": "yes"
+          }
+        ],
+        "fips_state": "40",
+        "fips_county": null,
+        "fips_suffix": null,
+        "total_votes": 324678,
+        "state_postal": "OK",
+        "precincts_total": 1982,
+        "nyt_vote_estimate": null,
+        "precincts_reporting": 1226,
+        "provider_updated_at": "2023-03-08T02:08:49.075+00:00",
+        "total_expected_vote": 534580
+      }
+    }
+  ],
+  "precincts": [],
+  "liveAlerts": [],
+  "pageConfig": {
+    "id": 2712,
+    "slug": "results-oklahoma-question-820",
+    "links": [],
+    "notes": null,
+    "byline": null,
+    "credit": "Produced by Michael Andre, Neil Berg, Matthew Bloch, Irineo Cabreros, Nate Cohn, Lindsey Rogers Cook, Annie Daniel, Saurabh Datar, Andrew Fischer, Mart\u00edn Gonz\u00e1lez G\u00f3mez, Will Houp, Aaron Krolik, Jasmine C. Lee, Ilana Marcus, Charlie Smart and Isaac White. Editing by Wilson Andrews, William P. Davis, Amy Hughes, Ben Koski and Allison McCartney.",
+    "layout": null,
+    "has_amp": false,
+    "is_live": true,
+    "summary": "See full results and maps from the Oklahoma elections.",
+    "headline": "Oklahoma State Question 820 Election Results: Marijuana Legalization",
+    "show_ads": true,
+    "template": "race-page",
+    "documents": [
+      {
+        "name": "2023-03-07 Race Page Text",
+        "contents": {
+          "text": [
+            {
+              "paragraph": "Oklahomans are voting on whether to allow for recreational use of marijuana during a special election in the state, where medical marijuana has been legal and widely available to residents for years. The measure is supported by criminal justice reform advocates and the A.C.L.U. and opposed by Gov. Kevin Stitt and several law enforcement associations. Backers have raised far more campaign money than opponents.",
+              "placement": {
+                "id": "OK-I-38621-OK-2023-03-07",
+                "type": "page-header"
+              }
+            }
+          ]
+        },
+        "updated_at": "2023-03-07T21:31:10.587892+00:00"
+      }
+    ],
+    "asset_type": "standalone",
+    "correction": null,
+    "navigation": [],
+    "collections": {
+      "asset_races": {
+        "race_ids": [
+          "OK-I-38621-OK-2023-03-07"
+        ],
+        "collection_type": "races"
+      }
+    },
+    "publish_url": "https://www.nytimes.com/interactive/2023/03/07/us/elections/results-oklahoma-question-820.html",
+    "render_path": "/standalone/2023-03-07/race-page/results-oklahoma-question-820.publisher",
+    "render_tags": {
+      "state": [
+        {
+          "label": null,
+          "value": "OK"
+        }
+      ],
+      "office": [
+        {
+          "label": null,
+          "value": "Question"
+        }
+      ]
+    },
+    "seo_headline": "Oklahoma Marijuana Legalization Election Results 2023",
+    "extra_columns": {
+      "wide_headline": true
+    },
+    "scoop_publish": true,
+    "election_event": "2023-03-07",
+    "rehearsal_name": null,
+    "related_assets": null,
+    "for_publication": true,
+    "publisher_created": true,
+    "publisher_created_at": "2023-03-07T00:00:00.000Z"
+  },
+  "timeseries": {},
+  "resultsMeta": {
+    "docsUpdatedAt": "2023-03-07T21:31:10.587Z",
+    "resultsUpdatedAt": "2023-03-08T02:08:49.075Z"
+  },
+  "raceCollections": {
+    "scoreboard_races": []
+  },
+  "reporterUpdates": [],
+  "pollClosingTimes": [
+    {
+      "reporting_unit": {
+        "state_postal": "OK"
+      },
+      "poll_closing_text": "Polls close at 8 p.m. Eastern time.",
+      "poll_closing_time": "2023-03-08T01:00:00.000Z",
+      "waiting_for_results_text": "Polls have closed.",
+      "poll_closing_countdown_text": "Polls close in",
+      "poll_closing_time_display_et": "8 p.m."
+    }
+  ],
+  "statePagesForNav": [],
+  "precinctDemographics": []
+}

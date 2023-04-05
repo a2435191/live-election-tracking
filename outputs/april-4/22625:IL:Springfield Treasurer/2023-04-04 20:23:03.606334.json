@@ -1,0 +1,154 @@
+{
+  "race_id": 22625,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "17",
+  "state_name": "Illinois",
+  "state": "IL",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Springfield Treasurer",
+  "district": "",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T01:22:52.140Z",
+  "race_created": "2023-03-10T19:14:46.215Z",
+  "poll_close_time": "2023-04-04T20:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "48631": 7422,
+      "48632": 4912,
+      "48633": 5051
+    },
+    "voting_data": {
+      "48631": {
+        "absentee_ballots_early_votes": 4362,
+        "election_day_votes": 3060
+      },
+      "48632": {
+        "absentee_ballots_early_votes": 3196,
+        "election_day_votes": 1716
+      },
+      "48633": {
+        "absentee_ballots_early_votes": 3206,
+        "election_day_votes": 1845
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 102,
+      "reporting": 43
+    },
+    "called_candidates": [],
+    "call_times": [],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 825,
+      "county": "Sangamon",
+      "fips": "17167",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 102,
+        "reporting": 43
+      },
+      "votes": {
+        "48631": 7422,
+        "48632": 4912,
+        "48633": 5051
+      },
+      "voting_data": {
+        "48631": {
+          "absentee_ballots_early_votes": 4362,
+          "election_day_votes": 3060
+        },
+        "48632": {
+          "absentee_ballots_early_votes": 3196,
+          "election_day_votes": 1716
+        },
+        "48633": {
+          "absentee_ballots_early_votes": 3206,
+          "election_day_votes": 1845
+        }
+      },
+      "vcus": [
+        {
+          "id": 2116,
+          "vcu": "Sangamon",
+          "fips": "17167",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 102,
+            "reporting": 43
+          },
+          "votes": {
+            "48631": 7422,
+            "48632": 4912,
+            "48633": 5051
+          },
+          "voting_data": {
+            "48631": {
+              "absentee_ballots_early_votes": 4362,
+              "election_day_votes": 3060
+            },
+            "48632": {
+              "absentee_ballots_early_votes": 3196,
+              "election_day_votes": 1716
+            },
+            "48633": {
+              "absentee_ballots_early_votes": 3206,
+              "election_day_votes": 1845
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 48631,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Colleen",
+      "last_name": "Redpath Feger",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48632,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Lisa",
+      "last_name": "Badger",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48633,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Bill",
+      "last_name": "McCarty",
+      "incumbent": false
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "race_id": 22720,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "55",
+  "state_name": "Wisconsin",
+  "state": "WI",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Sheboygan County Circuit Court Judge",
+  "district": "Branch 5",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T05:40:23.113Z",
+  "race_created": "2023-03-20T21:47:37.039Z",
+  "poll_close_time": "2023-04-04T21:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "48835": 16283,
+      "48836": 15417
+    },
+    "voting_data": {
+      "48835": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48836": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 55,
+      "reporting": 55
+    },
+    "called_candidates": [],
+    "call_times": [],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 3214,
+      "county": "Sheboygan",
+      "fips": "55117",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 55,
+        "reporting": 55
+      },
+      "votes": {
+        "48835": 16283,
+        "48836": 15417
+      },
+      "voting_data": {
+        "48835": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48836": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 718,
+          "vcu": "Sheboygan",
+          "fips": "55117",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 55,
+            "reporting": 55
+          },
+          "votes": {
+            "48835": 16283,
+            "48836": 15417
+          },
+          "voting_data": {
+            "48835": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48836": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 48835,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "George",
+      "last_name": "Limbeck",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48836,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Cassandra",
+      "last_name": "Van Gompel",
+      "incumbent": false
+    }
+  ]
+}

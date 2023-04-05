@@ -1,0 +1,189 @@
+{
+  "race_id": 22664,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "55",
+  "state_name": "Wisconsin",
+  "state": "WI",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Green Bay School Board",
+  "district": "",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T04:58:41.261Z",
+  "race_created": "2023-03-20T12:54:20.976Z",
+  "poll_close_time": "2023-04-04T21:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "48720": 17414,
+      "48721": 6662,
+      "48722": 16174,
+      "48723": 11196
+    },
+    "voting_data": {
+      "48720": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48721": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48722": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48723": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 70,
+      "reporting": 70
+    },
+    "called_candidates": [
+      48720,
+      48722
+    ],
+    "call_times": [
+      {
+        "cand_id": 48720,
+        "called_time": "2023-04-05T04:58:41.000Z"
+      },
+      {
+        "cand_id": 48722,
+        "called_time": "2023-04-05T04:58:41.000Z"
+      }
+    ],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 3160,
+      "county": "Brown",
+      "fips": "55009",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 70,
+        "reporting": 70
+      },
+      "votes": {
+        "48720": 17414,
+        "48721": 6662,
+        "48722": 16174,
+        "48723": 11196
+      },
+      "voting_data": {
+        "48720": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48721": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48722": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48723": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 664,
+          "vcu": "Brown",
+          "fips": "55009",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 70,
+            "reporting": 70
+          },
+          "votes": {
+            "48720": 17414,
+            "48721": 6662,
+            "48722": 16174,
+            "48723": 11196
+          },
+          "voting_data": {
+            "48720": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48721": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48722": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48723": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 48720,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Laura",
+      "last_name": "McCoy",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48721,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Paul",
+      "last_name": "Boucher",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48722,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Lynn",
+      "last_name": "Gerlach",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48723,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Noah",
+      "last_name": "Becker",
+      "incumbent": false
+    }
+  ]
+}

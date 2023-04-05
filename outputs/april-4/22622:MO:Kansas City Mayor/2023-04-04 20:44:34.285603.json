@@ -1,0 +1,154 @@
+{
+  "race_id": 22622,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "29",
+  "state_name": "Missouri",
+  "state": "MO",
+  "ecvotes": null,
+  "election_type_id": 2,
+  "name": "Primary",
+  "race_date": "2023-04-04",
+  "office_id": 6,
+  "office": "Kansas City Mayor",
+  "district": "",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "City",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T01:44:22.214Z",
+  "race_created": "2023-03-09T16:14:23.055Z",
+  "poll_close_time": "2023-04-04T20:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "1802": 138,
+      "48624": 8795,
+      "48625": 727
+    },
+    "voting_data": {
+      "1802": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48624": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48625": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 116,
+      "reporting": 0
+    },
+    "called_candidates": [],
+    "call_times": [],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 1664,
+      "county": "Jackson",
+      "fips": "29095",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 116,
+        "reporting": 0
+      },
+      "votes": {
+        "1802": 138,
+        "48624": 8795,
+        "48625": 727
+      },
+      "voting_data": {
+        "1802": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48624": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48625": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 6589,
+          "vcu": "Kansas City",
+          "fips": "2938000",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 116,
+            "reporting": 0
+          },
+          "votes": {
+            "1802": 138,
+            "48624": 8795,
+            "48625": 727
+          },
+          "voting_data": {
+            "1802": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48624": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48625": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 1802,
+      "party_name": "Unaffiliated",
+      "party_id": 11,
+      "first_name": "Write",
+      "last_name": "In",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48624,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Quinton",
+      "last_name": "Lucas",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48625,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Clay",
+      "last_name": "Chastain",
+      "incumbent": false
+    }
+  ]
+}

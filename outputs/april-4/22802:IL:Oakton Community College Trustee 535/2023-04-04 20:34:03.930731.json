@@ -1,0 +1,143 @@
+{
+  "race_id": 22802,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "17",
+  "state_name": "Illinois",
+  "state": "IL",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Oakton Community College Trustee 535",
+  "district": "",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T01:03:18.949Z",
+  "race_created": "2023-03-28T14:55:46.254Z",
+  "poll_close_time": "2023-04-04T20:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "49060": 28871,
+      "49061": 30511
+    },
+    "voting_data": {
+      "49060": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "49061": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 293,
+      "reporting": 282
+    },
+    "called_candidates": [
+      49060,
+      49061
+    ],
+    "call_times": [
+      {
+        "cand_id": 49060,
+        "called_time": "2023-04-05T00:00:13.000Z"
+      },
+      {
+        "cand_id": 49061,
+        "called_time": "2023-04-05T00:00:13.000Z"
+      }
+    ],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 758,
+      "county": "Cook",
+      "fips": "17031",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 293,
+        "reporting": 282
+      },
+      "votes": {
+        "49060": 28871,
+        "49061": 30511
+      },
+      "voting_data": {
+        "49060": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49061": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 2123,
+          "vcu": "Cook",
+          "fips": "17031",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 293,
+            "reporting": 282
+          },
+          "votes": {
+            "49060": 28871,
+            "49061": 30511
+          },
+          "voting_data": {
+            "49060": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49061": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 49060,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Theresa",
+      "last_name": "Bashiri-Remetio",
+      "incumbent": false
+    },
+    {
+      "cand_id": 49061,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Martha",
+      "last_name": "Burns",
+      "incumbent": true
+    }
+  ]
+}

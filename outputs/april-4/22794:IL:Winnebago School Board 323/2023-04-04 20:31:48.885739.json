@@ -1,0 +1,354 @@
+{
+  "race_id": 22794,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "17",
+  "state_name": "Illinois",
+  "state": "IL",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Winnebago School Board 323",
+  "district": "",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T01:15:39.104Z",
+  "race_created": "2023-03-22T17:30:37.575Z",
+  "poll_close_time": "2023-04-04T20:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "49039": 372,
+      "49040": 449,
+      "49041": 330,
+      "49042": 349,
+      "49043": 382,
+      "49044": 374,
+      "49045": 368
+    },
+    "voting_data": {
+      "49039": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "49040": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "49041": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "49042": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "49043": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "49044": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "49045": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 15,
+      "reporting": 11
+    },
+    "called_candidates": [],
+    "call_times": [],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 843,
+      "county": "Winnebago",
+      "fips": "17201",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 14,
+        "reporting": 10
+      },
+      "votes": {
+        "49039": 370,
+        "49040": 447,
+        "49041": 330,
+        "49042": 349,
+        "49043": 380,
+        "49044": 374,
+        "49045": 366
+      },
+      "voting_data": {
+        "49039": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49040": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49041": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49042": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49043": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49044": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49045": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 2162,
+          "vcu": "Winnebago",
+          "fips": "17201",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 14,
+            "reporting": 10
+          },
+          "votes": {
+            "49039": 370,
+            "49040": 447,
+            "49041": 330,
+            "49042": 349,
+            "49043": 380,
+            "49044": 374,
+            "49045": 366
+          },
+          "voting_data": {
+            "49039": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49040": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49041": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49042": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49043": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49044": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49045": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 831,
+      "county": "Stephenson",
+      "fips": "17177",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 1,
+        "reporting": 1
+      },
+      "votes": {
+        "49039": 2,
+        "49040": 2,
+        "49041": 0,
+        "49042": 0,
+        "49043": 2,
+        "49044": 0,
+        "49045": 2
+      },
+      "voting_data": {
+        "49039": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49040": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49041": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49042": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49043": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49044": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49045": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 2163,
+          "vcu": "Stephenson",
+          "fips": "17177",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 1,
+            "reporting": 1
+          },
+          "votes": {
+            "49039": 2,
+            "49040": 2,
+            "49041": 0,
+            "49042": 0,
+            "49043": 2,
+            "49044": 0,
+            "49045": 2
+          },
+          "voting_data": {
+            "49039": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49040": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49041": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49042": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49043": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49044": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49045": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 49039,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Michael",
+      "last_name": "Rossol",
+      "incumbent": false
+    },
+    {
+      "cand_id": 49040,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Melissa",
+      "last_name": "Thomas",
+      "incumbent": true
+    },
+    {
+      "cand_id": 49041,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Tracy",
+      "last_name": "Kruse",
+      "incumbent": false
+    },
+    {
+      "cand_id": 49042,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Nichole",
+      "last_name": "Smith",
+      "incumbent": true
+    },
+    {
+      "cand_id": 49043,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "James",
+      "last_name": "Gray",
+      "incumbent": true
+    },
+    {
+      "cand_id": 49044,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Jon",
+      "last_name": "Strutzenberg",
+      "incumbent": false
+    },
+    {
+      "cand_id": 49045,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Cali",
+      "last_name": "Oberbroeckling",
+      "incumbent": false
+    }
+  ]
+}

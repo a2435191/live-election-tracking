@@ -1,0 +1,189 @@
+{
+  "race_id": 22728,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "55",
+  "state_name": "Wisconsin",
+  "state": "WI",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Sheboygan Falls School Board",
+  "district": "",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T05:48:05.787Z",
+  "race_created": "2023-03-21T14:10:49.193Z",
+  "poll_close_time": "2023-04-04T21:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "48855": 1031,
+      "48856": 1629,
+      "48857": 1483,
+      "48858": 1582
+    },
+    "voting_data": {
+      "48855": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48856": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48857": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48858": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 27,
+      "reporting": 27
+    },
+    "called_candidates": [
+      48856,
+      48858
+    ],
+    "call_times": [
+      {
+        "cand_id": 48856,
+        "called_time": "2023-04-05T05:48:05.000Z"
+      },
+      {
+        "cand_id": 48858,
+        "called_time": "2023-04-05T05:48:05.000Z"
+      }
+    ],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 3214,
+      "county": "Sheboygan",
+      "fips": "55117",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 27,
+        "reporting": 27
+      },
+      "votes": {
+        "48855": 1031,
+        "48856": 1629,
+        "48857": 1483,
+        "48858": 1582
+      },
+      "voting_data": {
+        "48855": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48856": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48857": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48858": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 718,
+          "vcu": "Sheboygan",
+          "fips": "55117",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 27,
+            "reporting": 27
+          },
+          "votes": {
+            "48855": 1031,
+            "48856": 1629,
+            "48857": 1483,
+            "48858": 1582
+          },
+          "voting_data": {
+            "48855": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48856": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48857": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48858": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 48855,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Robyn",
+      "last_name": "Sexton",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48856,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Michele",
+      "last_name": "Meerdink",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48857,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Victoria",
+      "last_name": "Bramstedt",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48858,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Gary",
+      "last_name": "Thelan",
+      "incumbent": false
+    }
+  ]
+}

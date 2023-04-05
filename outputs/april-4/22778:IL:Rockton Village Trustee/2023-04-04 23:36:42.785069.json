@@ -1,0 +1,263 @@
+{
+  "race_id": 22778,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "17",
+  "state_name": "Illinois",
+  "state": "IL",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Rockton Village Trustee",
+  "district": "",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T04:36:14.291Z",
+  "race_created": "2023-03-22T15:44:59.944Z",
+  "poll_close_time": "2023-04-04T20:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "48973": 507,
+      "48974": 477,
+      "48975": 343,
+      "48976": 195,
+      "48977": 256,
+      "48978": 595,
+      "48979": 232
+    },
+    "voting_data": {
+      "48973": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48974": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48975": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48976": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48977": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48978": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48979": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 9,
+      "reporting": 9
+    },
+    "called_candidates": [
+      48973,
+      48974,
+      48978
+    ],
+    "call_times": [
+      {
+        "cand_id": 48973,
+        "called_time": "2023-04-05T04:36:14.000Z"
+      },
+      {
+        "cand_id": 48974,
+        "called_time": "2023-04-05T04:36:14.000Z"
+      },
+      {
+        "cand_id": 48978,
+        "called_time": "2023-04-05T04:36:14.000Z"
+      }
+    ],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 843,
+      "county": "Winnebago",
+      "fips": "17201",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 9,
+        "reporting": 9
+      },
+      "votes": {
+        "48973": 507,
+        "48974": 477,
+        "48975": 343,
+        "48976": 195,
+        "48977": 256,
+        "48978": 595,
+        "48979": 232
+      },
+      "voting_data": {
+        "48973": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48974": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48975": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48976": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48977": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48978": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48979": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 2162,
+          "vcu": "Winnebago",
+          "fips": "17201",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 9,
+            "reporting": 9
+          },
+          "votes": {
+            "48973": 507,
+            "48974": 477,
+            "48975": 343,
+            "48976": 195,
+            "48977": 256,
+            "48978": 595,
+            "48979": 232
+          },
+          "voting_data": {
+            "48973": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48974": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48975": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48976": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48977": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48978": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48979": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 48973,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Dave",
+      "last_name": "Winters",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48974,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Jodi",
+      "last_name": "May",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48975,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Jamin",
+      "last_name": "Unger",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48976,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Tyler",
+      "last_name": "Seever",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48977,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Angela",
+      "last_name": "Ketelsen",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48978,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Daniel",
+      "last_name": "Baumgartner",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48979,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Nicole",
+      "last_name": "Roggenbuck",
+      "incumbent": false
+    }
+  ]
+}

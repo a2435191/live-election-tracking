@@ -1,0 +1,567 @@
+{
+  "race_id": 22754,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "17",
+  "state_name": "Illinois",
+  "state": "IL",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Rock Valley Community College Trustee 511",
+  "district": "",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T01:20:13.505Z",
+  "race_created": "2023-03-21T21:39:02.625Z",
+  "poll_close_time": "2023-04-04T20:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "48920": 8871,
+      "48921": 5665,
+      "48922": 5577,
+      "48923": 9941
+    },
+    "voting_data": {
+      "48920": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48921": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48922": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48923": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 246,
+      "reporting": 121
+    },
+    "called_candidates": [],
+    "call_times": [],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 813,
+      "county": "Ogle",
+      "fips": "17141",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 23,
+        "reporting": 3
+      },
+      "votes": {
+        "48920": 55,
+        "48921": 29,
+        "48922": 34,
+        "48923": 71
+      },
+      "voting_data": {
+        "48920": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48921": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48922": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48923": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 2156,
+          "vcu": "Ogle",
+          "fips": "17141",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 23,
+            "reporting": 3
+          },
+          "votes": {
+            "48920": 55,
+            "48921": 29,
+            "48922": 34,
+            "48923": 71
+          },
+          "voting_data": {
+            "48920": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48921": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48922": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48923": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 762,
+      "county": "DeKalb",
+      "fips": "17037",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 1,
+        "reporting": 0
+      },
+      "votes": {
+        "48920": 0,
+        "48921": 0,
+        "48922": 0,
+        "48923": 0
+      },
+      "voting_data": {
+        "48920": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48921": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48922": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48923": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 2158,
+          "vcu": "DeKalb",
+          "fips": "17037",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 1,
+            "reporting": 0
+          },
+          "votes": {
+            "48920": 0,
+            "48921": 0,
+            "48922": 0,
+            "48923": 0
+          },
+          "voting_data": {
+            "48920": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48921": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48922": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48923": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 805,
+      "county": "McHenry",
+      "fips": "17111",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 1,
+        "reporting": 0
+      },
+      "votes": {
+        "48920": 0,
+        "48921": 0,
+        "48922": 0,
+        "48923": 0
+      },
+      "voting_data": {
+        "48920": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48921": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48922": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48923": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 2159,
+          "vcu": "McHenry",
+          "fips": "17111",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 1,
+            "reporting": 0
+          },
+          "votes": {
+            "48920": 0,
+            "48921": 0,
+            "48922": 0,
+            "48923": 0
+          },
+          "voting_data": {
+            "48920": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48921": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48922": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48923": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 843,
+      "county": "Winnebago",
+      "fips": "17201",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 180,
+        "reporting": 91
+      },
+      "votes": {
+        "48920": 7596,
+        "48921": 5154,
+        "48922": 5140,
+        "48923": 8763
+      },
+      "voting_data": {
+        "48920": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48921": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48922": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48923": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 2162,
+          "vcu": "Winnebago",
+          "fips": "17201",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 180,
+            "reporting": 91
+          },
+          "votes": {
+            "48920": 7596,
+            "48921": 5154,
+            "48922": 5140,
+            "48923": 8763
+          },
+          "voting_data": {
+            "48920": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48921": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48922": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48923": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 831,
+      "county": "Stephenson",
+      "fips": "17177",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 4,
+        "reporting": 3
+      },
+      "votes": {
+        "48920": 17,
+        "48921": 1,
+        "48922": 6,
+        "48923": 21
+      },
+      "voting_data": {
+        "48920": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48921": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48922": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48923": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 2163,
+          "vcu": "Stephenson",
+          "fips": "17177",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 4,
+            "reporting": 3
+          },
+          "votes": {
+            "48920": 17,
+            "48921": 1,
+            "48922": 6,
+            "48923": 21
+          },
+          "voting_data": {
+            "48920": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48921": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48922": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48923": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 746,
+      "county": "Boone",
+      "fips": "17007",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 37,
+        "reporting": 24
+      },
+      "votes": {
+        "48920": 1203,
+        "48921": 481,
+        "48922": 397,
+        "48923": 1086
+      },
+      "voting_data": {
+        "48920": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48921": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48922": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48923": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 2164,
+          "vcu": "Boone",
+          "fips": "17007",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 37,
+            "reporting": 24
+          },
+          "votes": {
+            "48920": 1203,
+            "48921": 481,
+            "48922": 397,
+            "48923": 1086
+          },
+          "voting_data": {
+            "48920": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48921": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48922": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48923": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 48920,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Bob",
+      "last_name": "Trojan",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48921,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Ricardo",
+      "last_name": "Picazo",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48922,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Magda",
+      "last_name": "Mohamed",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48923,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Kristen",
+      "last_name": "Simpson",
+      "incumbent": false
+    }
+  ]
+}

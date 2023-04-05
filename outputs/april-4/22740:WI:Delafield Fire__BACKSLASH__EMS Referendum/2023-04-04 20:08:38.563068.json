@@ -1,0 +1,131 @@
+{
+  "race_id": 22740,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "55",
+  "state_name": "Wisconsin",
+  "state": "WI",
+  "ecvotes": null,
+  "election_type_id": 7,
+  "name": "Ballot Question",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Delafield Fire/EMS Referendum",
+  "district": "",
+  "party_id": 0,
+  "party": null,
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": null,
+  "race_created": "2023-03-21T15:31:30.009Z",
+  "poll_close_time": "2023-04-04T21:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "636": 0,
+      "637": 0
+    },
+    "voting_data": {
+      "636": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "637": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 10,
+      "reporting": 0
+    },
+    "called_candidates": [],
+    "call_times": [],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 3224,
+      "county": "Waukesha",
+      "fips": "55133",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 10,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 0,
+        "637": 0
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 727,
+          "vcu": "Waukesha",
+          "fips": "55133",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 10,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 0,
+            "637": 0
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 636,
+      "party_name": "Unaffiliated",
+      "party_id": 11,
+      "first_name": "",
+      "last_name": "Yes",
+      "incumbent": false
+    },
+    {
+      "cand_id": 637,
+      "party_name": "Unaffiliated",
+      "party_id": 11,
+      "first_name": "",
+      "last_name": "No",
+      "incumbent": false
+    }
+  ]
+}

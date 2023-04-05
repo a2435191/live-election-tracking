@@ -1,0 +1,305 @@
+{
+  "race_id": 22618,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "55",
+  "state_name": "Wisconsin",
+  "state": "WI",
+  "ecvotes": null,
+  "election_type_id": 9,
+  "name": "Special Election General",
+  "race_date": "2023-04-04",
+  "office_id": 10,
+  "office": "State Senate",
+  "district": "8",
+  "party_id": 0,
+  "party": null,
+  "level": "State/District",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T01:32:57.540Z",
+  "race_created": "2023-03-09T14:31:49.242Z",
+  "poll_close_time": "2023-04-04T21:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "48467": 15990,
+      "48468": 15709
+    },
+    "voting_data": {
+      "48467": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48468": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 65389,
+      "estimated_votes_mid": 82117,
+      "estimated_votes_high": 98844
+    },
+    "precincts": {
+      "total": 0,
+      "reporting": 0
+    },
+    "called_candidates": [],
+    "call_times": [],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 3196,
+      "county": "Milwaukee",
+      "fips": "55079",
+      "estimated_votes": {
+        "estimated_votes_low": 13929,
+        "estimated_votes_mid": 17493,
+        "estimated_votes_high": 21056
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "48467": 1490,
+        "48468": 4035
+      },
+      "voting_data": {
+        "48467": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48468": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 700,
+          "vcu": "Milwaukee",
+          "fips": "55079",
+          "estimated_votes": {
+            "estimated_votes_low": 13929,
+            "estimated_votes_mid": 17493,
+            "estimated_votes_high": 21056
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "48467": 1490,
+            "48468": 4035
+          },
+          "voting_data": {
+            "48467": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48468": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3201,
+      "county": "Ozaukee",
+      "fips": "55089",
+      "estimated_votes": {
+        "estimated_votes_low": 17780,
+        "estimated_votes_mid": 22328,
+        "estimated_votes_high": 26876
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "48467": 4912,
+        "48468": 5057
+      },
+      "voting_data": {
+        "48467": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48468": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 705,
+          "vcu": "Ozaukee",
+          "fips": "55089",
+          "estimated_votes": {
+            "estimated_votes_low": 17780,
+            "estimated_votes_mid": 22328,
+            "estimated_votes_high": 26876
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "48467": 4912,
+            "48468": 5057
+          },
+          "voting_data": {
+            "48467": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48468": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3223,
+      "county": "Washington",
+      "fips": "55131",
+      "estimated_votes": {
+        "estimated_votes_low": 13036,
+        "estimated_votes_mid": 16371,
+        "estimated_votes_high": 19705
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "48467": 1989,
+        "48468": 1085
+      },
+      "voting_data": {
+        "48467": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48468": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 726,
+          "vcu": "Washington",
+          "fips": "55131",
+          "estimated_votes": {
+            "estimated_votes_low": 13036,
+            "estimated_votes_mid": 16371,
+            "estimated_votes_high": 19705
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "48467": 1989,
+            "48468": 1085
+          },
+          "voting_data": {
+            "48467": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48468": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3224,
+      "county": "Waukesha",
+      "fips": "55133",
+      "estimated_votes": {
+        "estimated_votes_low": 20644,
+        "estimated_votes_mid": 25925,
+        "estimated_votes_high": 31207
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "48467": 7599,
+        "48468": 5532
+      },
+      "voting_data": {
+        "48467": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48468": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 727,
+          "vcu": "Waukesha",
+          "fips": "55133",
+          "estimated_votes": {
+            "estimated_votes_low": 20644,
+            "estimated_votes_mid": 25925,
+            "estimated_votes_high": 31207
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "48467": 7599,
+            "48468": 5532
+          },
+          "voting_data": {
+            "48467": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48468": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 48467,
+      "party_name": "Republican",
+      "party_id": 2,
+      "first_name": "Dan",
+      "last_name": "Knodl",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48468,
+      "party_name": "Democratic",
+      "party_id": 1,
+      "first_name": "Jodi",
+      "last_name": "Sinykin",
+      "incumbent": false
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "race_id": 22653,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "55",
+  "state_name": "Wisconsin",
+  "state": "WI",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Appleton School Board",
+  "district": "",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T03:45:24.614Z",
+  "race_created": "2023-03-16T16:51:35.062Z",
+  "poll_close_time": "2023-04-04T21:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "48691": 15652,
+      "48692": 11039,
+      "48693": 13246,
+      "48694": 12624,
+      "48695": 7702
+    },
+    "voting_data": {
+      "48691": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48692": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48693": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48694": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48695": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 56,
+      "reporting": 47
+    },
+    "called_candidates": [],
+    "call_times": [],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 3163,
+      "county": "Calumet",
+      "fips": "55015",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 9,
+        "reporting": 0
+      },
+      "votes": {
+        "48691": 2359,
+        "48692": 1542,
+        "48693": 1810,
+        "48694": 1857,
+        "48695": 1116
+      },
+      "voting_data": {
+        "48691": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48692": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48693": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48694": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48695": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 667,
+          "vcu": "Calumet",
+          "fips": "55015",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 9,
+            "reporting": 0
+          },
+          "votes": {
+            "48691": 2359,
+            "48692": 1542,
+            "48693": 1810,
+            "48694": 1857,
+            "48695": 1116
+          },
+          "voting_data": {
+            "48691": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48692": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48693": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48694": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48695": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3200,
+      "county": "Outagamie",
+      "fips": "55087",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 47,
+        "reporting": 47
+      },
+      "votes": {
+        "48691": 13293,
+        "48692": 9497,
+        "48693": 11436,
+        "48694": 10767,
+        "48695": 6586
+      },
+      "voting_data": {
+        "48691": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48692": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48693": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48694": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48695": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 704,
+          "vcu": "Outagamie",
+          "fips": "55087",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 47,
+            "reporting": 47
+          },
+          "votes": {
+            "48691": 13293,
+            "48692": 9497,
+            "48693": 11436,
+            "48694": 10767,
+            "48695": 6586
+          },
+          "voting_data": {
+            "48691": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48692": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48693": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48694": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48695": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 48691,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Kristine",
+      "last_name": "Sauter",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48692,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Deb",
+      "last_name": "Truyman",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48693,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Nick",
+      "last_name": "Ross",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48694,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Jason",
+      "last_name": "Kolpack",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48695,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Sam",
+      "last_name": "Blackwell",
+      "incumbent": false
+    }
+  ]
+}

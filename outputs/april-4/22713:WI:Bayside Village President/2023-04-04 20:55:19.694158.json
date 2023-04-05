@@ -1,0 +1,189 @@
+{
+  "race_id": 22713,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "55",
+  "state_name": "Wisconsin",
+  "state": "WI",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Bayside Village President",
+  "district": "",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T01:55:05.064Z",
+  "race_created": "2023-03-20T19:43:55.050Z",
+  "poll_close_time": "2023-04-04T21:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "48817": 1258,
+      "48818": 869
+    },
+    "voting_data": {
+      "48817": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48818": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 4,
+      "reporting": 3
+    },
+    "called_candidates": [],
+    "call_times": [],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 3196,
+      "county": "Milwaukee",
+      "fips": "55079",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 3,
+        "reporting": 3
+      },
+      "votes": {
+        "48817": 1258,
+        "48818": 869
+      },
+      "voting_data": {
+        "48817": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48818": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 700,
+          "vcu": "Milwaukee",
+          "fips": "55079",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 3,
+            "reporting": 3
+          },
+          "votes": {
+            "48817": 1258,
+            "48818": 869
+          },
+          "voting_data": {
+            "48817": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48818": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3201,
+      "county": "Ozaukee",
+      "fips": "55089",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 1,
+        "reporting": 0
+      },
+      "votes": {
+        "48817": 0,
+        "48818": 0
+      },
+      "voting_data": {
+        "48817": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48818": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 705,
+          "vcu": "Ozaukee",
+          "fips": "55089",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 1,
+            "reporting": 0
+          },
+          "votes": {
+            "48817": 0,
+            "48818": 0
+          },
+          "voting_data": {
+            "48817": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48818": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 48817,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Eido",
+      "last_name": "Walny",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48818,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Liz",
+      "last_name": "Levins",
+      "incumbent": false
+    }
+  ]
+}

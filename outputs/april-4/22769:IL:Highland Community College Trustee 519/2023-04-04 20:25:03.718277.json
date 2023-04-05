@@ -1,0 +1,517 @@
+{
+  "race_id": 22769,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "17",
+  "state_name": "Illinois",
+  "state": "IL",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Highland Community College Trustee 519",
+  "district": "",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T01:25:02.187Z",
+  "race_created": "2023-03-22T15:12:05.833Z",
+  "poll_close_time": "2023-04-04T20:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "48955": 1811,
+      "48956": 2282,
+      "48957": 1637,
+      "48958": 1169,
+      "48959": 1539,
+      "48960": 1297
+    },
+    "voting_data": {
+      "48955": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48956": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48957": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48958": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48959": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48960": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 68,
+      "reporting": 27
+    },
+    "called_candidates": [],
+    "call_times": [],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 813,
+      "county": "Ogle",
+      "fips": "17141",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 12,
+        "reporting": 0
+      },
+      "votes": {
+        "48955": 0,
+        "48956": 0,
+        "48957": 0,
+        "48958": 0,
+        "48959": 0,
+        "48960": 0
+      },
+      "voting_data": {
+        "48955": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48956": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48957": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48958": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48959": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48960": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 2156,
+          "vcu": "Ogle",
+          "fips": "17141",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 12,
+            "reporting": 0
+          },
+          "votes": {
+            "48955": 0,
+            "48956": 0,
+            "48957": 0,
+            "48958": 0,
+            "48959": 0,
+            "48960": 0
+          },
+          "voting_data": {
+            "48955": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48956": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48957": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48958": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48959": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48960": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 750,
+      "county": "Carroll",
+      "fips": "17015",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 17,
+        "reporting": 11
+      },
+      "votes": {
+        "48955": 498,
+        "48956": 497,
+        "48957": 279,
+        "48958": 170,
+        "48959": 317,
+        "48960": 225
+      },
+      "voting_data": {
+        "48955": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48956": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48957": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48958": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48959": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48960": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 2157,
+          "vcu": "Carroll",
+          "fips": "17015",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 17,
+            "reporting": 11
+          },
+          "votes": {
+            "48955": 498,
+            "48956": 497,
+            "48957": 279,
+            "48958": 170,
+            "48959": 317,
+            "48960": 225
+          },
+          "voting_data": {
+            "48955": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48956": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48957": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48958": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48959": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48960": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 831,
+      "county": "Stephenson",
+      "fips": "17177",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 36,
+        "reporting": 16
+      },
+      "votes": {
+        "48955": 632,
+        "48956": 596,
+        "48957": 435,
+        "48958": 518,
+        "48959": 622,
+        "48960": 495
+      },
+      "voting_data": {
+        "48955": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48956": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48957": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48958": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48959": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48960": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 2163,
+          "vcu": "Stephenson",
+          "fips": "17177",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 36,
+            "reporting": 16
+          },
+          "votes": {
+            "48955": 632,
+            "48956": 596,
+            "48957": 435,
+            "48958": 518,
+            "48959": 622,
+            "48960": 495
+          },
+          "voting_data": {
+            "48955": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48956": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48957": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48958": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48959": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48960": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 785,
+      "county": "JoDaviess",
+      "fips": "17085",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 3,
+        "reporting": 0
+      },
+      "votes": {
+        "48955": 681,
+        "48956": 1189,
+        "48957": 923,
+        "48958": 481,
+        "48959": 600,
+        "48960": 577
+      },
+      "voting_data": {
+        "48955": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48956": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48957": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48958": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48959": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48960": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 2165,
+          "vcu": "JoDaviess",
+          "fips": "17085",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 3,
+            "reporting": 0
+          },
+          "votes": {
+            "48955": 681,
+            "48956": 1189,
+            "48957": 923,
+            "48958": 481,
+            "48959": 600,
+            "48960": 577
+          },
+          "voting_data": {
+            "48955": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48956": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48957": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48958": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48959": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48960": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 48955,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Douglas",
+      "last_name": "Block",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48956,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Pennie",
+      "last_name": "Groezinger",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48957,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Brenda",
+      "last_name": "Potter",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48958,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Paulette",
+      "last_name": "Thomas",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48959,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Mary",
+      "last_name": "Kaufman",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48960,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Colton",
+      "last_name": "Havens",
+      "incumbent": false
+    }
+  ]
+}

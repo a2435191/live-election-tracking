@@ -1,0 +1,136 @@
+{
+  "race_id": 22549,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "12",
+  "state_name": "Florida",
+  "state": "FL",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-03-07",
+  "office_id": 6,
+  "office": "Tampa Mayor",
+  "district": "",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": null,
+  "advance_candidates": "false",
+  "last_updated": "2023-03-08T00:11:37.724Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "1802": 2848,
+      "48489": 15008
+    },
+    "voting_data": {
+      "1802": {
+        "absentee_ballots_early_votes": 2848,
+        "election_day_votes": 0
+      },
+      "48489": {
+        "absentee_ballots_early_votes": 15008,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 123,
+      "reporting": 0
+    },
+    "called_candidates": [
+      48489
+    ],
+    "call_times": [
+      {
+        "cand_id": 48489,
+        "called_time": "2023-03-08T00:11:37.000Z"
+      }
+    ],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 495,
+      "county": "Hillsborough",
+      "fips": "12057",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 123,
+        "reporting": 0
+      },
+      "votes": {
+        "1802": 2848,
+        "48489": 15008
+      },
+      "voting_data": {
+        "1802": {
+          "absentee_ballots_early_votes": 2848,
+          "election_day_votes": 0
+        },
+        "48489": {
+          "absentee_ballots_early_votes": 15008,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 1836,
+          "vcu": "Hillsborough",
+          "fips": "12057",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 123,
+            "reporting": 0
+          },
+          "votes": {
+            "1802": 2848,
+            "48489": 15008
+          },
+          "voting_data": {
+            "1802": {
+              "absentee_ballots_early_votes": 2848,
+              "election_day_votes": 0
+            },
+            "48489": {
+              "absentee_ballots_early_votes": 15008,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 1802,
+      "party_name": "Unaffiliated",
+      "party_id": 11,
+      "first_name": "Write",
+      "last_name": "In",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48489,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Jane",
+      "last_name": "Castor",
+      "incumbent": true
+    }
+  ]
+}

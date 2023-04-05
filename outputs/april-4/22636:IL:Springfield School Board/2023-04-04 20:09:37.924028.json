@@ -1,0 +1,154 @@
+{
+  "race_id": 22636,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "17",
+  "state_name": "Illinois",
+  "state": "IL",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Springfield School Board",
+  "district": "3",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T01:09:23.838Z",
+  "race_created": "2023-03-13T20:07:27.569Z",
+  "poll_close_time": "2023-04-04T20:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "48656": 486,
+      "48657": 332,
+      "48658": 341
+    },
+    "voting_data": {
+      "48656": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48657": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48658": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 19,
+      "reporting": 3
+    },
+    "called_candidates": [],
+    "call_times": [],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 825,
+      "county": "Sangamon",
+      "fips": "17167",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 19,
+        "reporting": 3
+      },
+      "votes": {
+        "48656": 486,
+        "48657": 332,
+        "48658": 341
+      },
+      "voting_data": {
+        "48656": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48657": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48658": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 2116,
+          "vcu": "Sangamon",
+          "fips": "17167",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 19,
+            "reporting": 3
+          },
+          "votes": {
+            "48656": 486,
+            "48657": 332,
+            "48658": 341
+          },
+          "voting_data": {
+            "48656": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48657": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48658": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 48656,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Sarah",
+      "last_name": "Blissett",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48657,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Spurgeon",
+      "last_name": "Johnson",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48658,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Jessica",
+      "last_name": "Bandy",
+      "incumbent": false
+    }
+  ]
+}

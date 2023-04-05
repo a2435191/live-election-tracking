@@ -1,0 +1,255 @@
+{
+  "race_id": 22687,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "55",
+  "state_name": "Wisconsin",
+  "state": "WI",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Marshfield School Board",
+  "district": "",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T04:55:48.976Z",
+  "race_created": "2023-03-20T15:39:52.142Z",
+  "poll_close_time": "2023-04-04T21:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "48775": 4352,
+      "48776": 3681,
+      "48777": 4179,
+      "48778": 4221
+    },
+    "voting_data": {
+      "48775": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48776": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48777": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48778": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 20,
+      "reporting": 20
+    },
+    "called_candidates": [],
+    "call_times": [],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 3192,
+      "county": "Marathon",
+      "fips": "55073",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 4,
+        "reporting": 4
+      },
+      "votes": {
+        "48775": 620,
+        "48776": 437,
+        "48777": 632,
+        "48778": 541
+      },
+      "voting_data": {
+        "48775": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48776": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48777": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48778": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 696,
+          "vcu": "Marathon",
+          "fips": "55073",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 4,
+            "reporting": 4
+          },
+          "votes": {
+            "48775": 620,
+            "48776": 437,
+            "48777": 632,
+            "48778": 541
+          },
+          "voting_data": {
+            "48775": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48776": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48777": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48778": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3228,
+      "county": "Wood",
+      "fips": "55141",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 16,
+        "reporting": 16
+      },
+      "votes": {
+        "48775": 3732,
+        "48776": 3244,
+        "48777": 3547,
+        "48778": 3680
+      },
+      "voting_data": {
+        "48775": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48776": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48777": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48778": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 731,
+          "vcu": "Wood",
+          "fips": "55141",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 16,
+            "reporting": 16
+          },
+          "votes": {
+            "48775": 3732,
+            "48776": 3244,
+            "48777": 3547,
+            "48778": 3680
+          },
+          "voting_data": {
+            "48775": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48776": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48777": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48778": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 48775,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Tara",
+      "last_name": "Tremelling",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48776,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Dan",
+      "last_name": "Neve",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48777,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Nicole",
+      "last_name": "Forst",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48778,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Mark",
+      "last_name": "Konrardy",
+      "incumbent": true
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "race_id": 22748,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "17",
+  "state_name": "Illinois",
+  "state": "IL",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Rockford School Board 205",
+  "district": "D",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T03:25:08.370Z",
+  "race_created": "2023-03-21T20:29:10.544Z",
+  "poll_close_time": "2023-04-04T20:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "48903": 1392,
+      "48904": 1139
+    },
+    "voting_data": {
+      "48903": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48904": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 29,
+      "reporting": 29
+    },
+    "called_candidates": [
+      48903
+    ],
+    "call_times": [
+      {
+        "cand_id": 48903,
+        "called_time": "2023-04-05T03:25:08.000Z"
+      }
+    ],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 843,
+      "county": "Winnebago",
+      "fips": "17201",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 28,
+        "reporting": 28
+      },
+      "votes": {
+        "48903": 1386,
+        "48904": 1128
+      },
+      "voting_data": {
+        "48903": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48904": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 2162,
+          "vcu": "Winnebago",
+          "fips": "17201",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 28,
+            "reporting": 28
+          },
+          "votes": {
+            "48903": 1386,
+            "48904": 1128
+          },
+          "voting_data": {
+            "48903": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48904": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 746,
+      "county": "Boone",
+      "fips": "17007",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 1,
+        "reporting": 1
+      },
+      "votes": {
+        "48903": 6,
+        "48904": 11
+      },
+      "voting_data": {
+        "48903": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48904": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 2164,
+          "vcu": "Boone",
+          "fips": "17007",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 1,
+            "reporting": 1
+          },
+          "votes": {
+            "48903": 6,
+            "48904": 11
+          },
+          "voting_data": {
+            "48903": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48904": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 48903,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Nicole",
+      "last_name": "Bennett",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48904,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Jude",
+      "last_name": "Makulec",
+      "incumbent": true
+    }
+  ]
+}

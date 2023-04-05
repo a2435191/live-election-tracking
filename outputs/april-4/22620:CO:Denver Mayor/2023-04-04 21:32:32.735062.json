@@ -1,0 +1,476 @@
+{
+  "race_id": 22620,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "08",
+  "state_name": "Colorado",
+  "state": "CO",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 6,
+  "office": "Denver Mayor",
+  "district": "",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "City",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T02:30:59.730Z",
+  "race_created": "2023-03-09T14:46:47.326Z",
+  "poll_close_time": "2023-04-04T21:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "1802": 19,
+      "48595": 13422,
+      "48596": 667,
+      "48597": 434,
+      "48598": 1047,
+      "48599": 438,
+      "48600": 830,
+      "48602": 111,
+      "48603": 4986,
+      "48604": 22811,
+      "48605": 413,
+      "48606": 1047,
+      "48607": 12436,
+      "48608": 8272,
+      "48609": 97,
+      "48610": 4323,
+      "48611": 21339
+    },
+    "voting_data": {
+      "1802": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48595": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48596": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48597": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48598": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48599": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48600": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48602": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48603": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48604": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48605": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48606": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48607": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48608": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48609": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48610": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48611": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 356,
+      "reporting": 0
+    },
+    "called_candidates": [],
+    "call_times": [],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 416,
+      "county": "Denver",
+      "fips": "08031",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 356,
+        "reporting": 0
+      },
+      "votes": {
+        "1802": 19,
+        "48595": 13422,
+        "48596": 667,
+        "48597": 434,
+        "48598": 1047,
+        "48599": 438,
+        "48600": 830,
+        "48602": 111,
+        "48603": 4986,
+        "48604": 22811,
+        "48605": 413,
+        "48606": 1047,
+        "48607": 12436,
+        "48608": 8272,
+        "48609": 97,
+        "48610": 4323,
+        "48611": 21339
+      },
+      "voting_data": {
+        "1802": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48595": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48596": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48597": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48598": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48599": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48600": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48602": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48603": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48604": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48605": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48606": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48607": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48608": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48609": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48610": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48611": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 1581,
+          "vcu": "Denver",
+          "fips": "08031",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 356,
+            "reporting": 0
+          },
+          "votes": {
+            "1802": 19,
+            "48595": 13422,
+            "48596": 667,
+            "48597": 434,
+            "48598": 1047,
+            "48599": 438,
+            "48600": 830,
+            "48602": 111,
+            "48603": 4986,
+            "48604": 22811,
+            "48605": 413,
+            "48606": 1047,
+            "48607": 12436,
+            "48608": 8272,
+            "48609": 97,
+            "48610": 4323,
+            "48611": 21339
+          },
+          "voting_data": {
+            "1802": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48595": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48596": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48597": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48598": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48599": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48600": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48602": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48603": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48604": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48605": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48606": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48607": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48608": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48609": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48610": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48611": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 1802,
+      "party_name": "Unaffiliated",
+      "party_id": 11,
+      "first_name": "Write",
+      "last_name": "In",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48595,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Lisa",
+      "last_name": "Calder\u00f3n",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48596,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Trinidad",
+      "last_name": "Rodriguez",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48597,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Aurelio",
+      "last_name": "Martinez",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48598,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Thomas",
+      "last_name": "Wolf",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48599,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Al",
+      "last_name": "Gardner",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48600,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Terrance",
+      "last_name": "Roberts",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48602,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Renate",
+      "last_name": "Behrens",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48603,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Chris",
+      "last_name": "Hansen",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48604,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Mike",
+      "last_name": "Johnston",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48605,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "James",
+      "last_name": "Walsh",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48606,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Ean Thomas",
+      "last_name": "Tafoya",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48607,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Andy",
+      "last_name": "Rougeot",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48608,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Leslie",
+      "last_name": "Herod",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48609,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Robert",
+      "last_name": "Treta",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48610,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Deborah",
+      "last_name": "Ortega",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48611,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Kelly",
+      "last_name": "Brough",
+      "incumbent": false
+    }
+  ]
+}

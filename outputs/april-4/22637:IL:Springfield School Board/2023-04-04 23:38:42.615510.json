@@ -1,0 +1,161 @@
+{
+  "race_id": 22637,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "17",
+  "state_name": "Illinois",
+  "state": "IL",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Springfield School Board",
+  "district": "4",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T04:38:19.131Z",
+  "race_created": "2023-03-13T20:10:22.545Z",
+  "poll_close_time": "2023-04-04T20:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "48659": 1826,
+      "48660": 801,
+      "48661": 2025
+    },
+    "voting_data": {
+      "48659": {
+        "absentee_ballots_early_votes": 806,
+        "election_day_votes": 1020
+      },
+      "48660": {
+        "absentee_ballots_early_votes": 385,
+        "election_day_votes": 416
+      },
+      "48661": {
+        "absentee_ballots_early_votes": 733,
+        "election_day_votes": 1292
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 20,
+      "reporting": 20
+    },
+    "called_candidates": [
+      48661
+    ],
+    "call_times": [
+      {
+        "cand_id": 48661,
+        "called_time": "2023-04-05T04:38:19.000Z"
+      }
+    ],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 825,
+      "county": "Sangamon",
+      "fips": "17167",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 20,
+        "reporting": 20
+      },
+      "votes": {
+        "48659": 1826,
+        "48660": 801,
+        "48661": 2025
+      },
+      "voting_data": {
+        "48659": {
+          "absentee_ballots_early_votes": 806,
+          "election_day_votes": 1020
+        },
+        "48660": {
+          "absentee_ballots_early_votes": 385,
+          "election_day_votes": 416
+        },
+        "48661": {
+          "absentee_ballots_early_votes": 733,
+          "election_day_votes": 1292
+        }
+      },
+      "vcus": [
+        {
+          "id": 2116,
+          "vcu": "Sangamon",
+          "fips": "17167",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 20,
+            "reporting": 20
+          },
+          "votes": {
+            "48659": 1826,
+            "48660": 801,
+            "48661": 2025
+          },
+          "voting_data": {
+            "48659": {
+              "absentee_ballots_early_votes": 806,
+              "election_day_votes": 1020
+            },
+            "48660": {
+              "absentee_ballots_early_votes": 385,
+              "election_day_votes": 416
+            },
+            "48661": {
+              "absentee_ballots_early_votes": 733,
+              "election_day_votes": 1292
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 48659,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Jeff",
+      "last_name": "Tucka",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48660,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Donna",
+      "last_name": "Hopwood",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48661,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Ken",
+      "last_name": "Gilmore",
+      "incumbent": false
+    }
+  ]
+}

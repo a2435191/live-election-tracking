@@ -1,0 +1,131 @@
+{
+  "race_id": 22644,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "17",
+  "state_name": "Illinois",
+  "state": "IL",
+  "ecvotes": null,
+  "election_type_id": 7,
+  "name": "Ballot Question",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Springfield Advisory Question: Dissolution of the Portion of all Townships Located With the City of Springfield",
+  "district": "",
+  "party_id": 0,
+  "party": null,
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T01:22:52.140Z",
+  "race_created": "2023-03-14T12:14:43.023Z",
+  "poll_close_time": "2023-04-04T20:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "636": 13364,
+      "637": 3726
+    },
+    "voting_data": {
+      "636": {
+        "absentee_ballots_early_votes": 8617,
+        "election_day_votes": 4747
+      },
+      "637": {
+        "absentee_ballots_early_votes": 1998,
+        "election_day_votes": 1728
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 102,
+      "reporting": 43
+    },
+    "called_candidates": [],
+    "call_times": [],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 825,
+      "county": "Sangamon",
+      "fips": "17167",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 102,
+        "reporting": 43
+      },
+      "votes": {
+        "636": 13364,
+        "637": 3726
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 8617,
+          "election_day_votes": 4747
+        },
+        "637": {
+          "absentee_ballots_early_votes": 1998,
+          "election_day_votes": 1728
+        }
+      },
+      "vcus": [
+        {
+          "id": 2116,
+          "vcu": "Sangamon",
+          "fips": "17167",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 102,
+            "reporting": 43
+          },
+          "votes": {
+            "636": 13364,
+            "637": 3726
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 8617,
+              "election_day_votes": 4747
+            },
+            "637": {
+              "absentee_ballots_early_votes": 1998,
+              "election_day_votes": 1728
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 636,
+      "party_name": "Unaffiliated",
+      "party_id": 11,
+      "first_name": "",
+      "last_name": "Yes",
+      "incumbent": false
+    },
+    {
+      "cand_id": 637,
+      "party_name": "Unaffiliated",
+      "party_id": 11,
+      "first_name": "",
+      "last_name": "No",
+      "incumbent": false
+    }
+  ]
+}

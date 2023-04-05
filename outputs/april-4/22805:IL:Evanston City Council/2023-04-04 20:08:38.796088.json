@@ -1,0 +1,131 @@
+{
+  "race_id": 22805,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "17",
+  "state_name": "Illinois",
+  "state": "IL",
+  "ecvotes": null,
+  "election_type_id": 9,
+  "name": "Special Election General",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Evanston City Council",
+  "district": "Ward 9",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T00:45:45.704Z",
+  "race_created": "2023-03-28T15:10:45.929Z",
+  "poll_close_time": "2023-04-04T20:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "49065": 424,
+      "49066": 877
+    },
+    "voting_data": {
+      "49065": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "49066": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 5,
+      "reporting": 5
+    },
+    "called_candidates": [],
+    "call_times": [],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 758,
+      "county": "Cook",
+      "fips": "17031",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 5,
+        "reporting": 5
+      },
+      "votes": {
+        "49065": 424,
+        "49066": 877
+      },
+      "voting_data": {
+        "49065": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49066": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 2123,
+          "vcu": "Cook",
+          "fips": "17031",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 5,
+            "reporting": 5
+          },
+          "votes": {
+            "49065": 424,
+            "49066": 877
+          },
+          "voting_data": {
+            "49065": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49066": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 49065,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Kathelyn",
+      "last_name": "Hayes",
+      "incumbent": false
+    },
+    {
+      "cand_id": 49066,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Juan",
+      "last_name": "Geracaris",
+      "incumbent": true
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "race_id": 22796,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "17",
+  "state_name": "Illinois",
+  "state": "IL",
+  "ecvotes": null,
+  "election_type_id": 7,
+  "name": "Ballot Question",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Durand Advisory Proposition",
+  "district": "",
+  "party_id": 0,
+  "party": null,
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T04:24:24.890Z",
+  "race_created": "2023-03-22T17:41:20.316Z",
+  "poll_close_time": "2023-04-04T20:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "636": 100,
+      "637": 124
+    },
+    "voting_data": {
+      "636": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "637": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 2,
+      "reporting": 2
+    },
+    "called_candidates": [
+      637
+    ],
+    "call_times": [
+      {
+        "cand_id": 637,
+        "called_time": "2023-04-05T04:24:24.000Z"
+      }
+    ],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 843,
+      "county": "Winnebago",
+      "fips": "17201",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 2,
+        "reporting": 2
+      },
+      "votes": {
+        "636": 100,
+        "637": 124
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 2162,
+          "vcu": "Winnebago",
+          "fips": "17201",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 2,
+            "reporting": 2
+          },
+          "votes": {
+            "636": 100,
+            "637": 124
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 636,
+      "party_name": "Unaffiliated",
+      "party_id": 11,
+      "first_name": "",
+      "last_name": "Yes",
+      "incumbent": false
+    },
+    {
+      "cand_id": 637,
+      "party_name": "Unaffiliated",
+      "party_id": 11,
+      "first_name": "",
+      "last_name": "No",
+      "incumbent": false
+    }
+  ]
+}

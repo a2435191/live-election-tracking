@@ -1,0 +1,246 @@
+{
+  "race_id": 22780,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "17",
+  "state_name": "Illinois",
+  "state": "IL",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Roscoe Village Trustee",
+  "district": "",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T01:15:31.993Z",
+  "race_created": "2023-03-22T15:52:57.112Z",
+  "poll_close_time": "2023-04-04T20:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "48982": 563,
+      "48983": 207,
+      "48984": 567,
+      "48985": 585,
+      "48986": 217,
+      "48987": 161,
+      "48988": 281
+    },
+    "voting_data": {
+      "48982": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48983": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48984": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48985": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48986": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48987": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48988": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 14,
+      "reporting": 4
+    },
+    "called_candidates": [],
+    "call_times": [],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 843,
+      "county": "Winnebago",
+      "fips": "17201",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 14,
+        "reporting": 4
+      },
+      "votes": {
+        "48982": 563,
+        "48983": 207,
+        "48984": 567,
+        "48985": 585,
+        "48986": 217,
+        "48987": 161,
+        "48988": 281
+      },
+      "voting_data": {
+        "48982": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48983": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48984": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48985": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48986": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48987": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48988": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 2162,
+          "vcu": "Winnebago",
+          "fips": "17201",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 14,
+            "reporting": 4
+          },
+          "votes": {
+            "48982": 563,
+            "48983": 207,
+            "48984": 567,
+            "48985": 585,
+            "48986": 217,
+            "48987": 161,
+            "48988": 281
+          },
+          "voting_data": {
+            "48982": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48983": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48984": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48985": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48986": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48987": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48988": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 48982,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Michael",
+      "last_name": "Sima",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48983,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Anthony",
+      "last_name": "Keene",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48984,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Michael",
+      "last_name": "Wright",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48985,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "William",
+      "last_name": "Babcock",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48986,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Jay",
+      "last_name": "Durstock",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48987,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Brian",
+      "last_name": "Black",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48988,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Michael",
+      "last_name": "Dunn",
+      "incumbent": true
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "race_id": 22677,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "55",
+  "state_name": "Wisconsin",
+  "state": "WI",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Pulaski School Board",
+  "district": "Zone 2",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T05:34:34.457Z",
+  "race_created": "2023-03-20T13:52:27.817Z",
+  "poll_close_time": "2023-04-04T21:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "48749": 1969,
+      "48750": 1464
+    },
+    "voting_data": {
+      "48749": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48750": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 5,
+      "reporting": 5
+    },
+    "called_candidates": [
+      48749
+    ],
+    "call_times": [
+      {
+        "cand_id": 48749,
+        "called_time": "2023-04-05T05:34:34.000Z"
+      }
+    ],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 3160,
+      "county": "Brown",
+      "fips": "55009",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 5,
+        "reporting": 5
+      },
+      "votes": {
+        "48749": 1969,
+        "48750": 1464
+      },
+      "voting_data": {
+        "48749": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48750": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 664,
+          "vcu": "Brown",
+          "fips": "55009",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 5,
+            "reporting": 5
+          },
+          "votes": {
+            "48749": 1969,
+            "48750": 1464
+          },
+          "voting_data": {
+            "48749": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48750": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 48749,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Dennis",
+      "last_name": "Kaminski",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48750,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Alisa",
+      "last_name": "Anderson",
+      "incumbent": true
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "race_id": 22784,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "17",
+  "state_name": "Illinois",
+  "state": "IL",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Durand Village Trustee",
+  "district": "",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T04:24:07.038Z",
+  "race_created": "2023-03-22T16:33:30.712Z",
+  "poll_close_time": "2023-04-04T20:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "48997": 99,
+      "48998": 146,
+      "48999": 107,
+      "49000": 74,
+      "49001": 65,
+      "49002": 69,
+      "49003": 59
+    },
+    "voting_data": {
+      "48997": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48998": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48999": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "49000": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "49001": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "49002": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "49003": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 2,
+      "reporting": 2
+    },
+    "called_candidates": [
+      48997,
+      48998,
+      48999
+    ],
+    "call_times": [
+      {
+        "cand_id": 48997,
+        "called_time": "2023-04-05T04:24:06.000Z"
+      },
+      {
+        "cand_id": 48998,
+        "called_time": "2023-04-05T04:24:07.000Z"
+      },
+      {
+        "cand_id": 48999,
+        "called_time": "2023-04-05T04:24:06.000Z"
+      }
+    ],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 843,
+      "county": "Winnebago",
+      "fips": "17201",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 2,
+        "reporting": 2
+      },
+      "votes": {
+        "48997": 99,
+        "48998": 146,
+        "48999": 107,
+        "49000": 74,
+        "49001": 65,
+        "49002": 69,
+        "49003": 59
+      },
+      "voting_data": {
+        "48997": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48998": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48999": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49000": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49001": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49002": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49003": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 2162,
+          "vcu": "Winnebago",
+          "fips": "17201",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 2,
+            "reporting": 2
+          },
+          "votes": {
+            "48997": 99,
+            "48998": 146,
+            "48999": 107,
+            "49000": 74,
+            "49001": 65,
+            "49002": 69,
+            "49003": 59
+          },
+          "voting_data": {
+            "48997": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48998": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48999": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49000": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49001": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49002": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49003": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 48997,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Steven",
+      "last_name": "Dasko",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48998,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Craig",
+      "last_name": "Cox",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48999,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Frances",
+      "last_name": "Waller",
+      "incumbent": true
+    },
+    {
+      "cand_id": 49000,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Brandon",
+      "last_name": "Miller",
+      "incumbent": false
+    },
+    {
+      "cand_id": 49001,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "JoAnn",
+      "last_name": "Haley",
+      "incumbent": false
+    },
+    {
+      "cand_id": 49002,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Benjamin",
+      "last_name": "Fritz",
+      "incumbent": true
+    },
+    {
+      "cand_id": 49003,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Emma",
+      "last_name": "Rude",
+      "incumbent": false
+    }
+  ]
+}

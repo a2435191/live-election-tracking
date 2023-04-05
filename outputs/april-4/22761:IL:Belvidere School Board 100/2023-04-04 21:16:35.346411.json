@@ -1,0 +1,333 @@
+{
+  "race_id": 22761,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "17",
+  "state_name": "Illinois",
+  "state": "IL",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Belvidere School Board 100",
+  "district": "Remaining Townships",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T02:16:32.107Z",
+  "race_created": "2023-03-22T14:30:08.093Z",
+  "poll_close_time": "2023-04-04T20:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "48933": 2330,
+      "48934": 2640,
+      "48935": 2071,
+      "48936": 1578
+    },
+    "voting_data": {
+      "48933": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48934": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48935": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48936": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 35,
+      "reporting": 33
+    },
+    "called_candidates": [],
+    "call_times": [],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 762,
+      "county": "DeKalb",
+      "fips": "17037",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 1,
+        "reporting": 0
+      },
+      "votes": {
+        "48933": 0,
+        "48934": 0,
+        "48935": 0,
+        "48936": 0
+      },
+      "voting_data": {
+        "48933": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48934": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48935": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48936": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 2158,
+          "vcu": "DeKalb",
+          "fips": "17037",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 1,
+            "reporting": 0
+          },
+          "votes": {
+            "48933": 0,
+            "48934": 0,
+            "48935": 0,
+            "48936": 0
+          },
+          "voting_data": {
+            "48933": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48934": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48935": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48936": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 805,
+      "county": "McHenry",
+      "fips": "17111",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 1,
+        "reporting": 0
+      },
+      "votes": {
+        "48933": 0,
+        "48934": 0,
+        "48935": 0,
+        "48936": 0
+      },
+      "voting_data": {
+        "48933": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48934": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48935": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48936": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 2159,
+          "vcu": "McHenry",
+          "fips": "17111",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 1,
+            "reporting": 0
+          },
+          "votes": {
+            "48933": 0,
+            "48934": 0,
+            "48935": 0,
+            "48936": 0
+          },
+          "voting_data": {
+            "48933": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48934": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48935": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48936": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 746,
+      "county": "Boone",
+      "fips": "17007",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 33,
+        "reporting": 33
+      },
+      "votes": {
+        "48933": 2330,
+        "48934": 2640,
+        "48935": 2071,
+        "48936": 1578
+      },
+      "voting_data": {
+        "48933": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48934": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48935": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48936": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 2164,
+          "vcu": "Boone",
+          "fips": "17007",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 33,
+            "reporting": 33
+          },
+          "votes": {
+            "48933": 2330,
+            "48934": 2640,
+            "48935": 2071,
+            "48936": 1578
+          },
+          "voting_data": {
+            "48933": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48934": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48935": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48936": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 48933,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Jorge",
+      "last_name": "Herrera",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48934,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Holly",
+      "last_name": "Houk",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48935,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Misty",
+      "last_name": "Coryell",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48936,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Tosca",
+      "last_name": "DeGennaro",
+      "incumbent": false
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "race_id": 22787,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "17",
+  "state_name": "Illinois",
+  "state": "IL",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "New Milford Village Trustee",
+  "district": "",
+  "party_id": 0,
+  "party": null,
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T04:34:08.617Z",
+  "race_created": "2023-03-22T16:44:26.952Z",
+  "poll_close_time": "2023-04-04T20:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "49006": 63,
+      "49007": 54,
+      "49008": 30,
+      "49009": 49
+    },
+    "voting_data": {
+      "49006": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "49007": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "49008": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "49009": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 2,
+      "reporting": 2
+    },
+    "called_candidates": [
+      49006,
+      49007,
+      49009
+    ],
+    "call_times": [
+      {
+        "cand_id": 49006,
+        "called_time": "2023-04-05T04:34:08.000Z"
+      },
+      {
+        "cand_id": 49007,
+        "called_time": "2023-04-05T04:34:08.000Z"
+      },
+      {
+        "cand_id": 49009,
+        "called_time": "2023-04-05T04:34:08.000Z"
+      }
+    ],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 843,
+      "county": "Winnebago",
+      "fips": "17201",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 2,
+        "reporting": 2
+      },
+      "votes": {
+        "49006": 63,
+        "49007": 54,
+        "49008": 30,
+        "49009": 49
+      },
+      "voting_data": {
+        "49006": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49007": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49008": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49009": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 2162,
+          "vcu": "Winnebago",
+          "fips": "17201",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 2,
+            "reporting": 2
+          },
+          "votes": {
+            "49006": 63,
+            "49007": 54,
+            "49008": 30,
+            "49009": 49
+          },
+          "voting_data": {
+            "49006": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49007": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49008": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49009": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 49006,
+      "party_name": "Independent",
+      "party_id": 3,
+      "first_name": "Deanna",
+      "last_name": "Rodgers",
+      "incumbent": true
+    },
+    {
+      "cand_id": 49007,
+      "party_name": "Independent",
+      "party_id": 3,
+      "first_name": "Eileen",
+      "last_name": "Owens",
+      "incumbent": false
+    },
+    {
+      "cand_id": 49008,
+      "party_name": "Independent",
+      "party_id": 3,
+      "first_name": "Robert",
+      "last_name": "Humphries",
+      "incumbent": true
+    },
+    {
+      "cand_id": 49009,
+      "party_name": "Independent",
+      "party_id": 3,
+      "first_name": "Ronald",
+      "last_name": "Colvin",
+      "incumbent": false
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "race_id": 22626,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "17",
+  "state_name": "Illinois",
+  "state": "IL",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Springfield Alderperson",
+  "district": "Ward 3",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T02:31:39.978Z",
+  "race_created": "2023-03-10T19:18:24.499Z",
+  "poll_close_time": "2023-04-04T20:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "48634": 824,
+      "48635": 703
+    },
+    "voting_data": {
+      "48634": {
+        "absentee_ballots_early_votes": 455,
+        "election_day_votes": 369
+      },
+      "48635": {
+        "absentee_ballots_early_votes": 316,
+        "election_day_votes": 387
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 11,
+      "reporting": 11
+    },
+    "called_candidates": [
+      48634
+    ],
+    "call_times": [
+      {
+        "cand_id": 48634,
+        "called_time": "2023-04-05T02:31:39.000Z"
+      }
+    ],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 825,
+      "county": "Sangamon",
+      "fips": "17167",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 11,
+        "reporting": 11
+      },
+      "votes": {
+        "48634": 824,
+        "48635": 703
+      },
+      "voting_data": {
+        "48634": {
+          "absentee_ballots_early_votes": 455,
+          "election_day_votes": 369
+        },
+        "48635": {
+          "absentee_ballots_early_votes": 316,
+          "election_day_votes": 387
+        }
+      },
+      "vcus": [
+        {
+          "id": 2116,
+          "vcu": "Sangamon",
+          "fips": "17167",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 11,
+            "reporting": 11
+          },
+          "votes": {
+            "48634": 824,
+            "48635": 703
+          },
+          "voting_data": {
+            "48634": {
+              "absentee_ballots_early_votes": 455,
+              "election_day_votes": 369
+            },
+            "48635": {
+              "absentee_ballots_early_votes": 316,
+              "election_day_votes": 387
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 48634,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Roy",
+      "last_name": "Williams Jr.",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48635,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "William",
+      "last_name": "Eddington",
+      "incumbent": false
+    }
+  ]
+}

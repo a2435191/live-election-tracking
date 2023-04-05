@@ -1,0 +1,131 @@
+{
+  "race_id": 22640,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "17",
+  "state_name": "Illinois",
+  "state": "IL",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Lincoln Land Community College Trustee",
+  "district": "3",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T01:09:32.313Z",
+  "race_created": "2023-03-13T20:21:32.650Z",
+  "poll_close_time": "2023-04-04T20:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "48666": 2970,
+      "48667": 2918
+    },
+    "voting_data": {
+      "48666": {
+        "absentee_ballots_early_votes": 2164,
+        "election_day_votes": 806
+      },
+      "48667": {
+        "absentee_ballots_early_votes": 2091,
+        "election_day_votes": 827
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 58,
+      "reporting": 17
+    },
+    "called_candidates": [],
+    "call_times": [],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 825,
+      "county": "Sangamon",
+      "fips": "17167",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 58,
+        "reporting": 17
+      },
+      "votes": {
+        "48666": 2970,
+        "48667": 2918
+      },
+      "voting_data": {
+        "48666": {
+          "absentee_ballots_early_votes": 2164,
+          "election_day_votes": 806
+        },
+        "48667": {
+          "absentee_ballots_early_votes": 2091,
+          "election_day_votes": 827
+        }
+      },
+      "vcus": [
+        {
+          "id": 2116,
+          "vcu": "Sangamon",
+          "fips": "17167",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 58,
+            "reporting": 17
+          },
+          "votes": {
+            "48666": 2970,
+            "48667": 2918
+          },
+          "voting_data": {
+            "48666": {
+              "absentee_ballots_early_votes": 2164,
+              "election_day_votes": 806
+            },
+            "48667": {
+              "absentee_ballots_early_votes": 2091,
+              "election_day_votes": 827
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 48666,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Gordon",
+      "last_name": "Gates",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48667,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Melissa",
+      "last_name": "Moseley",
+      "incumbent": false
+    }
+  ]
+}

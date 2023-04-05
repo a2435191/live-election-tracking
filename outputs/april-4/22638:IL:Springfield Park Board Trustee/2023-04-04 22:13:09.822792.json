@@ -1,0 +1,171 @@
+{
+  "race_id": 22638,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "17",
+  "state_name": "Illinois",
+  "state": "IL",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Springfield Park Board Trustee",
+  "district": "",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T03:13:05.972Z",
+  "race_created": "2023-03-13T20:14:40.734Z",
+  "poll_close_time": "2023-04-04T20:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "48662": 14486,
+      "48663": 12447,
+      "48665": 16532
+    },
+    "voting_data": {
+      "48662": {
+        "absentee_ballots_early_votes": 5964,
+        "election_day_votes": 8522
+      },
+      "48663": {
+        "absentee_ballots_early_votes": 5043,
+        "election_day_votes": 7404
+      },
+      "48665": {
+        "absentee_ballots_early_votes": 6823,
+        "election_day_votes": 9709
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 130,
+      "reporting": 130
+    },
+    "called_candidates": [
+      48662,
+      48663,
+      48665
+    ],
+    "call_times": [
+      {
+        "cand_id": 48662,
+        "called_time": "2023-04-05T03:13:05.000Z"
+      },
+      {
+        "cand_id": 48663,
+        "called_time": "2023-04-05T03:13:05.000Z"
+      },
+      {
+        "cand_id": 48665,
+        "called_time": "2023-04-05T03:13:05.000Z"
+      }
+    ],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 825,
+      "county": "Sangamon",
+      "fips": "17167",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 130,
+        "reporting": 130
+      },
+      "votes": {
+        "48662": 14486,
+        "48663": 12447,
+        "48665": 16532
+      },
+      "voting_data": {
+        "48662": {
+          "absentee_ballots_early_votes": 5964,
+          "election_day_votes": 8522
+        },
+        "48663": {
+          "absentee_ballots_early_votes": 5043,
+          "election_day_votes": 7404
+        },
+        "48665": {
+          "absentee_ballots_early_votes": 6823,
+          "election_day_votes": 9709
+        }
+      },
+      "vcus": [
+        {
+          "id": 2116,
+          "vcu": "Sangamon",
+          "fips": "17167",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 130,
+            "reporting": 130
+          },
+          "votes": {
+            "48662": 14486,
+            "48663": 12447,
+            "48665": 16532
+          },
+          "voting_data": {
+            "48662": {
+              "absentee_ballots_early_votes": 5964,
+              "election_day_votes": 8522
+            },
+            "48663": {
+              "absentee_ballots_early_votes": 5043,
+              "election_day_votes": 7404
+            },
+            "48665": {
+              "absentee_ballots_early_votes": 6823,
+              "election_day_votes": 9709
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 48662,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Kris",
+      "last_name": "Theilen",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48663,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Charles",
+      "last_name": "Hoogland II",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48665,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Mary",
+      "last_name": "Aiello",
+      "incumbent": false
+    }
+  ]
+}

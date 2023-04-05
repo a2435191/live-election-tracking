@@ -1,0 +1,217 @@
+{
+  "race_id": 22800,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "17",
+  "state_name": "Illinois",
+  "state": "IL",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Evanston/Skokie School Board 65",
+  "district": "",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T04:27:10.462Z",
+  "race_created": "2023-03-28T14:11:51.116Z",
+  "poll_close_time": "2023-04-04T20:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "49051": 4958,
+      "49052": 5825,
+      "49053": 3895,
+      "49054": 6485,
+      "49055": 5111
+    },
+    "voting_data": {
+      "49051": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "49052": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "49053": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "49054": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "49055": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 54,
+      "reporting": 54
+    },
+    "called_candidates": [
+      49052,
+      49054,
+      49055
+    ],
+    "call_times": [
+      {
+        "cand_id": 49052,
+        "called_time": "2023-04-05T04:27:10.000Z"
+      },
+      {
+        "cand_id": 49054,
+        "called_time": "2023-04-05T04:27:10.000Z"
+      },
+      {
+        "cand_id": 49055,
+        "called_time": "2023-04-05T04:27:10.000Z"
+      }
+    ],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 758,
+      "county": "Cook",
+      "fips": "17031",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 54,
+        "reporting": 54
+      },
+      "votes": {
+        "49051": 4958,
+        "49052": 5825,
+        "49053": 3895,
+        "49054": 6485,
+        "49055": 5111
+      },
+      "voting_data": {
+        "49051": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49052": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49053": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49054": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49055": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 2123,
+          "vcu": "Cook",
+          "fips": "17031",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 54,
+            "reporting": 54
+          },
+          "votes": {
+            "49051": 4958,
+            "49052": 5825,
+            "49053": 3895,
+            "49054": 6485,
+            "49055": 5111
+          },
+          "voting_data": {
+            "49051": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49052": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49053": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49054": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49055": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 49051,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "John",
+      "last_name": "Martin",
+      "incumbent": false
+    },
+    {
+      "cand_id": 49052,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Mya",
+      "last_name": "Wilkins",
+      "incumbent": true
+    },
+    {
+      "cand_id": 49053,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Ndona",
+      "last_name": "Muboyayi",
+      "incumbent": false
+    },
+    {
+      "cand_id": 49054,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Omar",
+      "last_name": "Salem",
+      "incumbent": false
+    },
+    {
+      "cand_id": 49055,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Sergio",
+      "last_name": "Hernandez Jr.",
+      "incumbent": true
+    }
+  ]
+}

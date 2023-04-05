@@ -1,0 +1,131 @@
+{
+  "race_id": 22655,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "55",
+  "state_name": "Wisconsin",
+  "state": "WI",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Grand Chute Town Board",
+  "district": "Seat 1",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T01:34:59.496Z",
+  "race_created": "2023-03-16T17:10:05.915Z",
+  "poll_close_time": "2023-04-04T21:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "48698": 1552,
+      "48699": 2149
+    },
+    "voting_data": {
+      "48698": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48699": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 3,
+      "reporting": 0
+    },
+    "called_candidates": [],
+    "call_times": [],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 3200,
+      "county": "Outagamie",
+      "fips": "55087",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 3,
+        "reporting": 0
+      },
+      "votes": {
+        "48698": 1552,
+        "48699": 2149
+      },
+      "voting_data": {
+        "48698": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48699": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 704,
+          "vcu": "Outagamie",
+          "fips": "55087",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 3,
+            "reporting": 0
+          },
+          "votes": {
+            "48698": 1552,
+            "48699": 2149
+          },
+          "voting_data": {
+            "48698": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48699": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 48698,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Tim",
+      "last_name": "Bantes",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48699,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Ron",
+      "last_name": "Wolff",
+      "incumbent": true
+    }
+  ]
+}

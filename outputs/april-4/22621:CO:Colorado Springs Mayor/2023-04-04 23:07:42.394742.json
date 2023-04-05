@@ -1,0 +1,361 @@
+{
+  "race_id": 22621,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "08",
+  "state_name": "Colorado",
+  "state": "CO",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 6,
+  "office": "Colorado Springs Mayor",
+  "district": "",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "City",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T04:07:01.487Z",
+  "race_created": "2023-03-09T15:53:17.835Z",
+  "poll_close_time": "2023-04-04T21:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "48612": 16976,
+      "48613": 931,
+      "48614": 4194,
+      "48615": 26205,
+      "48616": 1029,
+      "48617": 1446,
+      "48618": 7168,
+      "48619": 2306,
+      "48620": 3891,
+      "48621": 742,
+      "48622": 7876,
+      "48623": 18420
+    },
+    "voting_data": {
+      "48612": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48613": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48614": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48615": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48616": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48617": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48618": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48619": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48620": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48621": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48622": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48623": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 208,
+      "reporting": 0
+    },
+    "called_candidates": [],
+    "call_times": [],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 420,
+      "county": "El Paso",
+      "fips": "08041",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 208,
+        "reporting": 0
+      },
+      "votes": {
+        "48612": 16976,
+        "48613": 931,
+        "48614": 4194,
+        "48615": 26205,
+        "48616": 1029,
+        "48617": 1446,
+        "48618": 7168,
+        "48619": 2306,
+        "48620": 3891,
+        "48621": 742,
+        "48622": 7876,
+        "48623": 18420
+      },
+      "voting_data": {
+        "48612": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48613": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48614": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48615": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48616": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48617": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48618": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48619": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48620": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48621": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48622": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48623": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 1583,
+          "vcu": "El Paso",
+          "fips": "08041",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 208,
+            "reporting": 0
+          },
+          "votes": {
+            "48612": 16976,
+            "48613": 931,
+            "48614": 4194,
+            "48615": 26205,
+            "48616": 1029,
+            "48617": 1446,
+            "48618": 7168,
+            "48619": 2306,
+            "48620": 3891,
+            "48621": 742,
+            "48622": 7876,
+            "48623": 18420
+          },
+          "voting_data": {
+            "48612": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48613": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48614": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48615": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48616": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48617": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48618": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48619": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48620": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48621": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48622": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48623": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 48612,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Sallie",
+      "last_name": "Clark",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48613,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Kallan",
+      "last_name": "Rodebaugh",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48614,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "John",
+      "last_name": "Tiegen",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48615,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Yemi",
+      "last_name": "Mobolade",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48616,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Christopher",
+      "last_name": "Mitchell",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48617,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Lawrence",
+      "last_name": "Martinez",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48618,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Longinos",
+      "last_name": "Gonzalez Jr.",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48619,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Tom",
+      "last_name": "Strand",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48620,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Andrew",
+      "last_name": "Dalby",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48621,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Jim",
+      "last_name": "Miller",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48622,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Darryl",
+      "last_name": "Glenn",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48623,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Wayne",
+      "last_name": "Williams",
+      "incumbent": false
+    }
+  ]
+}

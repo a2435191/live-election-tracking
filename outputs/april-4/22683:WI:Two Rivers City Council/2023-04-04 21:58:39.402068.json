@@ -1,0 +1,223 @@
+{
+  "race_id": 22683,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "55",
+  "state_name": "Wisconsin",
+  "state": "WI",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Two Rivers City Council",
+  "district": "",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T02:58:17.499Z",
+  "race_created": "2023-03-20T15:04:23.889Z",
+  "poll_close_time": "2023-04-04T21:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "48763": 437,
+      "48764": 524,
+      "48765": 364,
+      "48766": 282,
+      "48767": 197,
+      "48768": 261
+    },
+    "voting_data": {
+      "48763": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48764": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48765": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48766": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48767": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48768": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 4,
+      "reporting": 0
+    },
+    "called_candidates": [],
+    "call_times": [],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 3191,
+      "county": "Manitowoc",
+      "fips": "55071",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 4,
+        "reporting": 0
+      },
+      "votes": {
+        "48763": 437,
+        "48764": 524,
+        "48765": 364,
+        "48766": 282,
+        "48767": 197,
+        "48768": 261
+      },
+      "voting_data": {
+        "48763": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48764": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48765": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48766": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48767": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48768": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 695,
+          "vcu": "Manitowoc",
+          "fips": "55071",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 4,
+            "reporting": 0
+          },
+          "votes": {
+            "48763": 437,
+            "48764": 524,
+            "48765": 364,
+            "48766": 282,
+            "48767": 197,
+            "48768": 261
+          },
+          "voting_data": {
+            "48763": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48764": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48765": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48766": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48767": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48768": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 48763,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Darla",
+      "last_name": "LeClair",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48764,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Adam",
+      "last_name": "Wachowski",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48765,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Bonnie",
+      "last_name": "Shimulunas",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48766,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Dean",
+      "last_name": "LaRose",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48767,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Ron",
+      "last_name": "Abney",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48768,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Shannon",
+      "last_name": "Derby",
+      "incumbent": false
+    }
+  ]
+}

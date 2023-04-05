@@ -1,0 +1,337 @@
+{
+  "race_id": 22768,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "17",
+  "state_name": "Illinois",
+  "state": "IL",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Freeport School Board 145",
+  "district": "",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T04:02:26.442Z",
+  "race_created": "2023-03-22T15:03:10.227Z",
+  "poll_close_time": "2023-04-04T20:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "48944": 642,
+      "48945": 1328,
+      "48946": 954,
+      "48948": 504,
+      "48949": 1660,
+      "48950": 941,
+      "48951": 1784,
+      "48952": 1941,
+      "48953": 1133,
+      "48954": 1079
+    },
+    "voting_data": {
+      "48944": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48945": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48946": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48948": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48949": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48950": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48951": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48952": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48953": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48954": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 24,
+      "reporting": 24
+    },
+    "called_candidates": [
+      48945,
+      48949,
+      48951,
+      48952
+    ],
+    "call_times": [
+      {
+        "cand_id": 48945,
+        "called_time": "2023-04-05T04:02:26.000Z"
+      },
+      {
+        "cand_id": 48949,
+        "called_time": "2023-04-05T04:02:26.000Z"
+      },
+      {
+        "cand_id": 48951,
+        "called_time": "2023-04-05T04:02:26.000Z"
+      },
+      {
+        "cand_id": 48952,
+        "called_time": "2023-04-05T04:02:26.000Z"
+      }
+    ],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 831,
+      "county": "Stephenson",
+      "fips": "17177",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 24,
+        "reporting": 24
+      },
+      "votes": {
+        "48944": 642,
+        "48945": 1328,
+        "48946": 954,
+        "48948": 504,
+        "48949": 1660,
+        "48950": 941,
+        "48951": 1784,
+        "48952": 1941,
+        "48953": 1133,
+        "48954": 1079
+      },
+      "voting_data": {
+        "48944": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48945": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48946": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48948": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48949": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48950": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48951": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48952": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48953": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48954": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 2163,
+          "vcu": "Stephenson",
+          "fips": "17177",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 24,
+            "reporting": 24
+          },
+          "votes": {
+            "48944": 642,
+            "48945": 1328,
+            "48946": 954,
+            "48948": 504,
+            "48949": 1660,
+            "48950": 941,
+            "48951": 1784,
+            "48952": 1941,
+            "48953": 1133,
+            "48954": 1079
+          },
+          "voting_data": {
+            "48944": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48945": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48946": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48948": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48949": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48950": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48951": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48952": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48953": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48954": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 48944,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Erica",
+      "last_name": "Monroe",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48945,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Jacek",
+      "last_name": "Sosnowski",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48946,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Timothy",
+      "last_name": "Chapman",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48948,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Ella",
+      "last_name": "Edison",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48949,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Kacey",
+      "last_name": "Seal",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48950,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Lynn",
+      "last_name": "Huber",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48951,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Audrey",
+      "last_name": "Moore-Howard",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48952,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Martha",
+      "last_name": "Furst",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48953,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Jean",
+      "last_name": "Howard",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48954,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Dennis",
+      "last_name": "Myers",
+      "incumbent": false
+    }
+  ]
+}

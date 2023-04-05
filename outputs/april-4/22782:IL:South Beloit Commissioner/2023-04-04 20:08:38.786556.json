@@ -1,0 +1,223 @@
+{
+  "race_id": 22782,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "17",
+  "state_name": "Illinois",
+  "state": "IL",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "South Beloit Commissioner",
+  "district": "",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T00:35:30.697Z",
+  "race_created": "2023-03-22T15:59:45.526Z",
+  "poll_close_time": "2023-04-04T20:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "48990": 135,
+      "48991": 106,
+      "48992": 105,
+      "48993": 101,
+      "48994": 104,
+      "48995": 82
+    },
+    "voting_data": {
+      "48990": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48991": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48992": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48993": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48994": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48995": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 8,
+      "reporting": 0
+    },
+    "called_candidates": [],
+    "call_times": [],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 843,
+      "county": "Winnebago",
+      "fips": "17201",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 8,
+        "reporting": 0
+      },
+      "votes": {
+        "48990": 135,
+        "48991": 106,
+        "48992": 105,
+        "48993": 101,
+        "48994": 104,
+        "48995": 82
+      },
+      "voting_data": {
+        "48990": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48991": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48992": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48993": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48994": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48995": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 2162,
+          "vcu": "Winnebago",
+          "fips": "17201",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 8,
+            "reporting": 0
+          },
+          "votes": {
+            "48990": 135,
+            "48991": 106,
+            "48992": 105,
+            "48993": 101,
+            "48994": 104,
+            "48995": 82
+          },
+          "voting_data": {
+            "48990": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48991": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48992": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48993": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48994": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48995": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 48990,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Ryan",
+      "last_name": "Adleman",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48991,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Brian",
+      "last_name": "Hedrington",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48992,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Kenneth",
+      "last_name": "Morse",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48993,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Courtney",
+      "last_name": "Prentice",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48994,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Joyce",
+      "last_name": "Blade",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48995,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Robert",
+      "last_name": "McLain",
+      "incumbent": false
+    }
+  ]
+}

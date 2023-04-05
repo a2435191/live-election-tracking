@@ -1,0 +1,131 @@
+{
+  "race_id": 22707,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "55",
+  "state_name": "Wisconsin",
+  "state": "WI",
+  "ecvotes": null,
+  "election_type_id": 9,
+  "name": "Special Election General",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Milwaukee Common Council",
+  "district": "9",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T02:56:37.232Z",
+  "race_created": "2023-03-20T19:06:55.934Z",
+  "poll_close_time": "2023-04-04T21:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "48809": 1708,
+      "48810": 1815
+    },
+    "voting_data": {
+      "48809": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48810": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 21,
+      "reporting": 20
+    },
+    "called_candidates": [],
+    "call_times": [],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 3196,
+      "county": "Milwaukee",
+      "fips": "55079",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 21,
+        "reporting": 20
+      },
+      "votes": {
+        "48809": 1708,
+        "48810": 1815
+      },
+      "voting_data": {
+        "48809": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48810": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 700,
+          "vcu": "Milwaukee",
+          "fips": "55079",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 21,
+            "reporting": 20
+          },
+          "votes": {
+            "48809": 1708,
+            "48810": 1815
+          },
+          "voting_data": {
+            "48809": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48810": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 48809,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Odell",
+      "last_name": "Ball",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48810,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Larresa",
+      "last_name": "Taylor",
+      "incumbent": false
+    }
+  ]
+}

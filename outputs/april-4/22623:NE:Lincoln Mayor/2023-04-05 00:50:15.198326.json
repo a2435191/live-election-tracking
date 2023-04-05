@@ -1,0 +1,161 @@
+{
+  "race_id": 22623,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "31",
+  "state_name": "Nebraska",
+  "state": "NE",
+  "ecvotes": null,
+  "election_type_id": 2,
+  "name": "Primary",
+  "race_date": "2023-04-04",
+  "office_id": 6,
+  "office": "Lincoln Mayor",
+  "district": "",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "City",
+  "advance_candidates": "true",
+  "last_updated": "2023-04-05T05:50:02.421Z",
+  "race_created": "2023-03-09T16:23:08.490Z",
+  "poll_close_time": "2023-04-04T21:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "48626": 17536,
+      "48627": 25164,
+      "48628": 8987
+    },
+    "voting_data": {
+      "48626": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48627": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48628": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 178,
+      "reporting": 175
+    },
+    "called_candidates": [],
+    "call_times": [],
+    "advancing_candidates": [
+      48627
+    ],
+    "advance_times": [
+      {
+        "cand_id": 48627,
+        "called_time": "2023-04-05T01:52:10.000Z"
+      }
+    ]
+  },
+  "counties": [
+    {
+      "id": 1844,
+      "county": "Lancaster",
+      "fips": "31109",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 178,
+        "reporting": 175
+      },
+      "votes": {
+        "48626": 17536,
+        "48627": 25164,
+        "48628": 8987
+      },
+      "voting_data": {
+        "48626": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48627": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48628": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 1095,
+          "vcu": "Lancaster",
+          "fips": "31109",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 178,
+            "reporting": 175
+          },
+          "votes": {
+            "48626": 17536,
+            "48627": 25164,
+            "48628": 8987
+          },
+          "voting_data": {
+            "48626": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48627": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48628": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 48626,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Suzanne",
+      "last_name": "Geist",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48627,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Leirion",
+      "last_name": "Gaylor Baird",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48628,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Stan",
+      "last_name": "Parker",
+      "incumbent": false
+    }
+  ]
+}

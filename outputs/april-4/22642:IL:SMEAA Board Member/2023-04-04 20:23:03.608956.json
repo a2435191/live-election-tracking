@@ -1,0 +1,223 @@
+{
+  "race_id": 22642,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "17",
+  "state_name": "Illinois",
+  "state": "IL",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "SMEAA Board Member",
+  "district": "4",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T01:22:52.140Z",
+  "race_created": "2023-03-13T21:58:55.936Z",
+  "poll_close_time": "2023-04-04T20:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "48672": 2403,
+      "48673": 2814,
+      "48674": 1837,
+      "48675": 3073,
+      "48676": 1786,
+      "48677": 2238
+    },
+    "voting_data": {
+      "48672": {
+        "absentee_ballots_early_votes": 1375,
+        "election_day_votes": 1028
+      },
+      "48673": {
+        "absentee_ballots_early_votes": 1600,
+        "election_day_votes": 1214
+      },
+      "48674": {
+        "absentee_ballots_early_votes": 1054,
+        "election_day_votes": 783
+      },
+      "48675": {
+        "absentee_ballots_early_votes": 1976,
+        "election_day_votes": 1097
+      },
+      "48676": {
+        "absentee_ballots_early_votes": 1180,
+        "election_day_votes": 606
+      },
+      "48677": {
+        "absentee_ballots_early_votes": 1455,
+        "election_day_votes": 783
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 39,
+      "reporting": 16
+    },
+    "called_candidates": [],
+    "call_times": [],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 825,
+      "county": "Sangamon",
+      "fips": "17167",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 39,
+        "reporting": 16
+      },
+      "votes": {
+        "48672": 2403,
+        "48673": 2814,
+        "48674": 1837,
+        "48675": 3073,
+        "48676": 1786,
+        "48677": 2238
+      },
+      "voting_data": {
+        "48672": {
+          "absentee_ballots_early_votes": 1375,
+          "election_day_votes": 1028
+        },
+        "48673": {
+          "absentee_ballots_early_votes": 1600,
+          "election_day_votes": 1214
+        },
+        "48674": {
+          "absentee_ballots_early_votes": 1054,
+          "election_day_votes": 783
+        },
+        "48675": {
+          "absentee_ballots_early_votes": 1976,
+          "election_day_votes": 1097
+        },
+        "48676": {
+          "absentee_ballots_early_votes": 1180,
+          "election_day_votes": 606
+        },
+        "48677": {
+          "absentee_ballots_early_votes": 1455,
+          "election_day_votes": 783
+        }
+      },
+      "vcus": [
+        {
+          "id": 2116,
+          "vcu": "Sangamon",
+          "fips": "17167",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 39,
+            "reporting": 16
+          },
+          "votes": {
+            "48672": 2403,
+            "48673": 2814,
+            "48674": 1837,
+            "48675": 3073,
+            "48676": 1786,
+            "48677": 2238
+          },
+          "voting_data": {
+            "48672": {
+              "absentee_ballots_early_votes": 1375,
+              "election_day_votes": 1028
+            },
+            "48673": {
+              "absentee_ballots_early_votes": 1600,
+              "election_day_votes": 1214
+            },
+            "48674": {
+              "absentee_ballots_early_votes": 1054,
+              "election_day_votes": 783
+            },
+            "48675": {
+              "absentee_ballots_early_votes": 1976,
+              "election_day_votes": 1097
+            },
+            "48676": {
+              "absentee_ballots_early_votes": 1180,
+              "election_day_votes": 606
+            },
+            "48677": {
+              "absentee_ballots_early_votes": 1455,
+              "election_day_votes": 783
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 48672,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Bill",
+      "last_name": "Taft",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48673,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Anthony",
+      "last_name": "Smarjesse",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48674,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Steve",
+      "last_name": "Ettinger",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48675,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Deborah",
+      "last_name": "Grant",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48676,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Derek",
+      "last_name": "Griffin",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48677,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Michael",
+      "last_name": "Paoni",
+      "incumbent": false
+    }
+  ]
+}

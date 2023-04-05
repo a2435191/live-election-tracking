@@ -1,0 +1,354 @@
+{
+  "race_id": 22792,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "17",
+  "state_name": "Illinois",
+  "state": "IL",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": " Hononegah High School Board 207",
+  "district": "",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T01:51:32.324Z",
+  "race_created": "2023-03-22T17:09:18.568Z",
+  "poll_close_time": "2023-04-04T20:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "49024": 2163,
+      "49025": 1837,
+      "49026": 2301,
+      "49027": 1203,
+      "49028": 1155,
+      "49029": 1314,
+      "49030": 835
+    },
+    "voting_data": {
+      "49024": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "49025": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "49026": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "49027": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "49028": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "49029": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "49030": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 30,
+      "reporting": 30
+    },
+    "called_candidates": [],
+    "call_times": [],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 843,
+      "county": "Winnebago",
+      "fips": "17201",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 29,
+        "reporting": 29
+      },
+      "votes": {
+        "49024": 2163,
+        "49025": 1837,
+        "49026": 2301,
+        "49027": 1203,
+        "49028": 1155,
+        "49029": 1314,
+        "49030": 835
+      },
+      "voting_data": {
+        "49024": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49025": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49026": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49027": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49028": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49029": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49030": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 2162,
+          "vcu": "Winnebago",
+          "fips": "17201",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 29,
+            "reporting": 29
+          },
+          "votes": {
+            "49024": 2163,
+            "49025": 1837,
+            "49026": 2301,
+            "49027": 1203,
+            "49028": 1155,
+            "49029": 1314,
+            "49030": 835
+          },
+          "voting_data": {
+            "49024": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49025": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49026": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49027": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49028": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49029": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49030": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 746,
+      "county": "Boone",
+      "fips": "17007",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 1,
+        "reporting": 1
+      },
+      "votes": {
+        "49024": 0,
+        "49025": 0,
+        "49026": 0,
+        "49027": 0,
+        "49028": 0,
+        "49029": 0,
+        "49030": 0
+      },
+      "voting_data": {
+        "49024": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49025": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49026": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49027": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49028": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49029": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49030": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 2164,
+          "vcu": "Boone",
+          "fips": "17007",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 1,
+            "reporting": 1
+          },
+          "votes": {
+            "49024": 0,
+            "49025": 0,
+            "49026": 0,
+            "49027": 0,
+            "49028": 0,
+            "49029": 0,
+            "49030": 0
+          },
+          "voting_data": {
+            "49024": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49025": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49026": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49027": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49028": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49029": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49030": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 49024,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "David",
+      "last_name": "Kurlinkus",
+      "incumbent": true
+    },
+    {
+      "cand_id": 49025,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Evan",
+      "last_name": "Schoepski",
+      "incumbent": true
+    },
+    {
+      "cand_id": 49026,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Mary",
+      "last_name": "Lewis",
+      "incumbent": true
+    },
+    {
+      "cand_id": 49027,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Nadine",
+      "last_name": "Kelley",
+      "incumbent": false
+    },
+    {
+      "cand_id": 49028,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Jenniffer",
+      "last_name": "Maragia",
+      "incumbent": false
+    },
+    {
+      "cand_id": 49029,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Joan",
+      "last_name": "Zimmerman",
+      "incumbent": false
+    },
+    {
+      "cand_id": 49030,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Brian",
+      "last_name": "Huff",
+      "incumbent": false
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "race_id": 22793,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "17",
+  "state_name": "Illinois",
+  "state": "IL",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Meridian School Board 223",
+  "district": "",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T01:03:35.616Z",
+  "race_created": "2023-03-22T17:19:20.824Z",
+  "poll_close_time": "2023-04-04T20:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "49031": 15,
+      "49032": 18,
+      "49034": 19,
+      "49035": 8,
+      "49036": 23,
+      "49037": 23,
+      "49038": 19
+    },
+    "voting_data": {
+      "49031": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "49032": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "49034": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "49035": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "49036": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "49037": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "49038": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 9,
+      "reporting": 2
+    },
+    "called_candidates": [],
+    "call_times": [],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 813,
+      "county": "Ogle",
+      "fips": "17141",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 7,
+        "reporting": 1
+      },
+      "votes": {
+        "49031": 4,
+        "49032": 4,
+        "49034": 4,
+        "49035": 0,
+        "49036": 10,
+        "49037": 9,
+        "49038": 6
+      },
+      "voting_data": {
+        "49031": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49032": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49034": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49035": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49036": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49037": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49038": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 2156,
+          "vcu": "Ogle",
+          "fips": "17141",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 7,
+            "reporting": 1
+          },
+          "votes": {
+            "49031": 4,
+            "49032": 4,
+            "49034": 4,
+            "49035": 0,
+            "49036": 10,
+            "49037": 9,
+            "49038": 6
+          },
+          "voting_data": {
+            "49031": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49032": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49034": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49035": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49036": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49037": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49038": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 843,
+      "county": "Winnebago",
+      "fips": "17201",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 2,
+        "reporting": 1
+      },
+      "votes": {
+        "49031": 11,
+        "49032": 14,
+        "49034": 15,
+        "49035": 8,
+        "49036": 13,
+        "49037": 14,
+        "49038": 13
+      },
+      "voting_data": {
+        "49031": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49032": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49034": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49035": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49036": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49037": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "49038": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 2162,
+          "vcu": "Winnebago",
+          "fips": "17201",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 2,
+            "reporting": 1
+          },
+          "votes": {
+            "49031": 11,
+            "49032": 14,
+            "49034": 15,
+            "49035": 8,
+            "49036": 13,
+            "49037": 14,
+            "49038": 13
+          },
+          "voting_data": {
+            "49031": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49032": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49034": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49035": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49036": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49037": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "49038": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 49031,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "John",
+      "last_name": "Seper",
+      "incumbent": false
+    },
+    {
+      "cand_id": 49032,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Matthew",
+      "last_name": "Reynolds",
+      "incumbent": false
+    },
+    {
+      "cand_id": 49034,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Karl",
+      "last_name": "Hall",
+      "incumbent": false
+    },
+    {
+      "cand_id": 49035,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Jennifer",
+      "last_name": "Maahs",
+      "incumbent": false
+    },
+    {
+      "cand_id": 49036,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "John",
+      "last_name": "Smith III",
+      "incumbent": true
+    },
+    {
+      "cand_id": 49037,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Dustin",
+      "last_name": "Collins",
+      "incumbent": false
+    },
+    {
+      "cand_id": 49038,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Larry",
+      "last_name": "McAnarney",
+      "incumbent": false
+    }
+  ]
+}

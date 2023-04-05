@@ -1,0 +1,131 @@
+{
+  "race_id": 22628,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "17",
+  "state_name": "Illinois",
+  "state": "IL",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Springfield Alderperson",
+  "district": "Ward 5",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T02:12:33.023Z",
+  "race_created": "2023-03-10T19:24:54.628Z",
+  "poll_close_time": "2023-04-04T20:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "48639": 1056,
+      "48640": 441
+    },
+    "voting_data": {
+      "48639": {
+        "absentee_ballots_early_votes": 454,
+        "election_day_votes": 602
+      },
+      "48640": {
+        "absentee_ballots_early_votes": 189,
+        "election_day_votes": 252
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 10,
+      "reporting": 9
+    },
+    "called_candidates": [],
+    "call_times": [],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 825,
+      "county": "Sangamon",
+      "fips": "17167",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 10,
+        "reporting": 9
+      },
+      "votes": {
+        "48639": 1056,
+        "48640": 441
+      },
+      "voting_data": {
+        "48639": {
+          "absentee_ballots_early_votes": 454,
+          "election_day_votes": 602
+        },
+        "48640": {
+          "absentee_ballots_early_votes": 189,
+          "election_day_votes": 252
+        }
+      },
+      "vcus": [
+        {
+          "id": 2116,
+          "vcu": "Sangamon",
+          "fips": "17167",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 10,
+            "reporting": 9
+          },
+          "votes": {
+            "48639": 1056,
+            "48640": 441
+          },
+          "voting_data": {
+            "48639": {
+              "absentee_ballots_early_votes": 454,
+              "election_day_votes": 602
+            },
+            "48640": {
+              "absentee_ballots_early_votes": 189,
+              "election_day_votes": 252
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 48639,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Lakeisha",
+      "last_name": "Purchase",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48640,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Sam",
+      "last_name": "Cahnman",
+      "incumbent": false
+    }
+  ]
+}

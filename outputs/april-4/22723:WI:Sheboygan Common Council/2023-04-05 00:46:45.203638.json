@@ -1,0 +1,138 @@
+{
+  "race_id": 22723,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "55",
+  "state_name": "Wisconsin",
+  "state": "WI",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Sheboygan Common Council",
+  "district": "5",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T05:46:32.580Z",
+  "race_created": "2023-03-20T22:05:15.266Z",
+  "poll_close_time": "2023-04-04T21:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "48841": 531,
+      "48842": 613
+    },
+    "voting_data": {
+      "48841": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48842": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 4,
+      "reporting": 4
+    },
+    "called_candidates": [
+      48842
+    ],
+    "call_times": [
+      {
+        "cand_id": 48842,
+        "called_time": "2023-04-05T05:46:32.000Z"
+      }
+    ],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 3214,
+      "county": "Sheboygan",
+      "fips": "55117",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 4,
+        "reporting": 4
+      },
+      "votes": {
+        "48841": 531,
+        "48842": 613
+      },
+      "voting_data": {
+        "48841": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48842": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 718,
+          "vcu": "Sheboygan",
+          "fips": "55117",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 4,
+            "reporting": 4
+          },
+          "votes": {
+            "48841": 531,
+            "48842": 613
+          },
+          "voting_data": {
+            "48841": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48842": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 48841,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Mark",
+      "last_name": "Kooistra",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48842,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Angela",
+      "last_name": "Ramey",
+      "incumbent": true
+    }
+  ]
+}

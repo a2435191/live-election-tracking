@@ -1,0 +1,198 @@
+{
+  "race_id": 22548,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "12",
+  "state_name": "Florida",
+  "state": "FL",
+  "ecvotes": null,
+  "election_type_id": 8,
+  "name": "Special Election Primary",
+  "race_date": "2023-03-07",
+  "office_id": 9,
+  "office": "State House",
+  "district": "24",
+  "party_id": 2,
+  "party": "Republican",
+  "level": null,
+  "advance_candidates": "false",
+  "last_updated": null,
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "528": 0,
+      "14305": 0,
+      "48484": 0,
+      "48486": 0,
+      "48487": 0
+    },
+    "voting_data": {
+      "528": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "14305": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48484": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48486": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48487": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 8000,
+      "estimated_votes_mid": 12500,
+      "estimated_votes_high": 17000
+    },
+    "precincts": {
+      "total": 0,
+      "reporting": 0
+    },
+    "called_candidates": [],
+    "call_times": [],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 508,
+      "county": "Marion",
+      "fips": "12083",
+      "estimated_votes": {
+        "estimated_votes_low": 8000,
+        "estimated_votes_mid": 12500,
+        "estimated_votes_high": 17000
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "528": 0,
+        "14305": 0,
+        "48484": 0,
+        "48486": 0,
+        "48487": 0
+      },
+      "voting_data": {
+        "528": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "14305": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48484": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48486": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48487": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 1822,
+          "vcu": "Marion",
+          "fips": "12083",
+          "estimated_votes": {
+            "estimated_votes_low": 8000,
+            "estimated_votes_mid": 12500,
+            "estimated_votes_high": 17000
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "528": 0,
+            "14305": 0,
+            "48484": 0,
+            "48486": 0,
+            "48487": 0
+          },
+          "voting_data": {
+            "528": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "14305": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48484": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48486": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48487": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 528,
+      "party_name": "Republican",
+      "party_id": 2,
+      "first_name": "Charlie",
+      "last_name": "Stone",
+      "incumbent": false
+    },
+    {
+      "cand_id": 14305,
+      "party_name": "Republican",
+      "party_id": 2,
+      "first_name": "Ryan",
+      "last_name": "Chamberlin",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48484,
+      "party_name": "Republican",
+      "party_id": 2,
+      "first_name": "Justin",
+      "last_name": "Albright",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48486,
+      "party_name": "Republican",
+      "party_id": 2,
+      "first_name": "Jose",
+      "last_name": "Juarez",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48487,
+      "party_name": "Republican",
+      "party_id": 2,
+      "first_name": "Stephen",
+      "last_name": "Pyles",
+      "incumbent": false
+    }
+  ]
+}

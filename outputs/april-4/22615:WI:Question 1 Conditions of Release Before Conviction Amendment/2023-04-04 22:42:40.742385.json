@@ -1,0 +1,4256 @@
+{
+  "race_id": 22615,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "55",
+  "state_name": "Wisconsin",
+  "state": "WI",
+  "ecvotes": null,
+  "election_type_id": 7,
+  "name": "Ballot Question",
+  "race_date": "2023-04-04",
+  "office_id": 33,
+  "office": "Question 1 Conditions of Release Before Conviction Amendment",
+  "district": "",
+  "party_id": 0,
+  "party": null,
+  "level": "State Referendum",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T03:42:08.411Z",
+  "race_created": "2023-03-09T14:23:14.018Z",
+  "poll_close_time": "2023-04-04T21:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "636": 1048814,
+      "637": 523333
+    },
+    "voting_data": {
+      "636": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "637": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 1573330,
+      "estimated_votes_mid": 1828573,
+      "estimated_votes_high": 2124027
+    },
+    "precincts": {
+      "total": 0,
+      "reporting": 0
+    },
+    "called_candidates": [
+      636
+    ],
+    "call_times": [
+      {
+        "cand_id": 636,
+        "called_time": "2023-04-05T02:12:00.000Z"
+      }
+    ],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 3156,
+      "county": "Adams",
+      "fips": "55001",
+      "estimated_votes": {
+        "estimated_votes_low": 4856,
+        "estimated_votes_mid": 6475,
+        "estimated_votes_high": 8094
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 3253,
+        "637": 1550
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 660,
+          "vcu": "Adams",
+          "fips": "55001",
+          "estimated_votes": {
+            "estimated_votes_low": 4856,
+            "estimated_votes_mid": 6475,
+            "estimated_votes_high": 8094
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 3253,
+            "637": 1550
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3157,
+      "county": "Ashland",
+      "fips": "55003",
+      "estimated_votes": {
+        "estimated_votes_low": 3617,
+        "estimated_votes_mid": 4464,
+        "estimated_votes_high": 5581
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 2168,
+        "637": 1449
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 661,
+          "vcu": "Ashland",
+          "fips": "55003",
+          "estimated_votes": {
+            "estimated_votes_low": 3617,
+            "estimated_votes_mid": 4464,
+            "estimated_votes_high": 5581
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 2168,
+            "637": 1449
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3158,
+      "county": "Barron",
+      "fips": "55005",
+      "estimated_votes": {
+        "estimated_votes_low": 12739,
+        "estimated_votes_mid": 13133,
+        "estimated_votes_high": 13270
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 8781,
+        "637": 3958
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 662,
+          "vcu": "Barron",
+          "fips": "55005",
+          "estimated_votes": {
+            "estimated_votes_low": 12739,
+            "estimated_votes_mid": 13133,
+            "estimated_votes_high": 13270
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 8781,
+            "637": 3958
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3159,
+      "county": "Bayfield",
+      "fips": "55007",
+      "estimated_votes": {
+        "estimated_votes_low": 5863,
+        "estimated_votes_mid": 6449,
+        "estimated_votes_high": 7330
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 3698,
+        "637": 2732
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 663,
+          "vcu": "Bayfield",
+          "fips": "55007",
+          "estimated_votes": {
+            "estimated_votes_low": 5863,
+            "estimated_votes_mid": 6449,
+            "estimated_votes_high": 7330
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 3698,
+            "637": 2732
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3160,
+      "county": "Brown",
+      "fips": "55009",
+      "estimated_votes": {
+        "estimated_votes_low": 57043,
+        "estimated_votes_mid": 76058,
+        "estimated_votes_high": 95072
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 50756,
+        "637": 22932
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 664,
+          "vcu": "Brown",
+          "fips": "55009",
+          "estimated_votes": {
+            "estimated_votes_low": 57043,
+            "estimated_votes_mid": 76058,
+            "estimated_votes_high": 95072
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 50756,
+            "637": 22932
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3161,
+      "county": "Buffalo",
+      "fips": "55011",
+      "estimated_votes": {
+        "estimated_votes_low": 2976,
+        "estimated_votes_mid": 3968,
+        "estimated_votes_high": 4960
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 2489,
+        "637": 1303
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 665,
+          "vcu": "Buffalo",
+          "fips": "55011",
+          "estimated_votes": {
+            "estimated_votes_low": 2976,
+            "estimated_votes_mid": 3968,
+            "estimated_votes_high": 4960
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 2489,
+            "637": 1303
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3162,
+      "county": "Burnett",
+      "fips": "55013",
+      "estimated_votes": {
+        "estimated_votes_low": 3637,
+        "estimated_votes_mid": 4850,
+        "estimated_votes_high": 6062
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 2577,
+        "637": 1179
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 666,
+          "vcu": "Burnett",
+          "fips": "55013",
+          "estimated_votes": {
+            "estimated_votes_low": 3637,
+            "estimated_votes_mid": 4850,
+            "estimated_votes_high": 6062
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 2577,
+            "637": 1179
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3163,
+      "county": "Calumet",
+      "fips": "55015",
+      "estimated_votes": {
+        "estimated_votes_low": 12180,
+        "estimated_votes_mid": 16241,
+        "estimated_votes_high": 20301
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 5613,
+        "637": 2240
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 667,
+          "vcu": "Calumet",
+          "fips": "55015",
+          "estimated_votes": {
+            "estimated_votes_low": 12180,
+            "estimated_votes_mid": 16241,
+            "estimated_votes_high": 20301
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 5613,
+            "637": 2240
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3164,
+      "county": "Chippewa",
+      "fips": "55017",
+      "estimated_votes": {
+        "estimated_votes_low": 14078,
+        "estimated_votes_mid": 18771,
+        "estimated_votes_high": 23463
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 11117,
+        "637": 4481
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 668,
+          "vcu": "Chippewa",
+          "fips": "55017",
+          "estimated_votes": {
+            "estimated_votes_low": 14078,
+            "estimated_votes_mid": 18771,
+            "estimated_votes_high": 23463
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 11117,
+            "637": 4481
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3165,
+      "county": "Clark",
+      "fips": "55019",
+      "estimated_votes": {
+        "estimated_votes_low": 5803,
+        "estimated_votes_mid": 7738,
+        "estimated_votes_high": 9672
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 5524,
+        "637": 2586
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 669,
+          "vcu": "Clark",
+          "fips": "55019",
+          "estimated_votes": {
+            "estimated_votes_low": 5803,
+            "estimated_votes_mid": 7738,
+            "estimated_votes_high": 9672
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 5524,
+            "637": 2586
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3166,
+      "county": "Columbia",
+      "fips": "55021",
+      "estimated_votes": {
+        "estimated_votes_low": 13820,
+        "estimated_votes_mid": 18427,
+        "estimated_votes_high": 23033
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 0,
+        "637": 0
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 670,
+          "vcu": "Columbia",
+          "fips": "55021",
+          "estimated_votes": {
+            "estimated_votes_low": 13820,
+            "estimated_votes_mid": 18427,
+            "estimated_votes_high": 23033
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 0,
+            "637": 0
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3167,
+      "county": "Crawford",
+      "fips": "55023",
+      "estimated_votes": {
+        "estimated_votes_low": 3313,
+        "estimated_votes_mid": 4417,
+        "estimated_votes_high": 5521
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 2752,
+        "637": 1624
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 671,
+          "vcu": "Crawford",
+          "fips": "55023",
+          "estimated_votes": {
+            "estimated_votes_low": 3313,
+            "estimated_votes_mid": 4417,
+            "estimated_votes_high": 5521
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 2752,
+            "637": 1624
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3168,
+      "county": "Dane",
+      "fips": "55025",
+      "estimated_votes": {
+        "estimated_votes_low": 218859,
+        "estimated_votes_mid": 240745,
+        "estimated_votes_high": 273575
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 120671,
+        "637": 99066
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 672,
+          "vcu": "Dane",
+          "fips": "55025",
+          "estimated_votes": {
+            "estimated_votes_low": 218859,
+            "estimated_votes_mid": 240745,
+            "estimated_votes_high": 273575
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 120671,
+            "637": 99066
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3169,
+      "county": "Dodge",
+      "fips": "55027",
+      "estimated_votes": {
+        "estimated_votes_low": 15528,
+        "estimated_votes_mid": 16008,
+        "estimated_votes_high": 16175
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 10916,
+        "637": 4612
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 673,
+          "vcu": "Dodge",
+          "fips": "55027",
+          "estimated_votes": {
+            "estimated_votes_low": 15528,
+            "estimated_votes_mid": 16008,
+            "estimated_votes_high": 16175
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 10916,
+            "637": 4612
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3170,
+      "county": "Door",
+      "fips": "55029",
+      "estimated_votes": {
+        "estimated_votes_low": 11566,
+        "estimated_votes_mid": 11924,
+        "estimated_votes_high": 12048
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 7875,
+        "637": 3691
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 674,
+          "vcu": "Door",
+          "fips": "55029",
+          "estimated_votes": {
+            "estimated_votes_low": 11566,
+            "estimated_votes_mid": 11924,
+            "estimated_votes_high": 12048
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 7875,
+            "637": 3691
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3171,
+      "county": "Douglas",
+      "fips": "55031",
+      "estimated_votes": {
+        "estimated_votes_low": 8978,
+        "estimated_votes_mid": 11970,
+        "estimated_votes_high": 14963
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 7054,
+        "637": 3643
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 675,
+          "vcu": "Douglas",
+          "fips": "55031",
+          "estimated_votes": {
+            "estimated_votes_low": 8978,
+            "estimated_votes_mid": 11970,
+            "estimated_votes_high": 14963
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 7054,
+            "637": 3643
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3172,
+      "county": "Dunn",
+      "fips": "55033",
+      "estimated_votes": {
+        "estimated_votes_low": 8891,
+        "estimated_votes_mid": 11854,
+        "estimated_votes_high": 14818
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 2335,
+        "637": 1332
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 676,
+          "vcu": "Dunn",
+          "fips": "55033",
+          "estimated_votes": {
+            "estimated_votes_low": 8891,
+            "estimated_votes_mid": 11854,
+            "estimated_votes_high": 14818
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 2335,
+            "637": 1332
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3173,
+      "county": "Eau Claire",
+      "fips": "55035",
+      "estimated_votes": {
+        "estimated_votes_low": 30834,
+        "estimated_votes_mid": 31788,
+        "estimated_votes_high": 32119
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 20457,
+        "637": 11222
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 677,
+          "vcu": "Eau Claire",
+          "fips": "55035",
+          "estimated_votes": {
+            "estimated_votes_low": 30834,
+            "estimated_votes_mid": 31788,
+            "estimated_votes_high": 32119
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 20457,
+            "637": 11222
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3174,
+      "county": "Florence",
+      "fips": "55037",
+      "estimated_votes": {
+        "estimated_votes_low": 1511,
+        "estimated_votes_mid": 1662,
+        "estimated_votes_high": 1890
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 1025,
+        "637": 486
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 678,
+          "vcu": "Florence",
+          "fips": "55037",
+          "estimated_votes": {
+            "estimated_votes_low": 1511,
+            "estimated_votes_mid": 1662,
+            "estimated_votes_high": 1890
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 1025,
+            "637": 486
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3175,
+      "county": "Fond du Lac",
+      "fips": "55039",
+      "estimated_votes": {
+        "estimated_votes_low": 28554,
+        "estimated_votes_mid": 29437,
+        "estimated_votes_high": 29744
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 20469,
+        "637": 8085
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 679,
+          "vcu": "Fond du Lac",
+          "fips": "55039",
+          "estimated_votes": {
+            "estimated_votes_low": 28554,
+            "estimated_votes_mid": 29437,
+            "estimated_votes_high": 29744
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 20469,
+            "637": 8085
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3176,
+      "county": "Forest",
+      "fips": "55041",
+      "estimated_votes": {
+        "estimated_votes_low": 2027,
+        "estimated_votes_mid": 2702,
+        "estimated_votes_high": 3378
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 1709,
+        "637": 773
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 680,
+          "vcu": "Forest",
+          "fips": "55041",
+          "estimated_votes": {
+            "estimated_votes_low": 2027,
+            "estimated_votes_mid": 2702,
+            "estimated_votes_high": 3378
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 1709,
+            "637": 773
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3177,
+      "county": "Grant",
+      "fips": "55043",
+      "estimated_votes": {
+        "estimated_votes_low": 9207,
+        "estimated_votes_mid": 12276,
+        "estimated_votes_high": 15344
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 0,
+        "637": 0
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 681,
+          "vcu": "Grant",
+          "fips": "55043",
+          "estimated_votes": {
+            "estimated_votes_low": 9207,
+            "estimated_votes_mid": 12276,
+            "estimated_votes_high": 15344
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 0,
+            "637": 0
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3178,
+      "county": "Green",
+      "fips": "55045",
+      "estimated_votes": {
+        "estimated_votes_low": 12110,
+        "estimated_votes_mid": 12485,
+        "estimated_votes_high": 12615
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 7976,
+        "637": 4134
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 682,
+          "vcu": "Green",
+          "fips": "55045",
+          "estimated_votes": {
+            "estimated_votes_low": 12110,
+            "estimated_votes_mid": 12485,
+            "estimated_votes_high": 12615
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 7976,
+            "637": 4134
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3179,
+      "county": "Green Lake",
+      "fips": "55047",
+      "estimated_votes": {
+        "estimated_votes_low": 4122,
+        "estimated_votes_mid": 5496,
+        "estimated_votes_high": 6870
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 1964,
+        "637": 845
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 683,
+          "vcu": "Green Lake",
+          "fips": "55047",
+          "estimated_votes": {
+            "estimated_votes_low": 4122,
+            "estimated_votes_mid": 5496,
+            "estimated_votes_high": 6870
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 1964,
+            "637": 845
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3180,
+      "county": "Iowa",
+      "fips": "55049",
+      "estimated_votes": {
+        "estimated_votes_low": 5779,
+        "estimated_votes_mid": 7585,
+        "estimated_votes_high": 9481
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 4956,
+        "637": 3011
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 684,
+          "vcu": "Iowa",
+          "fips": "55049",
+          "estimated_votes": {
+            "estimated_votes_low": 5779,
+            "estimated_votes_mid": 7585,
+            "estimated_votes_high": 9481
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 4956,
+            "637": 3011
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3181,
+      "county": "Iron",
+      "fips": "55051",
+      "estimated_votes": {
+        "estimated_votes_low": 1967,
+        "estimated_votes_mid": 2028,
+        "estimated_votes_high": 2049
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 1311,
+        "637": 656
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 685,
+          "vcu": "Iron",
+          "fips": "55051",
+          "estimated_votes": {
+            "estimated_votes_low": 1967,
+            "estimated_votes_mid": 2028,
+            "estimated_votes_high": 2049
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 1311,
+            "637": 656
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3182,
+      "county": "Jackson",
+      "fips": "55053",
+      "estimated_votes": {
+        "estimated_votes_low": 3975,
+        "estimated_votes_mid": 5300,
+        "estimated_votes_high": 6625
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 3305,
+        "637": 1572
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 686,
+          "vcu": "Jackson",
+          "fips": "55053",
+          "estimated_votes": {
+            "estimated_votes_low": 3975,
+            "estimated_votes_mid": 5300,
+            "estimated_votes_high": 6625
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 3305,
+            "637": 1572
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3183,
+      "county": "Jefferson",
+      "fips": "55055",
+      "estimated_votes": {
+        "estimated_votes_low": 26462,
+        "estimated_votes_mid": 27280,
+        "estimated_votes_high": 27565
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 17883,
+        "637": 8579
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 687,
+          "vcu": "Jefferson",
+          "fips": "55055",
+          "estimated_votes": {
+            "estimated_votes_low": 26462,
+            "estimated_votes_mid": 27280,
+            "estimated_votes_high": 27565
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 17883,
+            "637": 8579
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3184,
+      "county": "Juneau",
+      "fips": "55057",
+      "estimated_votes": {
+        "estimated_votes_low": 5032,
+        "estimated_votes_mid": 6710,
+        "estimated_votes_high": 8387
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 4614,
+        "637": 2206
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 688,
+          "vcu": "Juneau",
+          "fips": "55057",
+          "estimated_votes": {
+            "estimated_votes_low": 5032,
+            "estimated_votes_mid": 6710,
+            "estimated_votes_high": 8387
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 4614,
+            "637": 2206
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3185,
+      "county": "Kenosha",
+      "fips": "55059",
+      "estimated_votes": {
+        "estimated_votes_low": 40796,
+        "estimated_votes_mid": 42058,
+        "estimated_votes_high": 42496
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 27885,
+        "637": 12911
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 689,
+          "vcu": "Kenosha",
+          "fips": "55059",
+          "estimated_votes": {
+            "estimated_votes_low": 40796,
+            "estimated_votes_mid": 42058,
+            "estimated_votes_high": 42496
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 27885,
+            "637": 12911
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3186,
+      "county": "Kewaunee",
+      "fips": "55061",
+      "estimated_votes": {
+        "estimated_votes_low": 6389,
+        "estimated_votes_mid": 6587,
+        "estimated_votes_high": 6655
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 4457,
+        "637": 1932
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 690,
+          "vcu": "Kewaunee",
+          "fips": "55061",
+          "estimated_votes": {
+            "estimated_votes_low": 6389,
+            "estimated_votes_mid": 6587,
+            "estimated_votes_high": 6655
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 4457,
+            "637": 1932
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3187,
+      "county": "La Crosse",
+      "fips": "55063",
+      "estimated_votes": {
+        "estimated_votes_low": 35296,
+        "estimated_votes_mid": 36388,
+        "estimated_votes_high": 36767
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 23333,
+        "637": 11963
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 691,
+          "vcu": "La Crosse",
+          "fips": "55063",
+          "estimated_votes": {
+            "estimated_votes_low": 35296,
+            "estimated_votes_mid": 36388,
+            "estimated_votes_high": 36767
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 23333,
+            "637": 11963
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3188,
+      "county": "Lafayette",
+      "fips": "55065",
+      "estimated_votes": {
+        "estimated_votes_low": 3235,
+        "estimated_votes_mid": 4313,
+        "estimated_votes_high": 5391
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 2099,
+        "637": 1097
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 692,
+          "vcu": "Lafayette",
+          "fips": "55065",
+          "estimated_votes": {
+            "estimated_votes_low": 3235,
+            "estimated_votes_mid": 4313,
+            "estimated_votes_high": 5391
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 2099,
+            "637": 1097
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3189,
+      "county": "Langlade",
+      "fips": "55067",
+      "estimated_votes": {
+        "estimated_votes_low": 4564,
+        "estimated_votes_mid": 6085,
+        "estimated_votes_high": 7606
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 4134,
+        "637": 2015
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 693,
+          "vcu": "Langlade",
+          "fips": "55067",
+          "estimated_votes": {
+            "estimated_votes_low": 4564,
+            "estimated_votes_mid": 6085,
+            "estimated_votes_high": 7606
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 4134,
+            "637": 2015
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3190,
+      "county": "Lincoln",
+      "fips": "55069",
+      "estimated_votes": {
+        "estimated_votes_low": 6811,
+        "estimated_votes_mid": 9081,
+        "estimated_votes_high": 11351
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 5441,
+        "637": 2686
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 694,
+          "vcu": "Lincoln",
+          "fips": "55069",
+          "estimated_votes": {
+            "estimated_votes_low": 6811,
+            "estimated_votes_mid": 9081,
+            "estimated_votes_high": 11351
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 5441,
+            "637": 2686
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3191,
+      "county": "Manitowoc",
+      "fips": "55071",
+      "estimated_votes": {
+        "estimated_votes_low": 17711,
+        "estimated_votes_mid": 23614,
+        "estimated_votes_high": 29518
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 16243,
+        "637": 6789
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 695,
+          "vcu": "Manitowoc",
+          "fips": "55071",
+          "estimated_votes": {
+            "estimated_votes_low": 17711,
+            "estimated_votes_mid": 23614,
+            "estimated_votes_high": 29518
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 16243,
+            "637": 6789
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3192,
+      "county": "Marathon",
+      "fips": "55073",
+      "estimated_votes": {
+        "estimated_votes_low": 40084,
+        "estimated_votes_mid": 44092,
+        "estimated_votes_high": 51662
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 27541,
+        "637": 12927
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 696,
+          "vcu": "Marathon",
+          "fips": "55073",
+          "estimated_votes": {
+            "estimated_votes_low": 40084,
+            "estimated_votes_mid": 44092,
+            "estimated_votes_high": 51662
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 27541,
+            "637": 12927
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3193,
+      "county": "Marinette",
+      "fips": "55075",
+      "estimated_votes": {
+        "estimated_votes_low": 8724,
+        "estimated_votes_mid": 11631,
+        "estimated_votes_high": 14539
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 7731,
+        "637": 3632
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 697,
+          "vcu": "Marinette",
+          "fips": "55075",
+          "estimated_votes": {
+            "estimated_votes_low": 8724,
+            "estimated_votes_mid": 11631,
+            "estimated_votes_high": 14539
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 7731,
+            "637": 3632
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3194,
+      "county": "Marquette",
+      "fips": "55077",
+      "estimated_votes": {
+        "estimated_votes_low": 4938,
+        "estimated_votes_mid": 5432,
+        "estimated_votes_high": 6174
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 3335,
+        "637": 1603
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 698,
+          "vcu": "Marquette",
+          "fips": "55077",
+          "estimated_votes": {
+            "estimated_votes_low": 4938,
+            "estimated_votes_mid": 5432,
+            "estimated_votes_high": 6174
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 3335,
+            "637": 1603
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3195,
+      "county": "Menominee",
+      "fips": "55078",
+      "estimated_votes": {
+        "estimated_votes_low": 532,
+        "estimated_votes_mid": 548,
+        "estimated_votes_high": 554
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 356,
+        "637": 176
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 699,
+          "vcu": "Menominee",
+          "fips": "55078",
+          "estimated_votes": {
+            "estimated_votes_low": 532,
+            "estimated_votes_mid": 548,
+            "estimated_votes_high": 554
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 356,
+            "637": 176
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3196,
+      "county": "Milwaukee",
+      "fips": "55079",
+      "estimated_votes": {
+        "estimated_votes_low": 185465,
+        "estimated_votes_mid": 247287,
+        "estimated_votes_high": 309108
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 118264,
+        "637": 66782
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 700,
+          "vcu": "Milwaukee",
+          "fips": "55079",
+          "estimated_votes": {
+            "estimated_votes_low": 185465,
+            "estimated_votes_mid": 247287,
+            "estimated_votes_high": 309108
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 118264,
+            "637": 66782
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3197,
+      "county": "Monroe",
+      "fips": "55081",
+      "estimated_votes": {
+        "estimated_votes_low": 8283,
+        "estimated_votes_mid": 11044,
+        "estimated_votes_high": 13805
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 3996,
+        "637": 1768
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 701,
+          "vcu": "Monroe",
+          "fips": "55081",
+          "estimated_votes": {
+            "estimated_votes_low": 8283,
+            "estimated_votes_mid": 11044,
+            "estimated_votes_high": 13805
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 3996,
+            "637": 1768
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3198,
+      "county": "Oconto",
+      "fips": "55083",
+      "estimated_votes": {
+        "estimated_votes_low": 9107,
+        "estimated_votes_mid": 12143,
+        "estimated_votes_high": 15179
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 8434,
+        "637": 3573
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 702,
+          "vcu": "Oconto",
+          "fips": "55083",
+          "estimated_votes": {
+            "estimated_votes_low": 9107,
+            "estimated_votes_mid": 12143,
+            "estimated_votes_high": 15179
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 8434,
+            "637": 3573
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3199,
+      "county": "Oneida",
+      "fips": "55085",
+      "estimated_votes": {
+        "estimated_votes_low": 12330,
+        "estimated_votes_mid": 13563,
+        "estimated_votes_high": 16493
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 8320,
+        "637": 4010
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 703,
+          "vcu": "Oneida",
+          "fips": "55085",
+          "estimated_votes": {
+            "estimated_votes_low": 12330,
+            "estimated_votes_mid": 13563,
+            "estimated_votes_high": 16493
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 8320,
+            "637": 4010
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3200,
+      "county": "Outagamie",
+      "fips": "55087",
+      "estimated_votes": {
+        "estimated_votes_low": 52413,
+        "estimated_votes_mid": 54034,
+        "estimated_votes_high": 54597
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 35403,
+        "637": 17010
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 704,
+          "vcu": "Outagamie",
+          "fips": "55087",
+          "estimated_votes": {
+            "estimated_votes_low": 52413,
+            "estimated_votes_mid": 54034,
+            "estimated_votes_high": 54597
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 35403,
+            "637": 17010
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3201,
+      "county": "Ozaukee",
+      "fips": "55089",
+      "estimated_votes": {
+        "estimated_votes_low": 36612,
+        "estimated_votes_mid": 37744,
+        "estimated_votes_high": 38138
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 26904,
+        "637": 9708
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 705,
+          "vcu": "Ozaukee",
+          "fips": "55089",
+          "estimated_votes": {
+            "estimated_votes_low": 36612,
+            "estimated_votes_mid": 37744,
+            "estimated_votes_high": 38138
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 26904,
+            "637": 9708
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3202,
+      "county": "Pepin",
+      "fips": "55091",
+      "estimated_votes": {
+        "estimated_votes_low": 1534,
+        "estimated_votes_mid": 2045,
+        "estimated_votes_high": 2556
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 1432,
+        "637": 657
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 706,
+          "vcu": "Pepin",
+          "fips": "55091",
+          "estimated_votes": {
+            "estimated_votes_low": 1534,
+            "estimated_votes_mid": 2045,
+            "estimated_votes_high": 2556
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 1432,
+            "637": 657
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3203,
+      "county": "Pierce",
+      "fips": "55093",
+      "estimated_votes": {
+        "estimated_votes_low": 8256,
+        "estimated_votes_mid": 11008,
+        "estimated_votes_high": 13761
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 6047,
+        "637": 3288
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 707,
+          "vcu": "Pierce",
+          "fips": "55093",
+          "estimated_votes": {
+            "estimated_votes_low": 8256,
+            "estimated_votes_mid": 11008,
+            "estimated_votes_high": 13761
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 6047,
+            "637": 3288
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3204,
+      "county": "Polk",
+      "fips": "55095",
+      "estimated_votes": {
+        "estimated_votes_low": 9107,
+        "estimated_votes_mid": 12143,
+        "estimated_votes_high": 15178
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 4626,
+        "637": 2274
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 708,
+          "vcu": "Polk",
+          "fips": "55095",
+          "estimated_votes": {
+            "estimated_votes_low": 9107,
+            "estimated_votes_mid": 12143,
+            "estimated_votes_high": 15178
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 4626,
+            "637": 2274
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3205,
+      "county": "Portage",
+      "fips": "55097",
+      "estimated_votes": {
+        "estimated_votes_low": 16842,
+        "estimated_votes_mid": 22455,
+        "estimated_votes_high": 28069
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 7940,
+        "637": 3831
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 709,
+          "vcu": "Portage",
+          "fips": "55097",
+          "estimated_votes": {
+            "estimated_votes_low": 16842,
+            "estimated_votes_mid": 22455,
+            "estimated_votes_high": 28069
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 7940,
+            "637": 3831
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3206,
+      "county": "Price",
+      "fips": "55099",
+      "estimated_votes": {
+        "estimated_votes_low": 3889,
+        "estimated_votes_mid": 4488,
+        "estimated_votes_high": 5611
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 2981,
+        "637": 1580
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 710,
+          "vcu": "Price",
+          "fips": "55099",
+          "estimated_votes": {
+            "estimated_votes_low": 3889,
+            "estimated_votes_mid": 4488,
+            "estimated_votes_high": 5611
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 2981,
+            "637": 1580
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3207,
+      "county": "Racine",
+      "fips": "55101",
+      "estimated_votes": {
+        "estimated_votes_low": 54981,
+        "estimated_votes_mid": 56681,
+        "estimated_votes_high": 57272
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 38418,
+        "637": 16563
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 711,
+          "vcu": "Racine",
+          "fips": "55101",
+          "estimated_votes": {
+            "estimated_votes_low": 54981,
+            "estimated_votes_mid": 56681,
+            "estimated_votes_high": 57272
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 38418,
+            "637": 16563
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3208,
+      "county": "Richland",
+      "fips": "55103",
+      "estimated_votes": {
+        "estimated_votes_low": 3509,
+        "estimated_votes_mid": 4679,
+        "estimated_votes_high": 5849
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 0,
+        "637": 0
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 712,
+          "vcu": "Richland",
+          "fips": "55103",
+          "estimated_votes": {
+            "estimated_votes_low": 3509,
+            "estimated_votes_mid": 4679,
+            "estimated_votes_high": 5849
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 0,
+            "637": 0
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3209,
+      "county": "Rock",
+      "fips": "55105",
+      "estimated_votes": {
+        "estimated_votes_low": 33700,
+        "estimated_votes_mid": 44934,
+        "estimated_votes_high": 56167
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 23226,
+        "637": 11626
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 713,
+          "vcu": "Rock",
+          "fips": "55105",
+          "estimated_votes": {
+            "estimated_votes_low": 33700,
+            "estimated_votes_mid": 44934,
+            "estimated_votes_high": 56167
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 23226,
+            "637": 11626
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3210,
+      "county": "Rusk",
+      "fips": "55107",
+      "estimated_votes": {
+        "estimated_votes_low": 3021,
+        "estimated_votes_mid": 4028,
+        "estimated_votes_high": 5035
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 2255,
+        "637": 1064
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 714,
+          "vcu": "Rusk",
+          "fips": "55107",
+          "estimated_votes": {
+            "estimated_votes_low": 3021,
+            "estimated_votes_mid": 4028,
+            "estimated_votes_high": 5035
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 2255,
+            "637": 1064
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3211,
+      "county": "Sauk",
+      "fips": "55111",
+      "estimated_votes": {
+        "estimated_votes_low": 18600,
+        "estimated_votes_mid": 20460,
+        "estimated_votes_high": 24498
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 12191,
+        "637": 6568
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 715,
+          "vcu": "Sauk",
+          "fips": "55111",
+          "estimated_votes": {
+            "estimated_votes_low": 18600,
+            "estimated_votes_mid": 20460,
+            "estimated_votes_high": 24498
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 12191,
+            "637": 6568
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3212,
+      "county": "Sawyer",
+      "fips": "55113",
+      "estimated_votes": {
+        "estimated_votes_low": 4829,
+        "estimated_votes_mid": 5433,
+        "estimated_votes_high": 6791
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 3545,
+        "637": 1741
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 716,
+          "vcu": "Sawyer",
+          "fips": "55113",
+          "estimated_votes": {
+            "estimated_votes_low": 4829,
+            "estimated_votes_mid": 5433,
+            "estimated_votes_high": 6791
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 3545,
+            "637": 1741
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3213,
+      "county": "Shawano",
+      "fips": "55115",
+      "estimated_votes": {
+        "estimated_votes_low": 9064,
+        "estimated_votes_mid": 12086,
+        "estimated_votes_high": 15107
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 1673,
+        "637": 742
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 717,
+          "vcu": "Shawano",
+          "fips": "55115",
+          "estimated_votes": {
+            "estimated_votes_low": 9064,
+            "estimated_votes_mid": 12086,
+            "estimated_votes_high": 15107
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 1673,
+            "637": 742
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3214,
+      "county": "Sheboygan",
+      "fips": "55117",
+      "estimated_votes": {
+        "estimated_votes_low": 27216,
+        "estimated_votes_mid": 35189,
+        "estimated_votes_high": 43986
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 25483,
+        "637": 9326
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 718,
+          "vcu": "Sheboygan",
+          "fips": "55117",
+          "estimated_votes": {
+            "estimated_votes_low": 27216,
+            "estimated_votes_mid": 35189,
+            "estimated_votes_high": 43986
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 25483,
+            "637": 9326
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3216,
+      "county": "St. Croix",
+      "fips": "55109",
+      "estimated_votes": {
+        "estimated_votes_low": 27711,
+        "estimated_votes_mid": 30482,
+        "estimated_votes_high": 34640
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 18006,
+        "637": 9707
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 719,
+          "vcu": "St. Croix",
+          "fips": "55109",
+          "estimated_votes": {
+            "estimated_votes_low": 27711,
+            "estimated_votes_mid": 30482,
+            "estimated_votes_high": 34640
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 18006,
+            "637": 9707
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3217,
+      "county": "Taylor",
+      "fips": "55119",
+      "estimated_votes": {
+        "estimated_votes_low": 5399,
+        "estimated_votes_mid": 5566,
+        "estimated_votes_high": 5624
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 3686,
+        "637": 1713
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 720,
+          "vcu": "Taylor",
+          "fips": "55119",
+          "estimated_votes": {
+            "estimated_votes_low": 5399,
+            "estimated_votes_mid": 5566,
+            "estimated_votes_high": 5624
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 3686,
+            "637": 1713
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3218,
+      "county": "Trempealeau",
+      "fips": "55121",
+      "estimated_votes": {
+        "estimated_votes_low": 6122,
+        "estimated_votes_mid": 8163,
+        "estimated_votes_high": 10204
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 0,
+        "637": 0
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 721,
+          "vcu": "Trempealeau",
+          "fips": "55121",
+          "estimated_votes": {
+            "estimated_votes_low": 6122,
+            "estimated_votes_mid": 8163,
+            "estimated_votes_high": 10204
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 0,
+            "637": 0
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3219,
+      "county": "Vernon",
+      "fips": "55123",
+      "estimated_votes": {
+        "estimated_votes_low": 9343,
+        "estimated_votes_mid": 9632,
+        "estimated_votes_high": 9732
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 5791,
+        "637": 3552
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 722,
+          "vcu": "Vernon",
+          "fips": "55123",
+          "estimated_votes": {
+            "estimated_votes_low": 9343,
+            "estimated_votes_mid": 9632,
+            "estimated_votes_high": 9732
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 5791,
+            "637": 3552
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3220,
+      "county": "Vilas",
+      "fips": "55125",
+      "estimated_votes": {
+        "estimated_votes_low": 8574,
+        "estimated_votes_mid": 9431,
+        "estimated_votes_high": 10719
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 6041,
+        "637": 2533
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 723,
+          "vcu": "Vilas",
+          "fips": "55125",
+          "estimated_votes": {
+            "estimated_votes_low": 8574,
+            "estimated_votes_mid": 9431,
+            "estimated_votes_high": 10719
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 6041,
+            "637": 2533
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3221,
+      "county": "Walworth",
+      "fips": "55127",
+      "estimated_votes": {
+        "estimated_votes_low": 30081,
+        "estimated_votes_mid": 31011,
+        "estimated_votes_high": 31334
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 21350,
+        "637": 8731
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 724,
+          "vcu": "Walworth",
+          "fips": "55127",
+          "estimated_votes": {
+            "estimated_votes_low": 30081,
+            "estimated_votes_mid": 31011,
+            "estimated_votes_high": 31334
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 21350,
+            "637": 8731
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3222,
+      "county": "Washburn",
+      "fips": "55129",
+      "estimated_votes": {
+        "estimated_votes_low": 3912,
+        "estimated_votes_mid": 5216,
+        "estimated_votes_high": 6519
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 1335,
+        "637": 679
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 725,
+          "vcu": "Washburn",
+          "fips": "55129",
+          "estimated_votes": {
+            "estimated_votes_low": 3912,
+            "estimated_votes_mid": 5216,
+            "estimated_votes_high": 6519
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 1335,
+            "637": 679
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3223,
+      "county": "Washington",
+      "fips": "55131",
+      "estimated_votes": {
+        "estimated_votes_low": 46804,
+        "estimated_votes_mid": 51484,
+        "estimated_votes_high": 60366
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 37617,
+        "637": 12373
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 726,
+          "vcu": "Washington",
+          "fips": "55131",
+          "estimated_votes": {
+            "estimated_votes_low": 46804,
+            "estimated_votes_mid": 51484,
+            "estimated_votes_high": 60366
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 37617,
+            "637": 12373
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3224,
+      "county": "Waukesha",
+      "fips": "55133",
+      "estimated_votes": {
+        "estimated_votes_low": 146579,
+        "estimated_votes_mid": 161237,
+        "estimated_votes_high": 188052
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 109547,
+        "637": 37032
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 727,
+          "vcu": "Waukesha",
+          "fips": "55133",
+          "estimated_votes": {
+            "estimated_votes_low": 146579,
+            "estimated_votes_mid": 161237,
+            "estimated_votes_high": 188052
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 109547,
+            "637": 37032
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3225,
+      "county": "Waupaca",
+      "fips": "55135",
+      "estimated_votes": {
+        "estimated_votes_low": 11279,
+        "estimated_votes_mid": 15039,
+        "estimated_votes_high": 18799
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 6860,
+        "637": 3087
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 728,
+          "vcu": "Waupaca",
+          "fips": "55135",
+          "estimated_votes": {
+            "estimated_votes_low": 11279,
+            "estimated_votes_mid": 15039,
+            "estimated_votes_high": 18799
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 6860,
+            "637": 3087
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3226,
+      "county": "Waushara",
+      "fips": "55137",
+      "estimated_votes": {
+        "estimated_votes_low": 6985,
+        "estimated_votes_mid": 7684,
+        "estimated_votes_high": 9026
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 5113,
+        "637": 2267
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 729,
+          "vcu": "Waushara",
+          "fips": "55137",
+          "estimated_votes": {
+            "estimated_votes_low": 6985,
+            "estimated_votes_mid": 7684,
+            "estimated_votes_high": 9026
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 5113,
+            "637": 2267
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3227,
+      "county": "Winnebago",
+      "fips": "55139",
+      "estimated_votes": {
+        "estimated_votes_low": 44966,
+        "estimated_votes_mid": 49463,
+        "estimated_votes_high": 61080
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 31217,
+        "637": 14770
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 730,
+          "vcu": "Winnebago",
+          "fips": "55139",
+          "estimated_votes": {
+            "estimated_votes_low": 44966,
+            "estimated_votes_mid": 49463,
+            "estimated_votes_high": 61080
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 31217,
+            "637": 14770
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3228,
+      "county": "Wood",
+      "fips": "55141",
+      "estimated_votes": {
+        "estimated_votes_low": 22410,
+        "estimated_votes_mid": 24651,
+        "estimated_votes_high": 28014
+      },
+      "precincts": {
+        "total": 0,
+        "reporting": 0
+      },
+      "votes": {
+        "636": 15310,
+        "637": 7100
+      },
+      "voting_data": {
+        "636": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "637": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 731,
+          "vcu": "Wood",
+          "fips": "55141",
+          "estimated_votes": {
+            "estimated_votes_low": 22410,
+            "estimated_votes_mid": 24651,
+            "estimated_votes_high": 28014
+          },
+          "precincts": {
+            "total": 0,
+            "reporting": 0
+          },
+          "votes": {
+            "636": 15310,
+            "637": 7100
+          },
+          "voting_data": {
+            "636": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "637": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 636,
+      "party_name": "Unaffiliated",
+      "party_id": 11,
+      "first_name": "",
+      "last_name": "Yes",
+      "incumbent": false
+    },
+    {
+      "cand_id": 637,
+      "party_name": "Unaffiliated",
+      "party_id": 11,
+      "first_name": "",
+      "last_name": "No",
+      "incumbent": false
+    }
+  ]
+}

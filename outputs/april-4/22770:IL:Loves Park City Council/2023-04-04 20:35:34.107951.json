@@ -1,0 +1,131 @@
+{
+  "race_id": 22770,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "17",
+  "state_name": "Illinois",
+  "state": "IL",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Loves Park City Council",
+  "district": "Ward 1",
+  "party_id": 0,
+  "party": null,
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T01:15:29.403Z",
+  "race_created": "2023-03-22T15:24:13.863Z",
+  "poll_close_time": "2023-04-04T20:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "48961": 192,
+      "48962": 210
+    },
+    "voting_data": {
+      "48961": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48962": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 7,
+      "reporting": 5
+    },
+    "called_candidates": [],
+    "call_times": [],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 843,
+      "county": "Winnebago",
+      "fips": "17201",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 7,
+        "reporting": 5
+      },
+      "votes": {
+        "48961": 192,
+        "48962": 210
+      },
+      "voting_data": {
+        "48961": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48962": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 2162,
+          "vcu": "Winnebago",
+          "fips": "17201",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 7,
+            "reporting": 5
+          },
+          "votes": {
+            "48961": 192,
+            "48962": 210
+          },
+          "voting_data": {
+            "48961": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48962": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 48961,
+      "party_name": "Independent",
+      "party_id": 3,
+      "first_name": "James",
+      "last_name": "Puckett",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48962,
+      "party_name": "Independent",
+      "party_id": 3,
+      "first_name": "Clint",
+      "last_name": "Little",
+      "incumbent": false
+    }
+  ]
+}

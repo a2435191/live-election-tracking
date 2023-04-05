@@ -1,0 +1,255 @@
+{
+  "race_id": 22745,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "55",
+  "state_name": "Wisconsin",
+  "state": "WI",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Wisconsin Rapids School Board",
+  "district": "",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T02:45:03.350Z",
+  "race_created": "2023-03-21T16:01:20.653Z",
+  "poll_close_time": "2023-04-04T21:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "48896": 5253,
+      "48897": 4236,
+      "48898": 4833,
+      "48899": 3989
+    },
+    "voting_data": {
+      "48896": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48897": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48898": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48899": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 22,
+      "reporting": 20
+    },
+    "called_candidates": [],
+    "call_times": [],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 3205,
+      "county": "Portage",
+      "fips": "55097",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 3,
+        "reporting": 1
+      },
+      "votes": {
+        "48896": 294,
+        "48897": 253,
+        "48898": 240,
+        "48899": 286
+      },
+      "voting_data": {
+        "48896": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48897": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48898": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48899": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 709,
+          "vcu": "Portage",
+          "fips": "55097",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 3,
+            "reporting": 1
+          },
+          "votes": {
+            "48896": 294,
+            "48897": 253,
+            "48898": 240,
+            "48899": 286
+          },
+          "voting_data": {
+            "48896": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48897": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48898": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48899": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3228,
+      "county": "Wood",
+      "fips": "55141",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 19,
+        "reporting": 19
+      },
+      "votes": {
+        "48896": 4959,
+        "48897": 3983,
+        "48898": 4593,
+        "48899": 3703
+      },
+      "voting_data": {
+        "48896": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48897": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48898": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48899": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 731,
+          "vcu": "Wood",
+          "fips": "55141",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 19,
+            "reporting": 19
+          },
+          "votes": {
+            "48896": 4959,
+            "48897": 3983,
+            "48898": 4593,
+            "48899": 3703
+          },
+          "voting_data": {
+            "48896": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48897": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48898": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48899": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 48896,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Kathi",
+      "last_name": "Stebbins-Hintz",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48897,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Mike",
+      "last_name": "Derrie",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48898,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "John",
+      "last_name": "Krings",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48899,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Christopher",
+      "last_name": "Inda",
+      "incumbent": false
+    }
+  ]
+}

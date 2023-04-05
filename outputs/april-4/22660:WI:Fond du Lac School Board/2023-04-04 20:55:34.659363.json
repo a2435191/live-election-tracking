@@ -1,0 +1,184 @@
+{
+  "race_id": 22660,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "55",
+  "state_name": "Wisconsin",
+  "state": "WI",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Fond du Lac School Board",
+  "district": "",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "true",
+  "last_updated": "2023-04-05T01:55:28.311Z",
+  "race_created": "2023-03-16T18:32:18.697Z",
+  "poll_close_time": "2023-04-04T21:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "48714": 4333,
+      "48715": 6803,
+      "48716": 5214,
+      "48717": 40414
+    },
+    "voting_data": {
+      "48714": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48715": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48716": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48717": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 27,
+      "reporting": 0
+    },
+    "called_candidates": [],
+    "call_times": [],
+    "advancing_candidates": [
+      48717
+    ],
+    "advance_times": [
+      {
+        "cand_id": 48717,
+        "called_time": "2023-04-05T01:55:28.000Z"
+      }
+    ]
+  },
+  "counties": [
+    {
+      "id": 3175,
+      "county": "Fond du Lac",
+      "fips": "55039",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 27,
+        "reporting": 0
+      },
+      "votes": {
+        "48714": 4333,
+        "48715": 6803,
+        "48716": 5214,
+        "48717": 40414
+      },
+      "voting_data": {
+        "48714": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48715": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48716": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48717": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 679,
+          "vcu": "Fond du Lac",
+          "fips": "55039",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 27,
+            "reporting": 0
+          },
+          "votes": {
+            "48714": 4333,
+            "48715": 6803,
+            "48716": 5214,
+            "48717": 40414
+          },
+          "voting_data": {
+            "48714": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48715": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48716": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48717": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 48714,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Richard",
+      "last_name": "Gedemer",
+      "incumbent": true
+    },
+    {
+      "cand_id": 48715,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Katie",
+      "last_name": "Moder",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48716,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Joan",
+      "last_name": "Pennau",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48717,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Andrea",
+      "last_name": "Schultz",
+      "incumbent": true
+    }
+  ]
+}

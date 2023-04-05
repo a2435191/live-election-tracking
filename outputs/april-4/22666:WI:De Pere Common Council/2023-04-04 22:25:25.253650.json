@@ -1,0 +1,131 @@
+{
+  "race_id": 22666,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "55",
+  "state_name": "Wisconsin",
+  "state": "WI",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "De Pere Common Council",
+  "district": "1",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T03:25:18.923Z",
+  "race_created": "2023-03-20T13:05:21.759Z",
+  "poll_close_time": "2023-04-04T21:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "48724": 534,
+      "48725": 1639
+    },
+    "voting_data": {
+      "48724": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48725": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 1,
+      "reporting": 1
+    },
+    "called_candidates": [],
+    "call_times": [],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 3160,
+      "county": "Brown",
+      "fips": "55009",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 1,
+        "reporting": 1
+      },
+      "votes": {
+        "48724": 534,
+        "48725": 1639
+      },
+      "voting_data": {
+        "48724": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48725": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 664,
+          "vcu": "Brown",
+          "fips": "55009",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 1,
+            "reporting": 1
+          },
+          "votes": {
+            "48724": 534,
+            "48725": 1639
+          },
+          "voting_data": {
+            "48724": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48725": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 48724,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Phil",
+      "last_name": "Collins",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48725,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Amy",
+      "last_name": "Chandik Kundinger",
+      "incumbent": true
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "race_id": 22688,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "55",
+  "state_name": "Wisconsin",
+  "state": "WI",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Wood County Circuit Court Judge",
+  "district": "Branch 4",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T01:41:43.903Z",
+  "race_created": "2023-03-20T15:45:43.580Z",
+  "poll_close_time": "2023-04-04T21:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "48779": 12224,
+      "48780": 8714
+    },
+    "voting_data": {
+      "48779": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48780": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 50,
+      "reporting": 46
+    },
+    "called_candidates": [],
+    "call_times": [],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 3228,
+      "county": "Wood",
+      "fips": "55141",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 50,
+        "reporting": 46
+      },
+      "votes": {
+        "48779": 12224,
+        "48780": 8714
+      },
+      "voting_data": {
+        "48779": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48780": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 731,
+          "vcu": "Wood",
+          "fips": "55141",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 50,
+            "reporting": 46
+          },
+          "votes": {
+            "48779": 12224,
+            "48780": 8714
+          },
+          "voting_data": {
+            "48779": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48780": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 48779,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Timothy",
+      "last_name": "Gebert",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48780,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Craig",
+      "last_name": "Lambert",
+      "incumbent": false
+    }
+  ]
+}

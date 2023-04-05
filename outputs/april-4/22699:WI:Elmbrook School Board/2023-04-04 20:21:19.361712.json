@@ -1,0 +1,131 @@
+{
+  "race_id": 22699,
+  "test_data": "false",
+  "year": 2023,
+  "state_fips": "55",
+  "state_name": "Wisconsin",
+  "state": "WI",
+  "ecvotes": null,
+  "election_type_id": 1,
+  "name": "General Election",
+  "race_date": "2023-04-04",
+  "office_id": 25,
+  "office": "Elmbrook School Board",
+  "district": "At-Large",
+  "party_id": 242,
+  "party": "Nonpartisan",
+  "level": "Universal",
+  "advance_candidates": "false",
+  "last_updated": "2023-04-05T01:18:38.257Z",
+  "race_created": "2023-03-20T17:57:06.237Z",
+  "poll_close_time": "2023-04-04T21:00:00.000Z",
+  "marquee_race": "false",
+  "abev_expected": "false",
+  "topline_results": {
+    "votes": {
+      "48789": 854,
+      "48790": 814
+    },
+    "voting_data": {
+      "48789": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      },
+      "48790": {
+        "absentee_ballots_early_votes": 0,
+        "election_day_votes": 0
+      }
+    },
+    "estimated_votes": {
+      "estimated_votes_low": 0,
+      "estimated_votes_mid": 0,
+      "estimated_votes_high": 0
+    },
+    "precincts": {
+      "total": 26,
+      "reporting": 0
+    },
+    "called_candidates": [],
+    "call_times": [],
+    "advancing_candidates": [],
+    "advance_times": []
+  },
+  "counties": [
+    {
+      "id": 3224,
+      "county": "Waukesha",
+      "fips": "55133",
+      "estimated_votes": {
+        "estimated_votes_low": 0,
+        "estimated_votes_mid": 0,
+        "estimated_votes_high": 0
+      },
+      "precincts": {
+        "total": 26,
+        "reporting": 0
+      },
+      "votes": {
+        "48789": 854,
+        "48790": 814
+      },
+      "voting_data": {
+        "48789": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        },
+        "48790": {
+          "absentee_ballots_early_votes": 0,
+          "election_day_votes": 0
+        }
+      },
+      "vcus": [
+        {
+          "id": 727,
+          "vcu": "Waukesha",
+          "fips": "55133",
+          "estimated_votes": {
+            "estimated_votes_low": 0,
+            "estimated_votes_mid": 0,
+            "estimated_votes_high": 0
+          },
+          "precincts": {
+            "total": 26,
+            "reporting": 0
+          },
+          "votes": {
+            "48789": 854,
+            "48790": 814
+          },
+          "voting_data": {
+            "48789": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            },
+            "48790": {
+              "absentee_ballots_early_votes": 0,
+              "election_day_votes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "cand_id": 48789,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "David",
+      "last_name": "Irwin",
+      "incumbent": false
+    },
+    {
+      "cand_id": 48790,
+      "party_name": "Nonpartisan",
+      "party_id": 242,
+      "first_name": "Sam",
+      "last_name": "Hughes",
+      "incumbent": false
+    }
+  ]
+}
